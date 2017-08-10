@@ -327,7 +327,24 @@ function onButtonClick() {
   // Add this to a button's onclick handler
   FB.AppEvents.logEvent("sentFriendRequest");
 }
-    
+    <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '680069178869019',
+      xfbml      : true,
+      version    : 'v2.10'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
 	<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
 	<script type="text/javascript">
 		require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us16.list-manage.com","uuid":"0928ff925e1fd1a1ac0db403a","lid":"cf6ca2f194"}) })
@@ -692,21 +709,21 @@ function onButtonClick() {
 						        <li class="mh-custom-posts-item mh-custom-posts-large clearfix post-22 post type-post status-publish format-standard has-post-thumbnail category-world-news tag-news tag-soldiers tag-training">
 									<div class="mh-custom-posts-large-inner clearfix">
 										<figure class="mh-custom-posts-thumb-xl">
-											<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="muoi-trong-nuoi-trong-thuy-san" title="Muối trong nuôi trồng thủy sản"><img width="326" height="245" src="/img/muoi-bien2.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
-													alt="Soldiers Runners" srcset="/img/muoi-bien2.jpg 326w, /img/muoi-bien2.jpg 678w, /img/muoi-bien2.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
+											<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="tinh-khang-khang-sinh-co-toc-do-lay-lan-nhanh-giua-cac-loai-vi-khuan" title="Tính kháng kháng sinh có tốc độ lây lan nhanh giữa các loài vi khuẩn"><img width="326" height="245" src="/img/vi-khuan3.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+													alt="Soldiers Runners" srcset="/img/vi-khuan3.jpg 326w, /img/vi-khuan3.jpg 678w, /img/vi-khuan3.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
 												/> </a>
 										</figure>
 										<div class="mh-custom-posts-content">
 											<div class="mh-custom-posts-header">
 												<h3 class="mh-custom-posts-xl-title">
-													<a href="/muoi-trong-nuoi-trong-thuy-san" title="Muối trong nuôi trồng thủy sản">
-														Muối trong nuôi trồng thủy sản </a>
+													<a href="/tinh-khang-khang-sinh-co-toc-do-lay-lan-nhanh-giua-cac-loai-vi-khuan" title="Tính kháng kháng sinh có tốc độ lây lan nhanh giữa các loài vi khuẩn">
+														Tính kháng kháng sinh có tốc độ lây lan nhanh giữa các loài vi khuẩn </a>
 												</h3>
-												<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/muoi-trong-nuoi-trong-thuy-san">11 08 2017</a></span>							
+												<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/tinh-khang-khang-sinh-co-toc-do-lay-lan-nhanh-giua-cac-loai-vi-khuan">11 08 2017</a></span>							
 						                        </div>
 											</div>
-											<div class="mh-excerpt">Muối NaCl có nhiều công dụng trong nuôi trồng thủy sản như hạn chế một số động vật kí sinh, giảm thiểu rối loạn điều hòa áp suất thẩm thấu t
-												<a class="mh-excerpt-more" href="/muoi-trong-nuoi-trong-thuy-san" title="Muối trong nuôi trồng thủy sản">[...]</a>
+											<div class="mh-excerpt">Phần DNA quy định tính kháng kháng sinh của vi khuẩn, là bậc thầy trong di chuyển giữa các loài khác nhau và thích ứng rộng rãi ở các chủng, nghiên cứu bởi nhóm nghiên cứu tại trường đại học Gothenburg hợp tác với đại học kỹ thuật Chalmers.
+												<a class="mh-excerpt-more" href="/tinh-khang-khang-sinh-co-toc-do-lay-lan-nhanh-giua-cac-loai-vi-khuan" title="Tính kháng kháng sinh có tốc độ lây lan nhanh giữa các loài vi khuẩn">[...]</a>
 											</div>
 										</div>
 									</div>
@@ -730,16 +747,16 @@ function onButtonClick() {
 								          <!-- BAO: Hien 2 thi bai viet tiep theo trong first 3 -->
 								<li class="mh-custom-posts-item mh-custom-posts-small clearfix post-58 post type-post status-publish format-standard has-post-thumbnail category-sport tag-freestyle tag-lifestyle tag-sport">
 									<figure class="mh-custom-posts-thumb">
-										<a class="mh-thumb-icon mh-thumb-icon-small" href="/tinh-khang-khang-sinh-co-toc-do-lay-lan-nhanh-giua-cac-loai-vi-khuan" title="Tính kháng kháng sinh có tốc độ lây lan nhanh giữa các loài vi khuẩn"><img width="80" height="60" src="/img/vi-khuan3.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
-												alt="Glacier Sport" srcset="/img/vi-khuan3.jpg 80w, /img/vi-khuan3.jpg 300w, /img/vi-khuan3.jpg 768w, /img/vi-khuan3.jpg 1024w, /img/vi-khuan3.jpg 678w, /img/vi-khuan3.jpg 326w, /img/vi-khuan3.jpg 1280w"
+										<a class="mh-thumb-icon mh-thumb-icon-small" href="/muoi-trong-nuoi-trong-thuy-san" title="Muối trong nuôi trồng thủy sản"><img width="80" height="60" src="/img/muoi-bien2.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
+												alt="Glacier Sport" srcset="/img/muoi-bien2.jpg 80w, /img/muoi-bien2.jpg 300w, /img/muoi-bien2.jpg 768w, /img/muoi-bien2.jpg 1024w, /img/muoi-bien2.jpg 678w, /img/muoi-bien2.jpg 326w, /img/muoi-bien2.jpg 1280w"
 												sizes="(max-width: 80px) 100vw, 80px" /> </a>
 									</figure>
 									<div class="mh-custom-posts-header">
 										<div class="mh-custom-posts-small-title">
-											<a href="/tinh-khang-khang-sinh-co-toc-do-lay-lan-nhanh-giua-cac-loai-vi-khuan" title="Tính kháng kháng sinh có tốc độ lây lan nhanh giữa các loài vi khuẩn">
-												Tính kháng kháng sinh có tốc độ lây lan nhanh giữa các loài vi khuẩn </a>
+											<a href="/muoi-trong-nuoi-trong-thuy-san" title="Muối trong nuôi trồng thủy sản">
+												Muối trong nuôi trồng thủy sản </a>
 										</div>
-										<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/tinh-khang-khang-sinh-co-toc-do-lay-lan-nhanh-giua-cac-loai-vi-khuan">11 08 2017</a></span>					
+										<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/muoi-trong-nuoi-trong-thuy-san">11 08 2017</a></span>					
 						                </div>
 									</div>
 								</li>
@@ -1240,9 +1257,9 @@ By accessing and/or using this code snippet, you agree to AccuWeather’s terms 
 			</li>
 			  
 			<li class="mh-nip-item post-119 post type-post status-publish format-standard has-post-thumbnail category-science tag-iphone tag-science tag-technology">
-				<a class="mh-thumb-icon mh-thumb-icon-small" href="/dong-vi-khuan-v-harveyi-moi-khong-phat-sang-va-co-doc-luc-cao-gay-benh-trang-duoi-tren-tom-the-chan-trang"
-					title="Dòng vi khuẩn V. harveyi mới: Không phát sáng và có độc lực cao gây bệnh trắng đuôi trên tôm thẻ chân trắng"> <img width="112" height="92" src="/img/tom-benh-duc-co.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
-						alt="Dòng vi khuẩn V. harveyi mới: Không phát sáng và có độc lực cao gây bệnh trắng đuôi trên tôm thẻ chân trắng" srcset="/img/tom-benh-duc-co.jpg 80w, /img/tom-benh-duc-co.jpg 678w, /img/tom-benh-duc-co.jpg 326w"
+				<a class="mh-thumb-icon mh-thumb-icon-small" href="/nhu-cau-protein-cho-tom-the-chan-trang-nuoi-trong-mo-hinh-ban-tham-canh-va-biofloc"
+					title="Nhu cầu protein cho tôm thẻ chân trắng nuôi trong mô hình bán thâm canh và biofloc"> <img width="112" height="92" src="/img/tom-dep2.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
+						alt="Nhu cầu protein cho tôm thẻ chân trắng nuôi trong mô hình bán thâm canh và biofloc" srcset="/img/tom-dep2.jpg 80w, /img/tom-dep2.jpg 678w, /img/tom-dep2.jpg 326w"
 						sizes="(max-width: 80px) 120vw, 100px" />
 					<div class="mh-nip-overlay"></div>
 					</a>
@@ -1258,9 +1275,9 @@ By accessing and/or using this code snippet, you agree to AccuWeather’s terms 
 			</li>
 			  
 			<li class="mh-nip-item post-119 post type-post status-publish format-standard has-post-thumbnail category-science tag-iphone tag-science tag-technology">
-				<a class="mh-thumb-icon mh-thumb-icon-small" href="/nhu-cau-protein-cho-tom-the-chan-trang-nuoi-trong-mo-hinh-ban-tham-canh-va-biofloc"
-					title="Nhu cầu protein cho tôm thẻ chân trắng nuôi trong mô hình bán thâm canh và biofloc"> <img width="112" height="92" src="/img/tom-dep2.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
-						alt="Nhu cầu protein cho tôm thẻ chân trắng nuôi trong mô hình bán thâm canh và biofloc" srcset="/img/tom-dep2.jpg 80w, /img/tom-dep2.jpg 678w, /img/tom-dep2.jpg 326w"
+				<a class="mh-thumb-icon mh-thumb-icon-small" href="/dong-vi-khuan-v-harveyi-moi-khong-phat-sang-va-co-doc-luc-cao-gay-benh-trang-duoi-tren-tom-the-chan-trang"
+					title="Dòng vi khuẩn V. harveyi mới: Không phát sáng và có độc lực cao gây bệnh trắng đuôi trên tôm thẻ chân trắng"> <img width="112" height="92" src="/img/tom-benh-duc-co.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
+						alt="Dòng vi khuẩn V. harveyi mới: Không phát sáng và có độc lực cao gây bệnh trắng đuôi trên tôm thẻ chân trắng" srcset="/img/tom-benh-duc-co.jpg 80w, /img/tom-benh-duc-co.jpg 678w, /img/tom-benh-duc-co.jpg 326w"
 						sizes="(max-width: 80px) 120vw, 100px" />
 					<div class="mh-nip-overlay"></div>
 					</a>
