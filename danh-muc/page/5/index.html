@@ -381,6 +381,28 @@
 	if(checkCtrl){ 
 	if(event.keyCode==&#39;85&#39;){ return false; } } })
 	</script>
+	<style>
+	body{
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+	}
+	</style><script type=”text/JavaScript”>
+	function killCopy(e){
+	return false
+	}
+	function reEnable(){
+	return true
+	}
+	document.onselectstart=new Function (“return false”)
+	if (window.sidebar){
+	document.onmousedown=killCopy
+	document.onclick=reEnable
+	}
+	</script>
 			</header>	<div class="mh-wrapper mh-home clearfix">
 		<div class="mh-main mh-home-main">
 			<div class="mh-home-columns clearfix">
@@ -395,23 +417,49 @@
                       thì sử dụng pagination thay cho (lookupCategory AllCategory 'ten' 'files') -->
 					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
 						<figure class="mh-posts-list-thumb">
-							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/bao-giat-cap-15-di-chuyen-nhanh-ve-bo-bien-khanh-hoa-ninh-thuan"><img width="326" height="245" src="/img/bao21hok_IXGC.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
-									alt="White House" srcset="/img/bao21hok_IXGC.jpg 326w, /img/bao21hok_IXGC.jpg 678w, /img/bao21hok_IXGC.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
+							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/can-cong-nghe-moi-cho-ca-tra"><img width="326" height="245" src="/img/nang-chat-ca-tra-xuat-khau.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+									alt="White House" srcset="/img/nang-chat-ca-tra-xuat-khau.jpg 326w, /img/nang-chat-ca-tra-xuat-khau.jpg 678w, /img/nang-chat-ca-tra-xuat-khau.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
 								/> </a>
 							<div class="mh-image-caption mh-posts-list-caption">Tin Tức</div>
 						</figure>
 						<div class="mh-posts-list-content clearfix">
 							<header class="mh-posts-list-header">
 								<h3 class="entry-title mh-posts-list-title">
-									<a href="/bao-giat-cap-15-di-chuyen-nhanh-ve-bo-bien-khanh-hoa-ninh-thuan" title="Bão giật cấp 15 di chuyển nhanh về bờ biển Khánh Hòa Ninh Thuận" rel="bookmark">Bão giật cấp 15 di chuyển nhanh về bờ biển Khánh Hòa Ninh Thuận</a>
+									<a href="/can-cong-nghe-moi-cho-ca-tra" title="Cần công nghệ mới cho cá tra" rel="bookmark">Cần công nghệ mới cho cá tra</a>
 								</h3>
-								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/bao-giat-cap-15-di-chuyen-nhanh-ve-bo-bien-khanh-hoa-ninh-thuan">03 11 2017</a></span>
+								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/can-cong-nghe-moi-cho-ca-tra">03 11 2017</a></span>
 								</div>
 							</header>
 							<div class="mh-posts-list-excerpt clearfix">
 								<div class="mh-excerpt">
-									<p>Đến 19h ngày 3/11, tâm bão cách bờ biển Khánh Hòa-Ninh Thuận khoảng 210km về phía Đông, sức gió mạnh nhất gần tâm bão cấp 11-12, giật cấp 15. Trong 24 giờ tới, vùng nguy hiểm do bão (gió mạnh từ cấp 6 trở lên) trong khoảng 11-15 độ Vĩ Bắc. 
-										<a class="mh-excerpt-more" href="/bao-giat-cap-15-di-chuyen-nhanh-ve-bo-bien-khanh-hoa-ninh-thuan" title="Bão giật cấp 15 di chuyển nhanh về bờ biển Khánh Hòa Ninh Thuận">[&#8230;]</a>
+									<p>ĐBSCL cung cấp khoảng 52% sản lượng thủy sản đánh bắt, gần 67% sản lượng nuôi trồng và chiếm 65% giá trị kim ngạch xuất khẩu thủy sản cả nước.
+										<a class="mh-excerpt-more" href="/can-cong-nghe-moi-cho-ca-tra" title="Cần công nghệ mới cho cá tra">[&#8230;]</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</article>
+					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
+					  
+					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
+						<figure class="mh-posts-list-thumb">
+							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/nuoi-ca-theo-cong-nghe-moi-thu-tien-ty-o-nghe-an"><img width="326" height="245" src="/img/700_stamp_11.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+									alt="White House" srcset="/img/700_stamp_11.jpg 326w, /img/700_stamp_11.jpg 678w, /img/700_stamp_11.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
+								/> </a>
+							<div class="mh-image-caption mh-posts-list-caption">Tin Tức</div>
+						</figure>
+						<div class="mh-posts-list-content clearfix">
+							<header class="mh-posts-list-header">
+								<h3 class="entry-title mh-posts-list-title">
+									<a href="/nuoi-ca-theo-cong-nghe-moi-thu-tien-ty-o-nghe-an" title="Nuôi cá theo công nghệ mới thu tiền tỷ ở Nghệ An" rel="bookmark">Nuôi cá theo công nghệ mới thu tiền tỷ ở Nghệ An</a>
+								</h3>
+								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/nuoi-ca-theo-cong-nghe-moi-thu-tien-ty-o-nghe-an">03 11 2017</a></span>
+								</div>
+							</header>
+							<div class="mh-posts-list-excerpt clearfix">
+								<div class="mh-excerpt">
+									<p>Anh Đậu Đức Kính ở xã Quỳnh Văn là người đầu tiên đưa công nghệ &quot;tạo sông trong ao nuôi cá&quot; đầu tiên ở Quỳnh Lưu. Sau 2 năm xây dựng mô hình, anh có thu nhập ước tiền tỷ.
+										<a class="mh-excerpt-more" href="/nuoi-ca-theo-cong-nghe-moi-thu-tien-ty-o-nghe-an" title="Nuôi cá theo công nghệ mới thu tiền tỷ ở Nghệ An">[&#8230;]</a>
 									</p>
 								</div>
 							</div>
@@ -444,7 +492,13 @@
 						</div>
 					</article>
 					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
-					  
+					 <div id="text-10" class="mh-widget mh-home-11 mh-home-wide widget_text">
+	<div class="textwidget">
+		<div class="mh-ad-spot">
+			<a href="/" target="_blank"><img src="/img/728x93.jpg" alt="Adv thuysan247" /></a>
+		</div>
+	</div>
+</div>   
 					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
 						<figure class="mh-posts-list-thumb">
 							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/12-ngoi-nha-van-bi-co-lap-trong-nuoc-lu-o-phu-yen"><img width="326" height="245" src="/img/ngap_zing_4.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
@@ -470,32 +524,26 @@
 						</div>
 					</article>
 					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
-					 <div id="text-10" class="mh-widget mh-home-11 mh-home-wide widget_text">
-	<div class="textwidget">
-		<div class="mh-ad-spot">
-			<a href="/" target="_blank"><img src="/img/728x93.jpg" alt="Adv thuysan247" /></a>
-		</div>
-	</div>
-</div>   
+					  
 					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
 						<figure class="mh-posts-list-thumb">
-							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/can-cong-nghe-moi-cho-ca-tra"><img width="326" height="245" src="/img/nang-chat-ca-tra-xuat-khau.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
-									alt="White House" srcset="/img/nang-chat-ca-tra-xuat-khau.jpg 326w, /img/nang-chat-ca-tra-xuat-khau.jpg 678w, /img/nang-chat-ca-tra-xuat-khau.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
+							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/bao-giat-cap-15-di-chuyen-nhanh-ve-bo-bien-khanh-hoa-ninh-thuan"><img width="326" height="245" src="/img/bao21hok_IXGC.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+									alt="White House" srcset="/img/bao21hok_IXGC.jpg 326w, /img/bao21hok_IXGC.jpg 678w, /img/bao21hok_IXGC.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
 								/> </a>
 							<div class="mh-image-caption mh-posts-list-caption">Tin Tức</div>
 						</figure>
 						<div class="mh-posts-list-content clearfix">
 							<header class="mh-posts-list-header">
 								<h3 class="entry-title mh-posts-list-title">
-									<a href="/can-cong-nghe-moi-cho-ca-tra" title="Cần công nghệ mới cho cá tra" rel="bookmark">Cần công nghệ mới cho cá tra</a>
+									<a href="/bao-giat-cap-15-di-chuyen-nhanh-ve-bo-bien-khanh-hoa-ninh-thuan" title="Bão giật cấp 15 di chuyển nhanh về bờ biển Khánh Hòa Ninh Thuận" rel="bookmark">Bão giật cấp 15 di chuyển nhanh về bờ biển Khánh Hòa Ninh Thuận</a>
 								</h3>
-								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/can-cong-nghe-moi-cho-ca-tra">03 11 2017</a></span>
+								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/bao-giat-cap-15-di-chuyen-nhanh-ve-bo-bien-khanh-hoa-ninh-thuan">03 11 2017</a></span>
 								</div>
 							</header>
 							<div class="mh-posts-list-excerpt clearfix">
 								<div class="mh-excerpt">
-									<p>ĐBSCL cung cấp khoảng 52% sản lượng thủy sản đánh bắt, gần 67% sản lượng nuôi trồng và chiếm 65% giá trị kim ngạch xuất khẩu thủy sản cả nước.
-										<a class="mh-excerpt-more" href="/can-cong-nghe-moi-cho-ca-tra" title="Cần công nghệ mới cho cá tra">[&#8230;]</a>
+									<p>Đến 19h ngày 3/11, tâm bão cách bờ biển Khánh Hòa-Ninh Thuận khoảng 210km về phía Đông, sức gió mạnh nhất gần tâm bão cấp 11-12, giật cấp 15. Trong 24 giờ tới, vùng nguy hiểm do bão (gió mạnh từ cấp 6 trở lên) trong khoảng 11-15 độ Vĩ Bắc. 
+										<a class="mh-excerpt-more" href="/bao-giat-cap-15-di-chuyen-nhanh-ve-bo-bien-khanh-hoa-ninh-thuan" title="Bão giật cấp 15 di chuyển nhanh về bờ biển Khánh Hòa Ninh Thuận">[&#8230;]</a>
 									</p>
 								</div>
 							</div>
@@ -528,7 +576,13 @@
 						</div>
 					</article>
 					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
-					  
+					  <div id="text-10" class="mh-widget mh-home-11 mh-home-wide widget_text">
+	<div class="textwidget">
+		<div class="mh-ad-spot">
+			<a href="/" target="_blank"><img src="/img/728x93.jpg" alt="Adv thuysan247" /></a>
+		</div>
+	</div>
+</div>  
 					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
 						<figure class="mh-posts-list-thumb">
 							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/bao-so-12-nham-vao-khanh-hoa-ninh-thuan-suc-gio-130-kmh"><img width="326" height="245" src="/img/damray.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
@@ -548,64 +602,6 @@
 								<div class="mh-excerpt">
 									<p>Bão số 12 dự báo mạnh tới cấp 12, vùng ảnh hưởng bao trùm Trung và Nam Bộ. TP.HCM lệnh cấm biển từ rạng sáng 3/11.
 										<a class="mh-excerpt-more" href="/bao-so-12-nham-vao-khanh-hoa-ninh-thuan-suc-gio-130-kmh" title="Bão số 12 nhắm vào Khánh Hòa - Ninh Thuận, sức gió 130 km/h">[&#8230;]</a>
-									</p>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
-					  <div id="text-10" class="mh-widget mh-home-11 mh-home-wide widget_text">
-	<div class="textwidget">
-		<div class="mh-ad-spot">
-			<a href="/" target="_blank"><img src="/img/728x93.jpg" alt="Adv thuysan247" /></a>
-		</div>
-	</div>
-</div>  
-					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
-						<figure class="mh-posts-list-thumb">
-							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/tac-dung-cua-acid-formic"><img width="326" height="245" src="/img/tb_1_20161213_082351.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
-									alt="White House" srcset="/img/tb_1_20161213_082351.jpg 326w, /img/tb_1_20161213_082351.jpg 678w, /img/tb_1_20161213_082351.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
-								/> </a>
-							<div class="mh-image-caption mh-posts-list-caption">Nuôi Tôm</div>
-						</figure>
-						<div class="mh-posts-list-content clearfix">
-							<header class="mh-posts-list-header">
-								<h3 class="entry-title mh-posts-list-title">
-									<a href="/tac-dung-cua-acid-formic" title="Tác dụng của acid formic với tôm" rel="bookmark">Tác dụng của acid formic với tôm</a>
-								</h3>
-								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/tac-dung-cua-acid-formic">01 11 2017</a></span>
-								</div>
-							</header>
-							<div class="mh-posts-list-excerpt clearfix">
-								<div class="mh-excerpt">
-									<p>Acid hữu cơ là sản phẩm tổng hợp tự nhiên của vi sinh vật, được thêm vào thức ăn chăn nuôi để kiểm soát mầm bệnh. Tuy nhiên, vai trò của nó, đặc biệt là acid formic chưa được ứng dụng rộng rãi trong ngành nuôi tôm.
-										<a class="mh-excerpt-more" href="/tac-dung-cua-acid-formic" title="Tác dụng của acid formic với tôm">[&#8230;]</a>
-									</p>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
-					  
-					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
-						<figure class="mh-posts-list-thumb">
-							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/benh-shiv-tren-tom"><img width="326" height="245" src="/img/virus-moi-gay-benh-tren-tom5.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
-									alt="White House" srcset="/img/virus-moi-gay-benh-tren-tom5.jpg 326w, /img/virus-moi-gay-benh-tren-tom5.jpg 678w, /img/virus-moi-gay-benh-tren-tom5.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
-								/> </a>
-							<div class="mh-image-caption mh-posts-list-caption">Nuôi Tôm</div>
-						</figure>
-						<div class="mh-posts-list-content clearfix">
-							<header class="mh-posts-list-header">
-								<h3 class="entry-title mh-posts-list-title">
-									<a href="/benh-shiv-tren-tom" title="Bệnh SHIV trên tôm" rel="bookmark">Bệnh SHIV trên tôm</a>
-								</h3>
-								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/benh-shiv-tren-tom">01 11 2017</a></span>
-								</div>
-							</header>
-							<div class="mh-posts-list-excerpt clearfix">
-								<div class="mh-excerpt">
-									<p>Một loài virút ánh kim như cầu vồng mới được phát hiện gây bệnh nghiêm trọng và tỷ lệ chết cao trên tôm thẻ chân trắng Litopenaeus vannamei ở Chiết Giang, Trung Quốc – đã được xác minh và tạm thời xác định là virút ánh kim tấn công vào tế bào máu ở tôm (SHIV). 
-										<a class="mh-excerpt-more" href="/benh-shiv-tren-tom" title="Bệnh SHIV trên tôm">[&#8230;]</a>
 									</p>
 								</div>
 							</div>
@@ -632,6 +628,32 @@
 								<div class="mh-excerpt">
 									<p>Biofloc được sản xuất từ nước thải của các hoạt động nuôi trồng thuỷ sản có thể được chuyển thành sinh khối khô, sau đó có thể trở thành một nguồn protein tiềm năng trong thức ăn của tôm và cũng làm giảm lượng nước thải cũng như ảnh hưởng của chúng đối với các vùng nước tiếp nhận.
 										<a class="mh-excerpt-more" href="/so-sanh-gia-tri-sinh-hoc-cua-protein-va-lipid-tho-tu-cac-loai-bot-biofloc" title="So sánh giá trị sinh học của protein và lipid thô từ các loại bột biofloc">[&#8230;]</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</article>
+					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
+					  
+					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
+						<figure class="mh-posts-list-thumb">
+							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/benh-shiv-tren-tom"><img width="326" height="245" src="/img/virus-moi-gay-benh-tren-tom5.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+									alt="White House" srcset="/img/virus-moi-gay-benh-tren-tom5.jpg 326w, /img/virus-moi-gay-benh-tren-tom5.jpg 678w, /img/virus-moi-gay-benh-tren-tom5.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
+								/> </a>
+							<div class="mh-image-caption mh-posts-list-caption">Nuôi Tôm</div>
+						</figure>
+						<div class="mh-posts-list-content clearfix">
+							<header class="mh-posts-list-header">
+								<h3 class="entry-title mh-posts-list-title">
+									<a href="/benh-shiv-tren-tom" title="Bệnh SHIV trên tôm" rel="bookmark">Bệnh SHIV trên tôm</a>
+								</h3>
+								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/benh-shiv-tren-tom">01 11 2017</a></span>
+								</div>
+							</header>
+							<div class="mh-posts-list-excerpt clearfix">
+								<div class="mh-excerpt">
+									<p>Một loài virút ánh kim như cầu vồng mới được phát hiện gây bệnh nghiêm trọng và tỷ lệ chết cao trên tôm thẻ chân trắng Litopenaeus vannamei ở Chiết Giang, Trung Quốc – đã được xác minh và tạm thời xác định là virút ánh kim tấn công vào tế bào máu ở tôm (SHIV). 
+										<a class="mh-excerpt-more" href="/benh-shiv-tren-tom" title="Bệnh SHIV trên tôm">[&#8230;]</a>
 									</p>
 								</div>
 							</div>
@@ -726,6 +748,30 @@
 							<li class="mh-custom-posts-item mh-custom-posts-large clearfix post-23 post type-post status-publish format-standard has-post-thumbnail category-world-news tag-news tag-politics tag-protest">
 								<div class="mh-custom-posts-large-inner clearfix">
 									<figure class="mh-custom-posts-thumb-xl">
+										<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/nhung-dieu-can-biet-ve-tao" title="Những điều cần biết về TẢO"><img width="326" height="245" src="/img/nuoc-day-tao.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+												alt="thuysan247" srcset="/img/nuoc-day-tao.jpg 326w, /img/nuoc-day-tao.jpg 300w, /img/nuoc-day-tao.jpg 768w, /img/nuoc-day-tao.jpg 1024w, /img/nuoc-day-tao.jpg 678w, /img/nuoc-day-tao.jpg 80w, /img/nuoc-day-tao.jpg 1280w"
+												sizes="(max-width: 326px) 100vw, 326px" /> </a>
+									</figure>
+									<div class="mh-custom-posts-content">
+										<div class="mh-custom-posts-header">
+											<h3 class="mh-custom-posts-xl-title">
+												<a href="/nhung-dieu-can-biet-ve-tao" title="Những điều cần biết về TẢO">
+													Những điều cần biết về TẢO </a>
+											</h3>
+											<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/nhung-dieu-can-biet-ve-tao">
+				17 11 2017</a></span>
+											</div>
+										</div>
+										<div class="mh-excerpt">Trong ao nuôi thông thường sẽ có các loại tảo có lợi và có hại, sự phát triển quá mạnh của tảo có hại sẽ gây ảnh hưởng rất lớn đối với tôm nuôi...
+											<a class="mh-excerpt-more" href="/nhung-dieu-can-biet-ve-tao" title="Những điều cần biết về TẢO">[...]</a>
+										</div>
+									</div>
+								</div>
+							</li>
+							  
+							<li class="mh-custom-posts-item mh-custom-posts-large clearfix post-23 post type-post status-publish format-standard has-post-thumbnail category-world-news tag-news tag-politics tag-protest">
+								<div class="mh-custom-posts-large-inner clearfix">
+									<figure class="mh-custom-posts-thumb-xl">
 										<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/dom-trang-tren-tom" title="Đốm trắng trên tôm"><img width="326" height="245" src="/img/So-sanh-BWSS-WSSV.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
 												alt="thuysan247" srcset="/img/So-sanh-BWSS-WSSV.jpg 326w, /img/So-sanh-BWSS-WSSV.jpg 300w, /img/So-sanh-BWSS-WSSV.jpg 768w, /img/So-sanh-BWSS-WSSV.jpg 1024w, /img/So-sanh-BWSS-WSSV.jpg 678w, /img/So-sanh-BWSS-WSSV.jpg 80w, /img/So-sanh-BWSS-WSSV.jpg 1280w"
 												sizes="(max-width: 326px) 100vw, 326px" /> </a>
@@ -742,30 +788,6 @@
 										</div>
 										<div class="mh-excerpt">Bài viết tập trung phân tích các bệnh liên quan đến đốm trắng trên cơ thể tôm, để người nuôi có thể phân biết và các cách xử lý chính xác.
 											<a class="mh-excerpt-more" href="/dom-trang-tren-tom" title="Đốm trắng trên tôm">[...]</a>
-										</div>
-									</div>
-								</div>
-							</li>
-							  
-							<li class="mh-custom-posts-item mh-custom-posts-large clearfix post-23 post type-post status-publish format-standard has-post-thumbnail category-world-news tag-news tag-politics tag-protest">
-								<div class="mh-custom-posts-large-inner clearfix">
-									<figure class="mh-custom-posts-thumb-xl">
-										<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/tom-bi-phan-dan" title="Tôm bị phân đàn"><img width="326" height="245" src="/img/Shimp-die-by-ionic-deleption.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
-												alt="thuysan247" srcset="/img/Shimp-die-by-ionic-deleption.jpg 326w, /img/Shimp-die-by-ionic-deleption.jpg 300w, /img/Shimp-die-by-ionic-deleption.jpg 768w, /img/Shimp-die-by-ionic-deleption.jpg 1024w, /img/Shimp-die-by-ionic-deleption.jpg 678w, /img/Shimp-die-by-ionic-deleption.jpg 80w, /img/Shimp-die-by-ionic-deleption.jpg 1280w"
-												sizes="(max-width: 326px) 100vw, 326px" /> </a>
-									</figure>
-									<div class="mh-custom-posts-content">
-										<div class="mh-custom-posts-header">
-											<h3 class="mh-custom-posts-xl-title">
-												<a href="/tom-bi-phan-dan" title="Tôm bị phân đàn">
-													Tôm bị phân đàn </a>
-											</h3>
-											<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/tom-bi-phan-dan">
-				16 11 2017</a></span>
-											</div>
-										</div>
-										<div class="mh-excerpt">Trong nuôi tôm thẻ siêu thâm canh, tôm đồng đều về kích cỡ là điều rất quan trọng, quyết định giá cả khi bán và lợi nhuận thu được sau khi thu hoạch
-											<a class="mh-excerpt-more" href="/tom-bi-phan-dan" title="Tôm bị phân đàn">[...]</a>
 										</div>
 									</div>
 								</div>
@@ -893,16 +915,16 @@
 					</li>
 					  
 					<li class="mh-nip-item post-119 post type-post status-publish format-standard has-post-thumbnail category-science tag-iphone tag-science tag-technology">
-						<a class="mh-thumb-icon mh-thumb-icon-small" href="/gay-mau-tao-ao-tom" title="Gây màu tảo ao tôm"> <img width="112" height="92" src="/img/Bia.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
-								alt="Gây màu tảo ao tôm" srcset="/img/Bia.jpg 80w, /img/Bia.jpg 678w, /img/Bia.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
+						<a class="mh-thumb-icon mh-thumb-icon-small" href="/tom-bi-phan-dan" title="Tôm bị phân đàn"> <img width="112" height="92" src="/img/Shimp-die-by-ionic-deleption.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
+								alt="Tôm bị phân đàn" srcset="/img/Shimp-die-by-ionic-deleption.jpg 80w, /img/Shimp-die-by-ionic-deleption.jpg 678w, /img/Shimp-die-by-ionic-deleption.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
 							/>
 							<div class="mh-nip-overlay"></div>
 						</a>
 					</li>
 					  
 					<li class="mh-nip-item post-119 post type-post status-publish format-standard has-post-thumbnail category-science tag-iphone tag-science tag-technology">
-						<a class="mh-thumb-icon mh-thumb-icon-small" href="/khi-doc-nh3-trong-ao-nuoi-tom" title="Khí độc NH3 trong ao nuôi tôm"> <img width="112" height="92" src="/img/TigerPrawnFarm01.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
-								alt="Khí độc NH3 trong ao nuôi tôm" srcset="/img/TigerPrawnFarm01.jpg 80w, /img/TigerPrawnFarm01.jpg 678w, /img/TigerPrawnFarm01.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
+						<a class="mh-thumb-icon mh-thumb-icon-small" href="/gay-mau-tao-ao-tom" title="Gây màu tảo ao tôm"> <img width="112" height="92" src="/img/Bia.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
+								alt="Gây màu tảo ao tôm" srcset="/img/Bia.jpg 80w, /img/Bia.jpg 678w, /img/Bia.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
 							/>
 							<div class="mh-nip-overlay"></div>
 						</a>
@@ -917,16 +939,8 @@
 					</li>
 					  
 					<li class="mh-nip-item post-119 post type-post status-publish format-standard has-post-thumbnail category-science tag-iphone tag-science tag-technology">
-						<a class="mh-thumb-icon mh-thumb-icon-small" href="/kinh-nghiem-chai-tom-kiem-tra-dinh-ky" title="Kinh nghiệm chài tôm kiểm tra định kỳ"> <img width="112" height="92" src="/img/chai-tom.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
-								alt="Kinh nghiệm chài tôm kiểm tra định kỳ" srcset="/img/chai-tom.jpg 80w, /img/chai-tom.jpg 678w, /img/chai-tom.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
-							/>
-							<div class="mh-nip-overlay"></div>
-						</a>
-					</li>
-					  
-					<li class="mh-nip-item post-119 post type-post status-publish format-standard has-post-thumbnail category-science tag-iphone tag-science tag-technology">
-						<a class="mh-thumb-icon mh-thumb-icon-small" href="/bien-doi-mo-hoc-o-tom-the-chan-trang-bi-do-than" title="Biến đổi mô học ở tôm thẻ chân trắng bị đỏ thân"> <img width="112" height="92" src="/img/hong-than.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
-								alt="Biến đổi mô học ở tôm thẻ chân trắng bị đỏ thân" srcset="/img/hong-than.jpg 80w, /img/hong-than.jpg 678w, /img/hong-than.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
+						<a class="mh-thumb-icon mh-thumb-icon-small" href="/khi-doc-nh3-trong-ao-nuoi-tom" title="Khí độc NH3 trong ao nuôi tôm"> <img width="112" height="92" src="/img/TigerPrawnFarm01.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
+								alt="Khí độc NH3 trong ao nuôi tôm" srcset="/img/TigerPrawnFarm01.jpg 80w, /img/TigerPrawnFarm01.jpg 678w, /img/TigerPrawnFarm01.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
 							/>
 							<div class="mh-nip-overlay"></div>
 						</a>
@@ -941,16 +955,24 @@
 					</li>
 					  
 					<li class="mh-nip-item post-119 post type-post status-publish format-standard has-post-thumbnail category-science tag-iphone tag-science tag-technology">
-						<a class="mh-thumb-icon mh-thumb-icon-small" href="/hoi-chung-chet-som-emsahpnd" title="Hội chứng CHẾT SỚM EMS/AHPND"> <img width="112" height="92" src="/img/Gan-tuy-soi-yi.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
-								alt="Hội chứng CHẾT SỚM EMS/AHPND" srcset="/img/Gan-tuy-soi-yi.jpg 80w, /img/Gan-tuy-soi-yi.jpg 678w, /img/Gan-tuy-soi-yi.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
+						<a class="mh-thumb-icon mh-thumb-icon-small" href="/hoi-chung-phan-trang" title="Hội chứng PHÂN TRẮNG"> <img width="112" height="92" src="/img/Ruot-long.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
+								alt="Hội chứng PHÂN TRẮNG" srcset="/img/Ruot-long.jpg 80w, /img/Ruot-long.jpg 678w, /img/Ruot-long.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
 							/>
 							<div class="mh-nip-overlay"></div>
 						</a>
 					</li>
 					  
 					<li class="mh-nip-item post-119 post type-post status-publish format-standard has-post-thumbnail category-science tag-iphone tag-science tag-technology">
-						<a class="mh-thumb-icon mh-thumb-icon-small" href="/hoi-chung-phan-trang" title="Hội chứng PHÂN TRẮNG"> <img width="112" height="92" src="/img/Ruot-long.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
-								alt="Hội chứng PHÂN TRẮNG" srcset="/img/Ruot-long.jpg 80w, /img/Ruot-long.jpg 678w, /img/Ruot-long.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
+						<a class="mh-thumb-icon mh-thumb-icon-small" href="/bien-doi-mo-hoc-o-tom-the-chan-trang-bi-do-than" title="Biến đổi mô học ở tôm thẻ chân trắng bị đỏ thân"> <img width="112" height="92" src="/img/hong-than.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
+								alt="Biến đổi mô học ở tôm thẻ chân trắng bị đỏ thân" srcset="/img/hong-than.jpg 80w, /img/hong-than.jpg 678w, /img/hong-than.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
+							/>
+							<div class="mh-nip-overlay"></div>
+						</a>
+					</li>
+					  
+					<li class="mh-nip-item post-119 post type-post status-publish format-standard has-post-thumbnail category-science tag-iphone tag-science tag-technology">
+						<a class="mh-thumb-icon mh-thumb-icon-small" href="/kinh-nghiem-chai-tom-kiem-tra-dinh-ky" title="Kinh nghiệm chài tôm kiểm tra định kỳ"> <img width="112" height="92" src="/img/chai-tom.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
+								alt="Kinh nghiệm chài tôm kiểm tra định kỳ" srcset="/img/chai-tom.jpg 80w, /img/chai-tom.jpg 678w, /img/chai-tom.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
 							/>
 							<div class="mh-nip-overlay"></div>
 						</a>
