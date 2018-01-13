@@ -357,53 +357,7 @@
 	    enable_page_level_ads: true
 	  });
 				</script>
-	            <style type='text/css'>
-	body{
-	-webkit-touch-callout: none;
-	-webkit-user-select: none; 
-	-moz-user-select: none; 
-	-ms-user-select: none; 
-	-o-user-select: none;
-	user-select: none;
-	}
-	</style>
-	 <script type='text/javascript'>
-	//<![CDATA[
-	// JavaScript Document
-	var message="NoRightClicking"; function defeatIE() {if (document.all) {(message);return false;}} function defeatNS(e) {if (document.layers||(document.getElementById&&!document.all)) { if (e.which==2||e.which==3) {(message);return false;}}} if (document.layers) {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=defeatNS;} else{document.onmouseup=defeatNS;document.oncontextmenu=defeatIE;} document.oncontextmenu=new Function("return false")
-	//]]>
-	</script>
-	<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js'/> 
-	<script type='text/javascript'>
-	checkCtrl=false $(&#39;*&#39;).keydown(function(e){ 
-	if(e.keyCode==&#39;17&#39;){ checkCtrl=false  } }).keyup(function(ev){ 
-	if(ev.keyCode==&#39;17&#39;){ checkCtrl=false } }).keydown(function(event){ 
-	if(checkCtrl){ 
-	if(event.keyCode==&#39;85&#39;){ return false; } } })
-	</script>
-	<style>
-	body{
-	-webkit-touch-callout: none;
-	-webkit-user-select: none;
-	-moz-user-select: none;
-	-ms-user-select: none;
-	-o-user-select: none;
-	user-select: none;
-	}
-	</style><script type=”text/JavaScript”>
-	function killCopy(e){
-	return false
-	}
-	function reEnable(){
-	return true
-	}
-	document.onselectstart=new Function (“return false”)
-	if (window.sidebar){
-	document.onmousedown=killCopy
-	document.onclick=reEnable
-	}
-	</script>
-	
+	           
 			</header>	<div class="mh-wrapper mh-home clearfix">
 		<div class="mh-main mh-home-main">
 			<div class="mh-home-columns clearfix">
@@ -416,6 +370,32 @@
 					</header>
 					<!-- BAO: nếu đang ở layout,  xxx(tintuc).category.html, 
                       thì sử dụng pagination thay cho (lookupCategory AllCategory 'ten' 'files') -->
+					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
+						<figure class="mh-posts-list-thumb">
+							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/lam-mua-lam-gio-tren-the-gioi-nhung-ca-tra-lai-kho-vao-mam-com-nguoi-viet"><img width="326" height="245" src="/img/anh_ca_tra_TBGI.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+									alt="White House" srcset="/img/anh_ca_tra_TBGI.jpg 326w, /img/anh_ca_tra_TBGI.jpg 678w, /img/anh_ca_tra_TBGI.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
+								/> </a>
+							<div class="mh-image-caption mh-posts-list-caption">Tin Tức</div>
+						</figure>
+						<div class="mh-posts-list-content clearfix">
+							<header class="mh-posts-list-header">
+								<h3 class="entry-title mh-posts-list-title">
+									<a href="/lam-mua-lam-gio-tren-the-gioi-nhung-ca-tra-lai-kho-vao-mam-com-nguoi-viet" title="“Làm mưa làm gió” trên thế giới nhưng cá tra lại khó vào mâm cơm người Việt" rel="bookmark">“Làm mưa làm gió” trên thế giới nhưng cá tra lại khó vào mâm cơm người Việt</a>
+								</h3>
+								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/lam-mua-lam-gio-tren-the-gioi-nhung-ca-tra-lai-kho-vao-mam-com-nguoi-viet">04 10 2017</a></span>
+								</div>
+							</header>
+							<div class="mh-posts-list-excerpt clearfix">
+								<div class="mh-excerpt">
+									<p>Cá tra hiện đã đáp ứng các tiêu chuẩn chứng chỉ quốc tế và đã có mặt tại 140 quốc gia và vùng lãnh thổ nhưng lại chưa tự tin để tới mâm cơm với người tiêu dùng nội địa, nhất là khu vực phía Bắc.
+										<a class="mh-excerpt-more" href="/lam-mua-lam-gio-tren-the-gioi-nhung-ca-tra-lai-kho-vao-mam-com-nguoi-viet" title="“Làm mưa làm gió” trên thế giới nhưng cá tra lại khó vào mâm cơm người Việt">[&#8230;]</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</article>
+					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
+					  
 					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
 						<figure class="mh-posts-list-thumb">
 							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/bai-hoc-dat-gia-cho-hai-san-xuat-khau-viet-nam"><img width="326" height="245" src="/img/hai-san-viet-nam_KDOR.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
@@ -444,49 +424,23 @@
 					  
 					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
 						<figure class="mh-posts-list-thumb">
-							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/hai-lo-thuoc-tru-sau-ben-bo-dam-nuoi-hon-3-tan-tom-chet-bat-thuong"><img width="326" height="245" src="/img/photo-1-1506850597281.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
-									alt="White House" srcset="/img/photo-1-1506850597281.jpg 326w, /img/photo-1-1506850597281.jpg 678w, /img/photo-1-1506850597281.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
+							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/long-an-hop-tac-nuoi-tom-thang-lon-lai-400-500-trieu-dongao"><img width="326" height="245" src="/img/1_189832.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+									alt="White House" srcset="/img/1_189832.jpg 326w, /img/1_189832.jpg 678w, /img/1_189832.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
 								/> </a>
 							<div class="mh-image-caption mh-posts-list-caption">Tin Tức</div>
 						</figure>
 						<div class="mh-posts-list-content clearfix">
 							<header class="mh-posts-list-header">
 								<h3 class="entry-title mh-posts-list-title">
-									<a href="/hai-lo-thuoc-tru-sau-ben-bo-dam-nuoi-hon-3-tan-tom-chet-bat-thuong" title="Hai lọ thuốc trừ sâu bên bờ đầm nuôi hơn 3 tấn tôm chết bất thường" rel="bookmark">Hai lọ thuốc trừ sâu bên bờ đầm nuôi hơn 3 tấn tôm chết bất thường</a>
+									<a href="/long-an-hop-tac-nuoi-tom-thang-lon-lai-400-500-trieu-dongao" title="Long An: Hợp tác nuôi tôm thắng lớn, lãi 400 - 500 triệu đồng/ao" rel="bookmark">Long An: Hợp tác nuôi tôm thắng lớn, lãi 400 - 500 triệu đồng/ao</a>
 								</h3>
-								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/hai-lo-thuoc-tru-sau-ben-bo-dam-nuoi-hon-3-tan-tom-chet-bat-thuong">04 10 2017</a></span>
+								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/long-an-hop-tac-nuoi-tom-thang-lon-lai-400-500-trieu-dongao">04 10 2017</a></span>
 								</div>
 							</header>
 							<div class="mh-posts-list-excerpt clearfix">
 								<div class="mh-excerpt">
-									<p>2000m² đầm nuôi tôm của gia đình anh Phạm Đại Quảng bị chết hàng loạt, nghi vấn có sự phá hoại bằng thuốc trừ sâu, cơ quan chức năng đang khẩn trương điều tra, làm rõ.
-										<a class="mh-excerpt-more" href="/hai-lo-thuoc-tru-sau-ben-bo-dam-nuoi-hon-3-tan-tom-chet-bat-thuong" title="Hai lọ thuốc trừ sâu bên bờ đầm nuôi hơn 3 tấn tôm chết bất thường">[&#8230;]</a>
-									</p>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
-					  
-					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
-						<figure class="mh-posts-list-thumb">
-							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/lam-mua-lam-gio-tren-the-gioi-nhung-ca-tra-lai-kho-vao-mam-com-nguoi-viet"><img width="326" height="245" src="/img/anh_ca_tra_TBGI.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
-									alt="White House" srcset="/img/anh_ca_tra_TBGI.jpg 326w, /img/anh_ca_tra_TBGI.jpg 678w, /img/anh_ca_tra_TBGI.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
-								/> </a>
-							<div class="mh-image-caption mh-posts-list-caption">Tin Tức</div>
-						</figure>
-						<div class="mh-posts-list-content clearfix">
-							<header class="mh-posts-list-header">
-								<h3 class="entry-title mh-posts-list-title">
-									<a href="/lam-mua-lam-gio-tren-the-gioi-nhung-ca-tra-lai-kho-vao-mam-com-nguoi-viet" title="“Làm mưa làm gió” trên thế giới nhưng cá tra lại khó vào mâm cơm người Việt" rel="bookmark">“Làm mưa làm gió” trên thế giới nhưng cá tra lại khó vào mâm cơm người Việt</a>
-								</h3>
-								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/lam-mua-lam-gio-tren-the-gioi-nhung-ca-tra-lai-kho-vao-mam-com-nguoi-viet">04 10 2017</a></span>
-								</div>
-							</header>
-							<div class="mh-posts-list-excerpt clearfix">
-								<div class="mh-excerpt">
-									<p>Cá tra hiện đã đáp ứng các tiêu chuẩn chứng chỉ quốc tế và đã có mặt tại 140 quốc gia và vùng lãnh thổ nhưng lại chưa tự tin để tới mâm cơm với người tiêu dùng nội địa, nhất là khu vực phía Bắc.
-										<a class="mh-excerpt-more" href="/lam-mua-lam-gio-tren-the-gioi-nhung-ca-tra-lai-kho-vao-mam-com-nguoi-viet" title="“Làm mưa làm gió” trên thế giới nhưng cá tra lại khó vào mâm cơm người Việt">[&#8230;]</a>
+									<p>Nhờ năng suất đạt cao, khoảng 15 tấn/ha nên cả 2 tổ hợp tác của ấp đều thắng lớn, tổ nào cũng lời mấy tỷ đồng....
+										<a class="mh-excerpt-more" href="/long-an-hop-tac-nuoi-tom-thang-lon-lai-400-500-trieu-dongao" title="Long An: Hợp tác nuôi tôm thắng lớn, lãi 400 - 500 triệu đồng/ao">[&#8230;]</a>
 									</p>
 								</div>
 							</div>
@@ -500,6 +454,32 @@
 		</div>
 	</div>
 </div>   
+					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
+						<figure class="mh-posts-list-thumb">
+							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/ca-mau-doc-suc-giu-mo-hinh-con-tom-om-goc-lua"><img width="326" height="245" src="/img/150658788665940-anh-trong.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+									alt="White House" srcset="/img/150658788665940-anh-trong.jpg 326w, /img/150658788665940-anh-trong.jpg 678w, /img/150658788665940-anh-trong.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
+								/> </a>
+							<div class="mh-image-caption mh-posts-list-caption">Tin Tức</div>
+						</figure>
+						<div class="mh-posts-list-content clearfix">
+							<header class="mh-posts-list-header">
+								<h3 class="entry-title mh-posts-list-title">
+									<a href="/ca-mau-doc-suc-giu-mo-hinh-con-tom-om-goc-lua" title="Cà Mau: Dốc sức giữ mô hình “con tôm ôm gốc lúa”" rel="bookmark">Cà Mau: Dốc sức giữ mô hình “con tôm ôm gốc lúa”</a>
+								</h3>
+								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/ca-mau-doc-suc-giu-mo-hinh-con-tom-om-goc-lua">04 10 2017</a></span>
+								</div>
+							</header>
+							<div class="mh-posts-list-excerpt clearfix">
+								<div class="mh-excerpt">
+									<p>Sản xuất tôm - lúa ở Cà Mau được xem là mô hình nông nghiệp thông minh, đem lại thu nhập cao cho nông dân. Tuy nhiên, theo nhận định của ngành nông nghiệp, trong tương lai bắt buộc phải giảm diện tích do xâm nhập mặn.
+										<a class="mh-excerpt-more" href="/ca-mau-doc-suc-giu-mo-hinh-con-tom-om-goc-lua" title="Cà Mau: Dốc sức giữ mô hình “con tôm ôm gốc lúa”">[&#8230;]</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</article>
+					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
+					  
 					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
 						<figure class="mh-posts-list-thumb">
 							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/can-lam-ro-phuong-an-nuoi-so-huyet-thuc-nghiem-tai-khu-bao-ton-bien"><img width="326" height="245" src="/img/be522fb65c70bbdf54925312af350522.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
@@ -528,30 +508,36 @@
 					  
 					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
 						<figure class="mh-posts-list-thumb">
-							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/lai-khung-nong-dan-bat-chap-xe-rao-nuoi-tom-the-vung-nuoc-ngot"><img width="326" height="245" src="/img/hoanghia-kelp-1480858632874.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
-									alt="White House" srcset="/img/hoanghia-kelp-1480858632874.jpg 326w, /img/hoanghia-kelp-1480858632874.jpg 678w, /img/hoanghia-kelp-1480858632874.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
+							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/kim-ngach-xuat-khau-nong-lam-thuy-san-dat-gan-27-ty-usd"><img width="326" height="245" src="/img/thuy-san-1506467455299.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+									alt="White House" srcset="/img/thuy-san-1506467455299.jpg 326w, /img/thuy-san-1506467455299.jpg 678w, /img/thuy-san-1506467455299.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
 								/> </a>
 							<div class="mh-image-caption mh-posts-list-caption">Tin Tức</div>
 						</figure>
 						<div class="mh-posts-list-content clearfix">
 							<header class="mh-posts-list-header">
 								<h3 class="entry-title mh-posts-list-title">
-									<a href="/lai-khung-nong-dan-bat-chap-xe-rao-nuoi-tom-the-vung-nuoc-ngot" title="Lãi khủng, nông dân bất chấp &#x27;xé rào&#x27; nuôi tôm thẻ vùng nước ngọt" rel="bookmark">Lãi khủng, nông dân bất chấp &#x27;xé rào&#x27; nuôi tôm thẻ vùng nước ngọt</a>
+									<a href="/kim-ngach-xuat-khau-nong-lam-thuy-san-dat-gan-27-ty-usd" title="Kim ngạch xuất khẩu nông lâm thủy sản đạt gần 27 tỷ USD" rel="bookmark">Kim ngạch xuất khẩu nông lâm thủy sản đạt gần 27 tỷ USD</a>
 								</h3>
-								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/lai-khung-nong-dan-bat-chap-xe-rao-nuoi-tom-the-vung-nuoc-ngot">04 10 2017</a></span>
+								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/kim-ngach-xuat-khau-nong-lam-thuy-san-dat-gan-27-ty-usd">03 10 2017</a></span>
 								</div>
 							</header>
 							<div class="mh-posts-list-excerpt clearfix">
 								<div class="mh-excerpt">
-									<p>Nhiều nhà khoa học, quản lý đã cảnh báo về những hậu quả nặng nề khi nuôi tôm thẻ chân trắng (TTCT) trong vùng nước ngọt. Tuy nhiên, do thu lãi cao từ việc nuôi TTCT trong vùng nước ngọt mà một số nông dân đã phớt lờ cảnh báo để “xé rào” nuôi TTCT.
-										<a class="mh-excerpt-more" href="/lai-khung-nong-dan-bat-chap-xe-rao-nuoi-tom-the-vung-nuoc-ngot" title="Lãi khủng, nông dân bất chấp &#x27;xé rào&#x27; nuôi tôm thẻ vùng nước ngọt">[&#8230;]</a>
+									<p>Trong 9 tháng qua, tổng giá trị xuất khẩu các mặt hàng nông lâm thủy sản đã đạt gần 27 tỷ USD.
+										<a class="mh-excerpt-more" href="/kim-ngach-xuat-khau-nong-lam-thuy-san-dat-gan-27-ty-usd" title="Kim ngạch xuất khẩu nông lâm thủy sản đạt gần 27 tỷ USD">[&#8230;]</a>
 									</p>
 								</div>
 							</div>
 						</div>
 					</article>
 					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
-					  
+					  <div id="text-10" class="mh-widget mh-home-11 mh-home-wide widget_text">
+	<div class="textwidget">
+		<div class="mh-ad-spot">
+			<a href="/" target="_blank"><img src="/img/728x93.jpg" alt="Adv thuysan247" /></a>
+		</div>
+	</div>
+</div>  
 					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
 						<figure class="mh-posts-list-thumb">
 							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/nguoi-trong-rong-sun-lo-nang"><img width="326" height="245" src="/img/10-phu-1506867607617.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
@@ -571,38 +557,6 @@
 								<div class="mh-excerpt">
 									<p>Rong sụn từng được ví như &quot;cây xóa đói giảm nghèo&quot; của nhiều người dân ven biển ở tỉnh Ninh Thuận.
 										<a class="mh-excerpt-more" href="/nguoi-trong-rong-sun-lo-nang" title="Người trồng rong sụn lỗ nặng">[&#8230;]</a>
-									</p>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
-					  <div id="text-10" class="mh-widget mh-home-11 mh-home-wide widget_text">
-	<div class="textwidget">
-		<div class="mh-ad-spot">
-			<a href="/" target="_blank"><img src="/img/728x93.jpg" alt="Adv thuysan247" /></a>
-		</div>
-	</div>
-</div>  
-					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
-						<figure class="mh-posts-list-thumb">
-							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/27-mon-an-dac-sac-che-bien-tu-ca-tra-duoc-trinh-dien-tai-hoi-cho"><img width="326" height="245" src="/img/hoi-cho-1.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
-									alt="White House" srcset="/img/hoi-cho-1.jpg 326w, /img/hoi-cho-1.jpg 678w, /img/hoi-cho-1.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
-								/> </a>
-							<div class="mh-image-caption mh-posts-list-caption">Tin Tức</div>
-						</figure>
-						<div class="mh-posts-list-content clearfix">
-							<header class="mh-posts-list-header">
-								<h3 class="entry-title mh-posts-list-title">
-									<a href="/27-mon-an-dac-sac-che-bien-tu-ca-tra-duoc-trinh-dien-tai-hoi-cho" title="27 món ăn đặc sắc chế biến từ cá tra được trình diễn tại hội chợ" rel="bookmark">27 món ăn đặc sắc chế biến từ cá tra được trình diễn tại hội chợ</a>
-								</h3>
-								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/27-mon-an-dac-sac-che-bien-tu-ca-tra-duoc-trinh-dien-tai-hoi-cho">03 10 2017</a></span>
-								</div>
-							</header>
-							<div class="mh-posts-list-excerpt clearfix">
-								<div class="mh-excerpt">
-									<p>Để quảng bá rộng rãi sản phẩm cá tra của Việt Nam đến người tiêu dùng trong nước đặc biệt là phía Bắc từ ngày 6 đến 8/10/2017 Bộ NN-PTNT tổ chức “Hội chợ cá tra và các sản phẩm thủy sản Việt Nam” tại Trung tâm triển lãm nông nghiệp Việt Nam, số 489 Hoàng Quốc Việt, Cầu Giấy, Hà Nội.
-										<a class="mh-excerpt-more" href="/27-mon-an-dac-sac-che-bien-tu-ca-tra-duoc-trinh-dien-tai-hoi-cho" title="27 món ăn đặc sắc chế biến từ cá tra được trình diễn tại hội chợ">[&#8230;]</a>
 									</p>
 								</div>
 							</div>
@@ -638,38 +592,6 @@
 					  
 					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
 						<figure class="mh-posts-list-thumb">
-							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/kim-ngach-xuat-khau-nong-lam-thuy-san-dat-gan-27-ty-usd"><img width="326" height="245" src="/img/thuy-san-1506467455299.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
-									alt="White House" srcset="/img/thuy-san-1506467455299.jpg 326w, /img/thuy-san-1506467455299.jpg 678w, /img/thuy-san-1506467455299.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
-								/> </a>
-							<div class="mh-image-caption mh-posts-list-caption">Tin Tức</div>
-						</figure>
-						<div class="mh-posts-list-content clearfix">
-							<header class="mh-posts-list-header">
-								<h3 class="entry-title mh-posts-list-title">
-									<a href="/kim-ngach-xuat-khau-nong-lam-thuy-san-dat-gan-27-ty-usd" title="Kim ngạch xuất khẩu nông lâm thủy sản đạt gần 27 tỷ USD" rel="bookmark">Kim ngạch xuất khẩu nông lâm thủy sản đạt gần 27 tỷ USD</a>
-								</h3>
-								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/kim-ngach-xuat-khau-nong-lam-thuy-san-dat-gan-27-ty-usd">03 10 2017</a></span>
-								</div>
-							</header>
-							<div class="mh-posts-list-excerpt clearfix">
-								<div class="mh-excerpt">
-									<p>Trong 9 tháng qua, tổng giá trị xuất khẩu các mặt hàng nông lâm thủy sản đã đạt gần 27 tỷ USD.
-										<a class="mh-excerpt-more" href="/kim-ngach-xuat-khau-nong-lam-thuy-san-dat-gan-27-ty-usd" title="Kim ngạch xuất khẩu nông lâm thủy sản đạt gần 27 tỷ USD">[&#8230;]</a>
-									</p>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
-					   <div id="text-10" class="mh-widget mh-home-11 mh-home-wide widget_text">
-	<div class="textwidget">
-		<div class="mh-ad-spot">
-			<a href="/" target="_blank"><img src="/img/728x93.jpg" alt="Adv thuysan247" /></a>
-		</div>
-	</div>
-</div> 
-					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
-						<figure class="mh-posts-list-thumb">
 							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/son-la-phat-trien-manh-nghe-nuoi-ca-long-tren-ho-thuy-dien"><img width="326" height="245" src="/img/nuoi_ca_long_wajv.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
 									alt="White House" srcset="/img/nuoi_ca_long_wajv.jpg 326w, /img/nuoi_ca_long_wajv.jpg 678w, /img/nuoi_ca_long_wajv.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
 								/> </a>
@@ -687,6 +609,38 @@
 								<div class="mh-excerpt">
 									<p>Nông dân huyện Quỳnh Nhai (Sơn La) tận dụng lợi thế diện tích mặt hồ thủy điện, đẩy mạnh phát triển nghề nuôi cá lồng, đời sống kinh tế khởi sắc.
 										<a class="mh-excerpt-more" href="/son-la-phat-trien-manh-nghe-nuoi-ca-long-tren-ho-thuy-dien" title="Sơn La phát triển mạnh nghề nuôi cá lồng trên hồ thủy điện">[&#8230;]</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</article>
+					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
+					   <div id="text-10" class="mh-widget mh-home-11 mh-home-wide widget_text">
+	<div class="textwidget">
+		<div class="mh-ad-spot">
+			<a href="/" target="_blank"><img src="/img/728x93.jpg" alt="Adv thuysan247" /></a>
+		</div>
+	</div>
+</div> 
+					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
+						<figure class="mh-posts-list-thumb">
+							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/27-mon-an-dac-sac-che-bien-tu-ca-tra-duoc-trinh-dien-tai-hoi-cho"><img width="326" height="245" src="/img/hoi-cho-1.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+									alt="White House" srcset="/img/hoi-cho-1.jpg 326w, /img/hoi-cho-1.jpg 678w, /img/hoi-cho-1.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
+								/> </a>
+							<div class="mh-image-caption mh-posts-list-caption">Tin Tức</div>
+						</figure>
+						<div class="mh-posts-list-content clearfix">
+							<header class="mh-posts-list-header">
+								<h3 class="entry-title mh-posts-list-title">
+									<a href="/27-mon-an-dac-sac-che-bien-tu-ca-tra-duoc-trinh-dien-tai-hoi-cho" title="27 món ăn đặc sắc chế biến từ cá tra được trình diễn tại hội chợ" rel="bookmark">27 món ăn đặc sắc chế biến từ cá tra được trình diễn tại hội chợ</a>
+								</h3>
+								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/27-mon-an-dac-sac-che-bien-tu-ca-tra-duoc-trinh-dien-tai-hoi-cho">03 10 2017</a></span>
+								</div>
+							</header>
+							<div class="mh-posts-list-excerpt clearfix">
+								<div class="mh-excerpt">
+									<p>Để quảng bá rộng rãi sản phẩm cá tra của Việt Nam đến người tiêu dùng trong nước đặc biệt là phía Bắc từ ngày 6 đến 8/10/2017 Bộ NN-PTNT tổ chức “Hội chợ cá tra và các sản phẩm thủy sản Việt Nam” tại Trung tâm triển lãm nông nghiệp Việt Nam, số 489 Hoàng Quốc Việt, Cầu Giấy, Hà Nội.
+										<a class="mh-excerpt-more" href="/27-mon-an-dac-sac-che-bien-tu-ca-tra-duoc-trinh-dien-tai-hoi-cho" title="27 món ăn đặc sắc chế biến từ cá tra được trình diễn tại hội chợ">[&#8230;]</a>
 									</p>
 								</div>
 							</div>
@@ -935,16 +889,16 @@
 					</li>
 					  
 					<li class="mh-nip-item post-119 post type-post status-publish format-standard has-post-thumbnail category-science tag-iphone tag-science tag-technology">
-						<a class="mh-thumb-icon mh-thumb-icon-small" href="/he-vi-khuan-tom-nuoi" title="Hệ vi khuẩn tôm nuôi"> <img width="112" height="92" src="/img/thuysan247-1.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
-								alt="Hệ vi khuẩn tôm nuôi" srcset="/img/thuysan247-1.jpg 80w, /img/thuysan247-1.jpg 678w, /img/thuysan247-1.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
+						<a class="mh-thumb-icon mh-thumb-icon-small" href="/san-xuat-thuc-an-thuy-san-cong-nghiep" title="Sản xuất thức ăn thủy sản công nghiệp"> <img width="112" height="92" src="/img/dau-nanh.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
+								alt="Sản xuất thức ăn thủy sản công nghiệp" srcset="/img/dau-nanh.jpg 80w, /img/dau-nanh.jpg 678w, /img/dau-nanh.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
 							/>
 							<div class="mh-nip-overlay"></div>
 						</a>
 					</li>
 					  
 					<li class="mh-nip-item post-119 post type-post status-publish format-standard has-post-thumbnail category-science tag-iphone tag-science tag-technology">
-						<a class="mh-thumb-icon mh-thumb-icon-small" href="/san-xuat-thuc-an-thuy-san-cong-nghiep" title="Sản xuất thức ăn thủy sản công nghiệp"> <img width="112" height="92" src="/img/dau-nanh.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
-								alt="Sản xuất thức ăn thủy sản công nghiệp" srcset="/img/dau-nanh.jpg 80w, /img/dau-nanh.jpg 678w, /img/dau-nanh.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
+						<a class="mh-thumb-icon mh-thumb-icon-small" href="/he-vi-khuan-tom-nuoi" title="Hệ vi khuẩn tôm nuôi"> <img width="112" height="92" src="/img/thuysan247-1.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
+								alt="Hệ vi khuẩn tôm nuôi" srcset="/img/thuysan247-1.jpg 80w, /img/thuysan247-1.jpg 678w, /img/thuysan247-1.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
 							/>
 							<div class="mh-nip-overlay"></div>
 						</a>

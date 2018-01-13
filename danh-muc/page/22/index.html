@@ -357,53 +357,7 @@
 	    enable_page_level_ads: true
 	  });
 				</script>
-	            <style type='text/css'>
-	body{
-	-webkit-touch-callout: none;
-	-webkit-user-select: none; 
-	-moz-user-select: none; 
-	-ms-user-select: none; 
-	-o-user-select: none;
-	user-select: none;
-	}
-	</style>
-	 <script type='text/javascript'>
-	//<![CDATA[
-	// JavaScript Document
-	var message="NoRightClicking"; function defeatIE() {if (document.all) {(message);return false;}} function defeatNS(e) {if (document.layers||(document.getElementById&&!document.all)) { if (e.which==2||e.which==3) {(message);return false;}}} if (document.layers) {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=defeatNS;} else{document.onmouseup=defeatNS;document.oncontextmenu=defeatIE;} document.oncontextmenu=new Function("return false")
-	//]]>
-	</script>
-	<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js'/> 
-	<script type='text/javascript'>
-	checkCtrl=false $(&#39;*&#39;).keydown(function(e){ 
-	if(e.keyCode==&#39;17&#39;){ checkCtrl=false  } }).keyup(function(ev){ 
-	if(ev.keyCode==&#39;17&#39;){ checkCtrl=false } }).keydown(function(event){ 
-	if(checkCtrl){ 
-	if(event.keyCode==&#39;85&#39;){ return false; } } })
-	</script>
-	<style>
-	body{
-	-webkit-touch-callout: none;
-	-webkit-user-select: none;
-	-moz-user-select: none;
-	-ms-user-select: none;
-	-o-user-select: none;
-	user-select: none;
-	}
-	</style><script type=”text/JavaScript”>
-	function killCopy(e){
-	return false
-	}
-	function reEnable(){
-	return true
-	}
-	document.onselectstart=new Function (“return false”)
-	if (window.sidebar){
-	document.onmousedown=killCopy
-	document.onclick=reEnable
-	}
-	</script>
-	
+	           
 			</header>	<div class="mh-wrapper mh-home clearfix">
 		<div class="mh-main mh-home-main">
 			<div class="mh-home-columns clearfix">
@@ -416,6 +370,32 @@
 					</header>
 					<!-- BAO: nếu đang ở layout,  xxx(tintuc).category.html, 
                       thì sử dụng pagination thay cho (lookupCategory AllCategory 'ten' 'files') -->
+					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
+						<figure class="mh-posts-list-thumb">
+							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/ngu-dan-nghe-an-vao-mua-khai-thac-ca-ho-xuat-khau"><img width="326" height="245" src="/img/3_161640.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+									alt="White House" srcset="/img/3_161640.jpg 326w, /img/3_161640.jpg 678w, /img/3_161640.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
+								/> </a>
+							<div class="mh-image-caption mh-posts-list-caption">Tin Tức</div>
+						</figure>
+						<div class="mh-posts-list-content clearfix">
+							<header class="mh-posts-list-header">
+								<h3 class="entry-title mh-posts-list-title">
+									<a href="/ngu-dan-nghe-an-vao-mua-khai-thac-ca-ho-xuat-khau" title="Ngư dân Nghệ An vào mùa khai thác cá hố xuất khẩu" rel="bookmark">Ngư dân Nghệ An vào mùa khai thác cá hố xuất khẩu</a>
+								</h3>
+								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/ngu-dan-nghe-an-vao-mua-khai-thac-ca-ho-xuat-khau">30 09 2017</a></span>
+								</div>
+							</header>
+							<div class="mh-posts-list-excerpt clearfix">
+								<div class="mh-excerpt">
+									<p>Hiện nay, mới vào mùa khai thác cá hố được hơn một tháng nhưng ngư dân Quỳnh Lưu đã thu về sản lượng tương đối lớn, đem lại giá trị kinh tế cao.
+										<a class="mh-excerpt-more" href="/ngu-dan-nghe-an-vao-mua-khai-thac-ca-ho-xuat-khau" title="Ngư dân Nghệ An vào mùa khai thác cá hố xuất khẩu">[&#8230;]</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</article>
+					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
+					  
 					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
 						<figure class="mh-posts-list-thumb">
 							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/suc-song-manh-liet-cua-nguoi-dan-bien-ha-tinh-sau-bao-to"><img width="326" height="245" src="/img/8_114518.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
@@ -435,32 +415,6 @@
 								<div class="mh-excerpt">
 									<p>Bão số 10 vừa đi qua để lại hậu quả rất nặng nề cho ngư dân Hà Tĩnh nói riêng và ngư dân miền Trung nói chung. Nhưng với nỗ lực của cả hệ thống chính trị và người dân. 
 										<a class="mh-excerpt-more" href="/suc-song-manh-liet-cua-nguoi-dan-bien-ha-tinh-sau-bao-to" title="Sức sống mãnh liệt của người dân biển Hà Tĩnh sau bão tố">[&#8230;]</a>
-									</p>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
-					  
-					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
-						<figure class="mh-posts-list-thumb">
-							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/hien-ke-luan-phien-tom-lua-chat-luong-cao-o-dbscl"><img width="326" height="245" src="/img/t18mannong1.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
-									alt="White House" srcset="/img/t18mannong1.jpg 326w, /img/t18mannong1.jpg 678w, /img/t18mannong1.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
-								/> </a>
-							<div class="mh-image-caption mh-posts-list-caption">Tin Tức</div>
-						</figure>
-						<div class="mh-posts-list-content clearfix">
-							<header class="mh-posts-list-header">
-								<h3 class="entry-title mh-posts-list-title">
-									<a href="/hien-ke-luan-phien-tom-lua-chat-luong-cao-o-dbscl" title="Hiến kế luân phiên tôm, lúa chất lượng cao ở ĐBSCL?" rel="bookmark">Hiến kế luân phiên tôm, lúa chất lượng cao ở ĐBSCL?</a>
-								</h3>
-								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/hien-ke-luan-phien-tom-lua-chat-luong-cao-o-dbscl">30 09 2017</a></span>
-								</div>
-							</header>
-							<div class="mh-posts-list-excerpt clearfix">
-								<div class="mh-excerpt">
-									<p>Vụ 3 không trồng lúa mà chuyển sang tôm sú, tôm càng xanh hoặc trồng hoa quả sẽ tăng thu nhập cho bà con nông dân ở ĐBSCL.
-										<a class="mh-excerpt-more" href="/hien-ke-luan-phien-tom-lua-chat-luong-cao-o-dbscl" title="Hiến kế luân phiên tôm, lúa chất lượng cao ở ĐBSCL?">[&#8230;]</a>
 									</p>
 								</div>
 							</div>
@@ -528,32 +482,6 @@
 					  
 					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
 						<figure class="mh-posts-list-thumb">
-							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/cong-ty-tnhh-thuc-an-chan-nuoi-thien-bang-viet-nam"><img width="326" height="245" src="/img/vieclam.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
-									alt="White House" srcset="/img/vieclam.jpg 326w, /img/vieclam.jpg 678w, /img/vieclam.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
-								/> </a>
-							<div class="mh-image-caption mh-posts-list-caption">Việc Làm</div>
-						</figure>
-						<div class="mh-posts-list-content clearfix">
-							<header class="mh-posts-list-header">
-								<h3 class="entry-title mh-posts-list-title">
-									<a href="/cong-ty-tnhh-thuc-an-chan-nuoi-thien-bang-viet-nam" title="CÔNG TY TNHH THỨC ĂN CHĂN NUÔI THIÊN BANG VIỆT NAM" rel="bookmark">CÔNG TY TNHH THỨC ĂN CHĂN NUÔI THIÊN BANG VIỆT NAM</a>
-								</h3>
-								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/cong-ty-tnhh-thuc-an-chan-nuoi-thien-bang-viet-nam">29 09 2017</a></span>
-								</div>
-							</header>
-							<div class="mh-posts-list-excerpt clearfix">
-								<div class="mh-excerpt">
-									<p>
-										<a class="mh-excerpt-more" href="/cong-ty-tnhh-thuc-an-chan-nuoi-thien-bang-viet-nam" title="CÔNG TY TNHH THỨC ĂN CHĂN NUÔI THIÊN BANG VIỆT NAM">[&#8230;]</a>
-									</p>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
-					  
-					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
-						<figure class="mh-posts-list-thumb">
 							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/nguoi-tien-phong-dua-cong-nghe-nuoi-trong-thuy-san-ra-nuoc-ngoai"><img width="326" height="245" src="/img/1_38373.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
 									alt="White House" srcset="/img/1_38373.jpg 326w, /img/1_38373.jpg 678w, /img/1_38373.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
 								/> </a>
@@ -577,13 +505,7 @@
 						</div>
 					</article>
 					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
-					  <div id="text-10" class="mh-widget mh-home-11 mh-home-wide widget_text">
-	<div class="textwidget">
-		<div class="mh-ad-spot">
-			<a href="/" target="_blank"><img src="/img/728x93.jpg" alt="Adv thuysan247" /></a>
-		</div>
-	</div>
-</div>  
+					  
 					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
 						<figure class="mh-posts-list-thumb">
 							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/hiep-hoi-tom-thai-lan-nguon-cung-tom-phuc-hoi-nhung-tang-truong-trong-tuong-lai-se-dat-tung-buoc-mot"><img width="326" height="245" src="/img/tomthailan_1.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
@@ -603,6 +525,38 @@
 								<div class="mh-excerpt">
 									<p>Theo ông Somsak Paneetatayasai, Chủ tịch Hiệp hội Tôm Thái Lan, Thái Lan dự báo sản lượng tôm nuôi trong năm nay sẽ tăng từ 10 đến 20%.
 										<a class="mh-excerpt-more" href="/hiep-hoi-tom-thai-lan-nguon-cung-tom-phuc-hoi-nhung-tang-truong-trong-tuong-lai-se-dat-tung-buoc-mot" title="Hiệp hội Tôm Thái Lan: Nguồn cung tôm phục hồi nhưng tăng trưởng trong tương lai sẽ đạt từng bước một">[&#8230;]</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</article>
+					<!-- Bao: muốn hiện quảng cáo chỗ nào, thì chỉ cần kiểm tra key và hiện ra  -->
+					  <div id="text-10" class="mh-widget mh-home-11 mh-home-wide widget_text">
+	<div class="textwidget">
+		<div class="mh-ad-spot">
+			<a href="/" target="_blank"><img src="/img/728x93.jpg" alt="Adv thuysan247" /></a>
+		</div>
+	</div>
+</div>  
+					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
+						<figure class="mh-posts-list-thumb">
+							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/cong-ty-tnhh-thuc-an-chan-nuoi-thien-bang-viet-nam"><img width="326" height="245" src="/img/vieclam.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+									alt="White House" srcset="/img/vieclam.jpg 326w, /img/vieclam.jpg 678w, /img/vieclam.jpg 80w" sizes="(max-width: 326px) 100vw, 326px"
+								/> </a>
+							<div class="mh-image-caption mh-posts-list-caption">Việc Làm</div>
+						</figure>
+						<div class="mh-posts-list-content clearfix">
+							<header class="mh-posts-list-header">
+								<h3 class="entry-title mh-posts-list-title">
+									<a href="/cong-ty-tnhh-thuc-an-chan-nuoi-thien-bang-viet-nam" title="CÔNG TY TNHH THỨC ĂN CHĂN NUÔI THIÊN BANG VIỆT NAM" rel="bookmark">CÔNG TY TNHH THỨC ĂN CHĂN NUÔI THIÊN BANG VIỆT NAM</a>
+								</h3>
+								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/cong-ty-tnhh-thuc-an-chan-nuoi-thien-bang-viet-nam">29 09 2017</a></span>
+								</div>
+							</header>
+							<div class="mh-posts-list-excerpt clearfix">
+								<div class="mh-excerpt">
+									<p>
+										<a class="mh-excerpt-more" href="/cong-ty-tnhh-thuc-an-chan-nuoi-thien-bang-viet-nam" title="CÔNG TY TNHH THỨC ĂN CHĂN NUÔI THIÊN BANG VIỆT NAM">[&#8230;]</a>
 									</p>
 								</div>
 							</div>
@@ -670,23 +624,23 @@
 </div> 
 					<article class="mh-posts-list-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-world-news tag-capital tag-news tag-politics">
 						<figure class="mh-posts-list-thumb">
-							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/du-an-nuoi-tom-sieu-tham-canh-ket-hop-cong-nghe-cao-biosipec"><img width="326" height="245" src="/img/700x500.png" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
-									alt="White House" srcset="/img/700x500.png 326w, /img/700x500.png 678w, /img/700x500.png 80w" sizes="(max-width: 326px) 100vw, 326px"
+							<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/vi-sinh-hoc-dang-vien-co-hieu-qua-cao-trong-viec-xu-ly-ao-nuoi-tom"><img width="326" height="245" src="/img/pro4000x.png" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+									alt="White House" srcset="/img/pro4000x.png 326w, /img/pro4000x.png 678w, /img/pro4000x.png 80w" sizes="(max-width: 326px) 100vw, 326px"
 								/> </a>
-							<div class="mh-image-caption mh-posts-list-caption">Doanh Nghiệp</div>
+							<div class="mh-image-caption mh-posts-list-caption">Tin Tức</div>
 						</figure>
 						<div class="mh-posts-list-content clearfix">
 							<header class="mh-posts-list-header">
 								<h3 class="entry-title mh-posts-list-title">
-									<a href="/du-an-nuoi-tom-sieu-tham-canh-ket-hop-cong-nghe-cao-biosipec" title="Dự án nuôi tôm siêu thâm canh kết hợp công nghệ cao Biosipec" rel="bookmark">Dự án nuôi tôm siêu thâm canh kết hợp công nghệ cao Biosipec</a>
+									<a href="/vi-sinh-hoc-dang-vien-co-hieu-qua-cao-trong-viec-xu-ly-ao-nuoi-tom" title="Vi sinh  dạng viên có hiệu quả cao trong việc xử lý ao nuôi tôm " rel="bookmark">Vi sinh  dạng viên có hiệu quả cao trong việc xử lý ao nuôi tôm </a>
 								</h3>
-								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/du-an-nuoi-tom-sieu-tham-canh-ket-hop-cong-nghe-cao-biosipec">27 09 2017</a></span>
+								<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/vi-sinh-hoc-dang-vien-co-hieu-qua-cao-trong-viec-xu-ly-ao-nuoi-tom">27 09 2017</a></span>
 								</div>
 							</header>
 							<div class="mh-posts-list-excerpt clearfix">
 								<div class="mh-excerpt">
-									<p>Ngày 22 tháng 09 vừa qua, tại Trung tâm Nghiên cứu &amp; Phát triển Thủy sản của Neovia Việt Nam đã có buổi giới thiệu chính thức về dự án mới nuôi tôm siêu thâm canh kết hợp công nghệ cao – Biosipec với sự có mặt của ông Hubert de Roquefeuil CEO của tập đoàn Neovia, các khách hàng và đối tác chiến lược của Công ty.
-										<a class="mh-excerpt-more" href="/du-an-nuoi-tom-sieu-tham-canh-ket-hop-cong-nghe-cao-biosipec" title="Dự án nuôi tôm siêu thâm canh kết hợp công nghệ cao Biosipec">[&#8230;]</a>
+									<p>AquaIn Tech Inc. (AITI) là tên viết tắt của &quot;Aquaculture Information Technology&quot;, là công ty chuyên cung cấp các sản phẩm và dịch vụ cho ngành công nghiệp nuôi tôm trên thế giới. 
+										<a class="mh-excerpt-more" href="/vi-sinh-hoc-dang-vien-co-hieu-qua-cao-trong-viec-xu-ly-ao-nuoi-tom" title="Vi sinh  dạng viên có hiệu quả cao trong việc xử lý ao nuôi tôm ">[&#8230;]</a>
 									</p>
 								</div>
 							</div>
@@ -935,16 +889,16 @@
 					</li>
 					  
 					<li class="mh-nip-item post-119 post type-post status-publish format-standard has-post-thumbnail category-science tag-iphone tag-science tag-technology">
-						<a class="mh-thumb-icon mh-thumb-icon-small" href="/he-vi-khuan-tom-nuoi" title="Hệ vi khuẩn tôm nuôi"> <img width="112" height="92" src="/img/thuysan247-1.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
-								alt="Hệ vi khuẩn tôm nuôi" srcset="/img/thuysan247-1.jpg 80w, /img/thuysan247-1.jpg 678w, /img/thuysan247-1.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
+						<a class="mh-thumb-icon mh-thumb-icon-small" href="/san-xuat-thuc-an-thuy-san-cong-nghiep" title="Sản xuất thức ăn thủy sản công nghiệp"> <img width="112" height="92" src="/img/dau-nanh.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
+								alt="Sản xuất thức ăn thủy sản công nghiệp" srcset="/img/dau-nanh.jpg 80w, /img/dau-nanh.jpg 678w, /img/dau-nanh.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
 							/>
 							<div class="mh-nip-overlay"></div>
 						</a>
 					</li>
 					  
 					<li class="mh-nip-item post-119 post type-post status-publish format-standard has-post-thumbnail category-science tag-iphone tag-science tag-technology">
-						<a class="mh-thumb-icon mh-thumb-icon-small" href="/san-xuat-thuc-an-thuy-san-cong-nghiep" title="Sản xuất thức ăn thủy sản công nghiệp"> <img width="112" height="92" src="/img/dau-nanh.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
-								alt="Sản xuất thức ăn thủy sản công nghiệp" srcset="/img/dau-nanh.jpg 80w, /img/dau-nanh.jpg 678w, /img/dau-nanh.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
+						<a class="mh-thumb-icon mh-thumb-icon-small" href="/he-vi-khuan-tom-nuoi" title="Hệ vi khuẩn tôm nuôi"> <img width="112" height="92" src="/img/thuysan247-1.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
+								alt="Hệ vi khuẩn tôm nuôi" srcset="/img/thuysan247-1.jpg 80w, /img/thuysan247-1.jpg 678w, /img/thuysan247-1.jpg 326w" sizes="(max-width: 80px) 120vw, 100px"
 							/>
 							<div class="mh-nip-overlay"></div>
 						</a>
