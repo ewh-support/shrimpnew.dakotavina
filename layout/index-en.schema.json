@@ -1,0 +1,109 @@
+{
+    "_$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "title": {
+            "type": "string",
+            "propertyOrder": 0,
+            "options": {
+                "hidden": false
+            }
+        },
+        "slug": {
+            "type": "string",
+            "propertyOrder": 1,
+            "readOnly": true,
+            "options": {
+                "hidden": false
+            }
+        },
+        "layout": {
+            "type": "string",
+            "propertyOrder": 2,
+            "options": {
+                "hidden": true
+            }
+        },
+        "category": {
+            "type": "string",
+            "propertyOrder": 3,
+            "options": {
+                "hidden": false
+            }
+        },
+        "tag": {
+            "type": "array",
+            "format": "checkbox",
+            "propertyOrder": 5,
+            "uniqueItems": true,
+            "items": {
+                "type": "string",
+                "enum": []
+            }
+        },
+        "date": {
+            "type": "string",
+            "format": "datetime",
+            "propertyOrder": 7,
+            "options": {
+                "hidden": false
+            }
+        },
+        "__content__": {
+            "type": "string",
+            "format": "text",
+            "propertyOrder": 8,
+            "options": {
+                "hidden": true
+            }
+        },
+        "publishDate": {
+            "type": "string",
+            "format": "datetime",
+            "propertyOrder": 9,
+            "options": {
+                "hidden": true
+            }
+        },
+        "draft": {
+            "type": "boolean",
+            "format": "checkbox",
+            "propertyOrder": 10,
+            "options": {
+                "hidden": true
+            }
+        },
+        "Anhtieude": {
+            "title": "Ảnh tiêu đề",
+            "description": "",
+            "default": "",
+            "format": "upload",
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
+            "propertyOrder": 6,
+            "minLength": 0,
+            "maxLength": 140,
+            "options": {
+                "hidden": false
+            },
+            "type": "string"
+        },
+        "tieude": {
+            "title": "Tiêu đề",
+            "description": "",
+            "default": "",
+            "format": "text",
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
+            "propertyOrder": 4,
+            "minLength": 0,
+            "maxLength": 140,
+            "options": {
+                "hidden": false
+            },
+            "type": "string"
+        }
+    }
+}

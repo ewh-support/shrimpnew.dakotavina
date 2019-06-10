@@ -1,0 +1,34 @@
+---json
+{
+    "title": "Ngư dân nuôi cá lồng bè bội thu vụ Tết",
+    "slug": "ngu-dan-nuoi-ca-long-be-boi-thu-vu-tet",
+    "layout": "noidung.html",
+    "category": "danh-muc.tin-tuc",
+    "tag": [
+        "tin-tuc"
+    ],
+    "date": "2019-01-27T17:00:00.000Z",
+    "draft": false,
+    "tieude": "",
+    "doan gioi thieu": "",
+    "doangioithieu": "Khoảng nửa tháng trở lại đây, giá các loại thủy sản lồng bè không còn ở mức cao như thời điểm giữa năm 2018. Tuy nhiên, do thời tiết thuận lợi, năng suất cao nên người nuôi vẫn có lãi trong vụ Tết Nguyên đán Kỷ Hợi.",
+    "doan2vach": "",
+    "noidung": "",
+    "trichdan": "thuysanvietnam.com.vn",
+    "Anhtieude": "/img/images1500251_long_be_1.jpg",
+    "tacgia": "Lê Tuyến",
+    "chuthichhinh": "Chăm sóc cá lồng bè tại khu nuôi lồng bè trên sông Chà Và, xã Long Sơn, TP.Vũng Tàu.",
+    "__content__": ""
+}
+---
+<p>Những ng&agrave;y n&agrave;y, tại c&aacute;c bến, tr&ecirc;n c&aacute;c lồng b&egrave; tr&ecirc;n s&ocirc;ng Ch&agrave; V&agrave;, x&atilde; Long Sơn, TP.Vũng T&agrave;u trở n&ecirc;n nhộn nhịp, tấp nập do người nu&ocirc;i thủy sản ở đ&acirc;y bắt đầu xuất h&agrave;ng phục vụ thị trường Tết Nguy&ecirc;n đ&aacute;n. Những chiếc ghe li&ecirc;n tục cập b&egrave; để nhập hải sản, vận chuyển đến nơi ti&ecirc;u thụ. &Ocirc;ng Ho&agrave;ng Văn Thanh đ&atilde; nu&ocirc;i c&aacute; lồng b&egrave; tr&ecirc;n s&ocirc;ng Ch&agrave; V&agrave;, x&atilde; Long Sơn được hơn 5 năm cho biết: &ldquo;Tết lu&ocirc;n l&agrave; thời điểm nhu cầu ti&ecirc;u thụ cao n&ecirc;n đ&acirc;y l&agrave; vụ nu&ocirc;i quan trọng nhất trong năm. So với những năm trước, do từ đầu năm 2018 đến nay gi&aacute; c&aacute;c loại c&aacute; đều ở mức cao n&ecirc;n t&ocirc;i đ&atilde; c&oacute; vốn để thả th&ecirc;m giống c&aacute;c loại c&aacute; bớp, chẽm, chim. Năm nay thời tiết thuận lợi n&ecirc;n c&aacute; ph&aacute;t triển tốt, năng suất cao. Dự kiến, từ đ&acirc;y đến Tết t&ocirc;i sẽ xuất b&aacute;n 20 tấn c&aacute; c&aacute;c loại, thu l&atilde;i khoảng 250 triệu đồng&rdquo;.</p>
+
+<p>Theo nhiều hộ nu&ocirc;i lồng b&egrave;, năm 2018 vừa qua l&agrave; năm nu&ocirc;i lồng b&egrave; th&agrave;nh c&ocirc;ng nhất trong nhiều năm qua. Nguy&ecirc;n nh&acirc;n l&agrave; từ khoảng từ th&aacute;ng 3 đến nay, gi&aacute; c&aacute;c loại thủy sản lồng b&egrave; đ&atilde; tăng cao v&agrave; k&eacute;o d&agrave;i đến cuối năm. Nhờ đ&oacute;, c&aacute;c hộ nu&ocirc;i thu l&atilde;i lớn. Tuy nhi&ecirc;n, theo chị Nguyễn Thị Thanh Nh&agrave;n, người nu&ocirc;i c&aacute; lồng b&egrave; tr&ecirc;n s&ocirc;ng Ch&agrave; V&agrave;, khoảng nửa th&aacute;ng trở lại đ&acirc;y, gi&aacute; một số loại c&aacute; lồng b&egrave; chủ lực giảm nhẹ 5.000 - 7.000 đồng/kg. Cụ thể, c&aacute; bớp loại 5-7kg/con giảm c&ograve;n 170-180 ng&agrave;n đồng/kg, loại 3-4kg/con gi&aacute; 160 ng&agrave;n đồng/kg; c&aacute; chẽm gi&aacute; 90 ng&agrave;n đồng/kg; c&aacute; chim trắng v&acirc;y v&agrave;ng giảm c&ograve;n 140 ng&agrave;n đồng/kg. &ldquo;D&ugrave; đ&atilde; giảm nhẹ nhưng gi&aacute; c&aacute; vẫn ở mức cao hơn nhiều so với năm ngo&aacute;i. Với mức n&agrave;y, người d&acirc;n đ&atilde; c&oacute; thể thu l&atilde;i kh&aacute;. V&agrave;i ng&agrave;y tới, gi&aacute; một số loại c&aacute; c&oacute; thể sẽ tăng th&ecirc;m từ 10-20% n&ecirc;n năm nay c&oacute; thể n&oacute;i l&agrave; vụ nu&ocirc;i th&agrave;nh c&ocirc;ng nhất trong 2,3 năm trở lại đ&acirc;y&rdquo;, chị Nh&agrave;n n&oacute;i.</p>
+
+<p><img src="http://www.baobariavungtau.com.vn/dataimages/201901/original/images1500252_long_be_song_cha_va.jpg" /></p>
+
+<p><em>Vừa qua, UBND tỉnh đ&atilde; th&ocirc;ng qua quy hoạch nu&ocirc;i c&aacute; lồng b&egrave; v&agrave; nhuyễn thể 2 mảnh vỏ tr&ecirc;n địa b&agrave;n tỉnh. Trong ảnh: To&agrave;n cảnh khu nu&ocirc;i thủy sản lồng b&egrave; tr&ecirc;n s&ocirc;ng Ch&agrave; V&agrave;.&nbsp;</em></p>
+
+<p>&Ocirc;ng Nguyễn Hữu Thi, Trưởng ph&ograve;ng Nu&ocirc;i trồng Thủy sản, Chi cục Thủy sản tỉnh cho biết, năm qua, gi&aacute; lồng b&egrave; lu&ocirc;n ở mức cao, nguồn nước, thời tiết lu&ocirc;n ở mức cao n&ecirc;n b&agrave; con kh&aacute; phấn khởi. D&ugrave; đến gần Tết, gi&aacute; một số loại c&aacute; chủ lực, h&agrave;u c&oacute; giảm nhẹ nhưng vẫn đủ để người nu&ocirc;i c&oacute; l&atilde;i kh&aacute;. Theo ước t&iacute;nh, trong th&aacute;ng Tết, người nu&ocirc;i lồng b&egrave; tr&ecirc;n to&agrave;n tỉnh sẽ cung cấp ra thị trường 400 tấn c&aacute; c&aacute;c loại, tăng gấp đ&ocirc;i so với c&aacute;c thời điểm kh&aacute;c trong năm. Tuy nhi&ecirc;n, theo &ocirc;ng Thi, việc gi&aacute; c&aacute;c loại thủy sản nu&ocirc;i lồng b&egrave; tăng cũng k&eacute;o theo nguy cơ b&agrave; con ồ ạt mở rộng diện t&iacute;ch v&agrave; tăng mật độ nu&ocirc;i. Do đ&oacute;, việc khu vực nu&ocirc;i lồng b&egrave; cần được quy hoạch chặt chẽ để bảo đảm sự ổn định về sản lượng, tr&aacute;nh mất c&acirc;n đối cung cầu cũng như &ocirc; nhiễm m&ocirc;i trường l&agrave; hết sức cần thiết. &Ocirc;ng Thi cho biết: &ldquo;Để giải quyết vấn đề tr&ecirc;n, vừa qua, ch&uacute;ng t&ocirc;i đ&atilde; tham mưu UBND tỉnh ph&ecirc; duyệt điều chỉnh, bổ sung bản đồ quy hoạch chi tiết khu nu&ocirc;i lồng b&egrave; v&agrave; nhuyễn thể 2 mảnh vỏ tr&ecirc;n địa b&agrave;n tỉnh đến năm 2020. Theo quy hoạch, BR-VT c&oacute; 3 khu vực nu&ocirc;i lồng b&egrave; ch&iacute;nh l&agrave; s&ocirc;ng Ch&agrave; V&agrave; (thuộc x&atilde; Long Sơn, TP.Vũng T&agrave;u), s&ocirc;ng Dinh (đoạn từ cầu G&ograve; Găng đến cầu Cỏ May, phường 12, TP.Vũng T&agrave;u) v&agrave; s&ocirc;ng Mỏ Nh&aacute;t (TX. Ph&uacute; Mỹ) với tổng diện t&iacute;ch 123,3ha&rdquo;.</p>
+
+<p>Hiện nay Sở NN-PTNT đang tiến h&agrave;nh thực hiện c&ocirc;ng t&aacute;c sắp xếp, di dời c&aacute;c cơ sở lồng b&egrave; v&agrave;o quy hoạch. B&ecirc;n cạnh đ&oacute;, để nghề nu&ocirc;i lồng b&egrave; ph&aacute;t triển ổn định, bền vững, cơ quan chức năng cũng khuyến c&aacute;o b&agrave; con cần ch&uacute; &yacute; đến c&aacute;c vấn đề về nguồn giống, kỹ thuật canh t&aacute;c, bảo vệ m&ocirc;i trường nu&ocirc;i, t&igrave;m hiểu kỹ về thị trường trước khi thả nu&ocirc;i c&aacute;c loại thủy sản lồng b&egrave;. &ldquo;B&ecirc;n cạnh đ&oacute;, hiện nay b&agrave; con chủ yếu b&aacute;n cho c&aacute;c thương l&aacute;i nhỏ lẻ n&ecirc;n c&ograve;n bấp b&ecirc;nh, đ&ocirc;i khi c&ograve;n bị &eacute;p gi&aacute;. Do đ&oacute;, hiện nay, ch&uacute;ng t&ocirc;i đang thực hiện c&aacute;c biện ph&aacute;p để x&acirc;y dựng thương hiệu c&aacute; lồng b&egrave; BR-VT tr&ecirc;n thị trường, để loại đặc sản n&agrave;y của tỉnh c&oacute; thể ph&acirc;n phối trực tiếp v&agrave;o c&aacute;c chợ đầu mối, si&ecirc;u thị. B&agrave; con nu&ocirc;i lồng b&egrave; cũng cần n&ecirc;n lựa chọn giống nu&ocirc;i kỹ c&agrave;ng, &aacute;p dụng khoa học c&ocirc;ng nghệ v&agrave;o sản xuất để n&acirc;ng cao chất lượng, uy t&iacute;n của thủy sản lồng b&egrave; BR-VT tr&ecirc;n thị trường&rdquo;, &ocirc;ng Nguyễn Hữu Thi cho biết th&ecirc;m.</p>

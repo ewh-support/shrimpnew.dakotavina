@@ -1,0 +1,11 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": {},
+    "displayName": "Business",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "category.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

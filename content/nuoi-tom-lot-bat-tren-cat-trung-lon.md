@@ -1,0 +1,36 @@
+---json
+{
+    "title": "Nuôi tôm lót bạt trên cát  trúng lớn ",
+    "slug": "nuoi-tom-lot-bat-tren-cat-trung-lon",
+    "layout": "noidung.html",
+    "category": "danh-muc.tin-tuc",
+    "tag": [
+        "tin-tuc"
+    ],
+    "date": "2019-01-02T17:00:00.000Z",
+    "draft": false,
+    "tieude": "",
+    "doan gioi thieu": "",
+    "doangioithieu": "Các nông hộ nuôi tôm lót bạt trên cát bước vào thu hoạch vụ 3 với niềm vui lớn vì được lãi cao.",
+    "doan2vach": "",
+    "noidung": "",
+    "trichdan": "thuysanvietnam.com.vn",
+    "Anhtieude": "/img/images1493257_TNB_3672.jpg",
+    "tacgia": "Lê Tuyến",
+    "chuthichhinh": "Nông hộ thu hoạch tôm thẻ chân trắng được nuôi bằng hình thức lót bạt trên cát trong vụ 3 này",
+    "__content__": ""
+}
+---
+<p><strong>N&ocirc;ng hộ thu l&atilde;i lớn</strong></p>
+
+<p>Nu&ocirc;i t&ocirc;m thẻ ch&acirc;n trắng tr&ecirc;n c&aacute;t đang bước v&agrave;o kỳ thu hoạch thứ 3. &Ocirc;ng Nguyễn Thanh H&ugrave;ng ở th&ocirc;n Đồng Tr&igrave;, x&atilde; B&igrave;nh Hải (Thăng B&igrave;nh) rất phấn khởi v&igrave; thu được l&atilde;i lớn. Đầu th&aacute;ng 10, gia đ&igrave;nh &ocirc;ng đầu tư nu&ocirc;i 30 vạn con giống t&ocirc;m thẻ ch&acirc;n trắng tr&ecirc;n 3 ao nu&ocirc;i c&oacute; tổng diện t&iacute;ch 6.000m<sup>2</sup>. Sau 3 th&aacute;ng thả nu&ocirc;i, t&ocirc;m ph&aacute;t triển tốt, &ocirc;ng H&ugrave;ng thu được 2,5 tấn t&ocirc;m, b&aacute;n được 400 triệu đồng, l&atilde;i hơn 250 triệu đồng. &ldquo;Đ&acirc;y l&agrave; vụ nu&ocirc;i t&ocirc;m thẻ ch&acirc;n trắng tr&uacute;ng nhất của gia đ&igrave;nh t&ocirc;i. Sợ t&ocirc;m sinh trưởng chậm trong điều kiện thời tiết kh&ocirc;ng thuận lợi n&ecirc;n t&ocirc;i nu&ocirc;i với mật độ tương đối thưa. Sang vụ mới năm 2019, t&ocirc;i nu&ocirc;i t&ocirc;m với mật độ d&agrave;y hơn n&ecirc;n kỳ vọng sẽ thu được năng suất, sản lượng vượt trội, l&atilde;i c&agrave;ng lớn&rdquo; - &ocirc;ng H&ugrave;ng n&oacute;i.</p>
+
+<p>N&ocirc;ng hộ nu&ocirc;i t&ocirc;m bằng h&igrave;nh thức l&oacute;t bạt tr&ecirc;n c&aacute;t ở huyện N&uacute;i Th&agrave;nh cũng đang bước v&agrave;o vụ thu hoạch t&ocirc;m thứ 3. &Ocirc;ng Nguyễn H&agrave;o ở th&ocirc;n H&ograve;a B&igrave;nh, x&atilde; Tam H&ograve;a chia sẻ, nu&ocirc;i t&ocirc;m tr&ecirc;n c&aacute;t quanh năm v&agrave; c&oacute; được niềm vui lớn nhờ được m&ugrave;a lại được gi&aacute;. Ở vụ nu&ocirc;i t&ocirc;m vừa qua, gia đ&igrave;nh &ocirc;ng H&agrave;o đầu tư nu&ocirc;i 50 vạn giống t&ocirc;m thẻ ch&acirc;n trắng tr&ecirc;n diện t&iacute;ch 1ha. Nhờ thường xuy&ecirc;n chăm s&oacute;c t&ocirc;m kỹ c&agrave;ng, &ocirc;ng H&agrave;o kh&ocirc;ng phải xử l&yacute; những t&igrave;nh huống t&ocirc;m bị bệnh, bị sốc m&ocirc;i trường. Thu được 5 tấn t&ocirc;m thương phẩm sau 3 th&aacute;ng nu&ocirc;i, &ocirc;ng H&agrave;o b&aacute;n được hơn 700 triệu đồng, l&atilde;i xấp xỉ 500 triệu đồng. &ldquo;T&ocirc;m thẻ ch&acirc;n trắng rất nhạy cảm n&ecirc;n t&ocirc;i phải xử l&yacute; kỹ nguồn nước. T&ocirc;i chọn mua t&ocirc;m giống Việt &Uacute;c được kiểm dịch tốt d&ugrave; gi&aacute; cao hơn mặt bằng chung. T&ocirc;i lu&ocirc;n bổ sung vitamin, kh&aacute;ng chất, men vi sinh gi&uacute;p t&ocirc;m nu&ocirc;i tăng sức đề kh&aacute;ng, miễn dịch với biến động m&ocirc;i trường, đặc biệt l&agrave; r&eacute;t lạnh k&eacute;o d&agrave;i xem kẽ mưa lớn&rdquo; - &ocirc;ng H&agrave;o n&oacute;i.</p>
+
+<p><strong>Khuyến kh&iacute;ch m&ocirc; h&igrave;nh nu&ocirc;i chất lượng</strong></p>
+
+<p>B&agrave; Phạm Thị Ho&agrave;ng T&acirc;m - Chi cục trưởng Chi cục Thủy sản cho biết, nu&ocirc;i t&ocirc;m tr&ecirc;n c&aacute;t c&oacute; nhiều ưu điểm hơn nu&ocirc;i t&ocirc;m ở v&ugrave;ng triều nhờ hạ tầng v&ugrave;ng nu&ocirc;i đồng bộ, nguồn nước biển đảm bảo chất lượng, hộ nu&ocirc;i đầu tư lớn, c&oacute; tr&aacute;ch nhiệm bảo vệ m&ocirc;i trường chung n&ecirc;n t&ocirc;m nu&ocirc;i sinh trưởng trong điều kiện thuận lợi, lớn nhanh, đạt năng suất, sản lượng cao. Thời điểm n&agrave;y, nguồn cung &iacute;t, gi&aacute; t&ocirc;m thương phẩm đạt cao. &ldquo;Thương l&aacute;i rất kh&oacute; &eacute;p gi&aacute; đối với sản phẩm t&ocirc;m nu&ocirc;i bằng h&igrave;nh thức l&oacute;t bạt tr&ecirc;n c&aacute;t nhờ n&ocirc;ng hộ &aacute;p dụng quy tr&igrave;nh kỹ thuật tốt, kh&ocirc;ng sử dụng kh&aacute;ng sinh, t&ocirc;m chất lượng, an to&agrave;n thực phẩm. Nhiều n&ocirc;ng hộ b&aacute;n t&ocirc;m thương phẩm với gi&aacute; từ 150 ngh&igrave;n đồng/kg trở l&ecirc;n n&ecirc;n gi&aacute; trị kinh tế thu được rất lớn&rdquo; - b&agrave; T&acirc;m n&oacute;i.</p>
+
+<p>Chi cục Thủy sản Quảng Nam khuyến c&aacute;o, sau khi thu hoạch t&ocirc;m nu&ocirc;i vụ 3, n&ocirc;ng hộ n&ecirc;n phơi ao một thời gian để ổn định lại c&aacute;c yếu tố m&ocirc;i trường. Qu&aacute; tr&igrave;nh cải tạo ao nu&ocirc;i cần đồng bộ c&aacute;c bước, tẩy rửa sạch c&aacute;c yếu tố mầm bệnh b&aacute;m v&agrave;o bạt quanh ao nu&ocirc;i t&ocirc;m. C&aacute;c bờ ao cũng cần gia cố kỹ c&agrave;ng, khống chế x&acirc;m nhập của c&aacute;c yếu tố g&acirc;y hại từ b&ecirc;n ngo&agrave;i. Ng&agrave;nh thủy sản khuyến kh&iacute;ch n&ocirc;ng hộ nu&ocirc;i t&ocirc;m cần tiếp tục sử dụng men vi sinh, n&oacute;i kh&ocirc;ng với kh&aacute;ng sinh, h&oacute;a chất để t&ocirc;m nu&ocirc;i sinh trưởng tốt, chất lượng đảm bảo. &ldquo;Qua khảo s&aacute;t để đ&uacute;c r&uacute;t kinh nghiệm, ch&uacute;ng t&ocirc;i khuyến c&aacute;o n&ocirc;ng hộ n&ecirc;n nu&ocirc;i t&ocirc;m qua 2 giai đoạn. Sau khi mua t&ocirc;m giống từ c&aacute;c c&ocirc;ng ty uy t&iacute;n v&agrave; được kiểm dịch kỹ c&agrave;ng, n&ocirc;ng hộ n&ecirc;n bố tr&iacute; v&agrave;o ao ương nu&ocirc;i độ 1 th&aacute;ng với chế độ dinh dưỡng, chăm s&oacute;c đặc biệt để t&ocirc;m n&acirc;ng cao sức đề kh&aacute;ng, quen với m&ocirc;i trường mới. Sau đ&oacute;, chuyển t&ocirc;m qua giai đoạn 2, nu&ocirc;i thương phẩm, mật độ d&agrave;y mỏng t&ugrave;y theo diện t&iacute;ch ao nu&ocirc;i, chế độ cung cấp, xử l&yacute; nguồn nước cũng như dinh dưỡng, chăm s&oacute;c của từng hộ&rdquo; - b&agrave; Phạm Thị Ho&agrave;ng T&acirc;m n&oacute;i.</p>
+
+<p>Theo &ocirc;ng Ng&ocirc; Tấn - Ph&oacute; Gi&aacute;m đốc Sở NN&amp;PTNT, ng&agrave;nh khuyến kh&iacute;ch nu&ocirc;i t&ocirc;m tr&ecirc;n c&aacute;t bởi n&ocirc;ng hộ hay c&aacute;c doanh nghiệp đầu tư nu&ocirc;i t&ocirc;m b&agrave;i bản, xử l&yacute; nước thải trước khi đưa ra m&ocirc;i trường b&ecirc;n ngo&agrave;i, &aacute;p dụng c&ocirc;ng nghệ cao, đặc biệt l&agrave; nu&ocirc;i c&ocirc;ng nghiệp theo hướng h&agrave;ng h&oacute;a phục vụ xuất khẩu. &ldquo;Quảng Nam chưa phải l&agrave; &ldquo;thủ phủ&rdquo; của ng&agrave;nh t&ocirc;m cả nước nhưng thời gian qua đ&atilde; tiến bộ vượt bậc. Điểm nhấn l&agrave; kiểm so&aacute;t to&agrave;n bộ hệ thống nu&ocirc;i t&ocirc;m với c&aacute;ch sắp xếp, bố tr&iacute; hợp l&yacute;, gọn g&agrave;ng, li&ecirc;n ho&agrave;n từ nguồn nước, xử l&yacute; ao nu&ocirc;i, ao lắng, thức ăn, bổ sung kho&aacute;ng chất, vi sinh cho đến trữ nước, ao chứa chất thải, xử l&yacute; chất thải. C&aacute;c c&aacute;ch thức nu&ocirc;i t&ocirc;m tiến bộ, thu l&atilde;i lớn sẽ được khuyến kh&iacute;ch nh&acirc;n rộng&nbsp; cũng như thu h&uacute;t doanh nghiệp đầu tư trong thời gian đến&rdquo; - &ocirc;ng Ng&ocirc; Tấn n&oacute;i.</p>

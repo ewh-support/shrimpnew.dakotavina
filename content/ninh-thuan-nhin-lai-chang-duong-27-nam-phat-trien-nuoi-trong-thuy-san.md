@@ -1,0 +1,37 @@
+---json
+{
+    "title": "Ninh Thuận: Nhìn lại chặng đường 27 năm phát triển nuôi trồng thủy sản",
+    "slug": "ninh-thuan-nhin-lai-chang-duong-27-nam-phat-trien-nuoi-trong-thuy-san",
+    "layout": "noidung.html",
+    "category": "danh-muc.tin-tuc",
+    "tag": [
+        "tin-tuc"
+    ],
+    "date": "2019-04-21T17:00:00.000Z",
+    "draft": false,
+    "tieude": "",
+    "doan gioi thieu": "",
+    "doangioithieu": "Tỉnh ta có bờ biển dài 105 km, có nhiều đầm, vịnh, vùng cửa sông, bãi triều; thêm vào đó, với đặc điểm khí hậu ít mưa, nhiều nắng, nhiệt độ trung bình năm luôn ở mức cao, độ mặn ổn định, môi trường biển trong sạch nên có nhiều lợi thế cho phát triển nuôi trồng thủy sản (NTTS).",
+    "doan2vach": "",
+    "noidung": "",
+    "trichdan": "thuysanvietnam.com.vn",
+    "Anhtieude": "/img/tomgiong-s6-1-2019-04-18-18-02.jpg",
+    "tacgia": "Lê Tuyến",
+    "chuthichhinh": " Sản xuất tôm giống chất lượng cao tại Công ty Cổ phần Đầu tư S6 (Ninh Hải)",
+    "__content__": ""
+}
+---
+<p>Từ l&acirc;u, kh&ocirc;ng chỉ được biết đến với nghề nu&ocirc;i t&ocirc;m thương phẩm, dải đất ven biển tỉnh ta c&ograve;n nổi tiếng nhờ nghề sản xuất t&ocirc;m giống v&agrave; c&aacute;c hải đặc sản kh&aacute;c. Nh&igrave;n lại chặng đường 27 năm kể từ ng&agrave;y t&aacute;i lập tỉnh, c&oacute; thể thấy ch&iacute;nh sự tăng trưởng c&aacute;c lĩnh vực NTTS đ&atilde; g&oacute;p phần khẳng định vị thế quan trọng của ng&agrave;nh thủy sản trong nền kinh tế tỉnh nh&agrave;.</p>
+
+<p>Tại buổi gặp mặt vừa qua, nh&acirc;n kỷ niệm 60 năm Ng&agrave;y truyền thống ng&agrave;nh Thuỷ sản (1/4/1959- 1/4/2019), khi nhắc lại chuyện cũ, nhiều kỹ sư, c&aacute;n bộ kỹ thuật NTTS l&acirc;u năm vẫn c&ograve;n nhớ v&agrave;o th&aacute;ng 4-1992, to&agrave;n bộ ao đ&igrave;a nu&ocirc;i t&ocirc;m trong tỉnh ta chủ yếu tập trung quanh đầm Nại v&agrave; trại t&ocirc;m giống chỉ c&oacute; rải r&aacute;c dọc bờ biển B&igrave;nh Sơn (Tp. Phan Rang-Th&aacute;p Ch&agrave;m) v&agrave; Tri Hải (Ninh Hải). Theo số liệu ng&agrave;y ấy, to&agrave;n tỉnh c&oacute; 482 ha diện t&iacute;ch mặt nước thả nu&ocirc;i t&ocirc;m v&agrave; vỏn vẹn c&oacute; 14 trại sản xuất t&ocirc;m giống. Trong năm đầu t&aacute;i lập tỉnh, sản lượng t&ocirc;m s&uacute; nu&ocirc;i đạt 633 tấn, t&ocirc;m s&uacute; giống đạt 50 triệu con, ri&ecirc;ng c&aacute;c đối tượng thuỷ sản nu&ocirc;i trồng kh&aacute;c cho đến năm 2000 vẫn chưa c&oacute; g&igrave;. Thế nhưng sau v&agrave;i năm, sản xuất thuỷ sản đ&atilde; tăng đ&aacute;ng kể, đến năm 2006, diện t&iacute;ch mặt nước NTTS tỉnh ta đạt 2.750 ha, ri&ecirc;ng mặt nước thả t&ocirc;m nu&ocirc;i l&agrave; 1.500 ha v&agrave; c&oacute; 651/1.069 trại sản xuất t&ocirc;m giống hoạt động. Cũng từ thời điểm n&agrave;y, NTTS tỉnh ta c&oacute; sự khởi động mới với tốc độ nhanh m&agrave; điểm nhấn l&agrave; sự đa dạng trong sản xuất giống thuỷ sản. Đơn cử nếu năm 2006 chỉ c&oacute; giống t&ocirc;m s&uacute; với sản lượng đạt 5,260 tỷ con giống, đến năm 2009 con số ấy đ&atilde; l&agrave; 8 tỷ con, bao gồm 4,5 tỷ con t&ocirc;m s&uacute; giống v&agrave; 3,5 tỷ con t&ocirc;m thẻ ch&acirc;n trắng giống, ngo&agrave;i ra c&ograve;n c&oacute; 15 triệu con ốc hương giống, 5 triệu con t&ocirc;m h&ugrave;m giống v&agrave; 15 triệu con giống kh&aacute;c.</p>
+
+<p>Tr&ecirc;n đường ph&aacute;t triển, d&ugrave; NTTS c&oacute; những biến động mới bất lợi, nhưng ao đ&igrave;a thả nu&ocirc;i TS vẫn mở rộng, nổi bật l&agrave; v&agrave;o năm 2011 to&agrave;n tỉnh c&oacute; diện t&iacute;ch 1.604 ha ao đ&igrave;a, trong đ&oacute; c&oacute; 1.099 ha diện t&iacute;ch nu&ocirc;i t&ocirc;m nước lợ. Đặc biệt x&aacute;c định sản xuất giống thủy sản l&agrave; chủ lực, bấy giờ to&agrave;n tỉnh đ&atilde; c&oacute; 370 cơ sở sản xuất t&ocirc;m giống, 70 cơ sở sản xuất giống ốc hương, 10 cơ sở sản xuất giống tu h&agrave;i v&agrave; 2 cơ sở sản xuất giống c&aacute; nước ngọt hoạt động. Tuy năm 2018 vừa qua do yếu tố thị trường l&agrave;m giảm sản lượng t&ocirc;m thịt (chỉ đạt 88,6% kế hoạch năm), nhưng hoạt động NTTS vẫn g&acirc;y ấn tượng bởi hướng ph&aacute;t triển mới, thể hiện qua sự phong ph&uacute;, đa dạng đối tượng nu&ocirc;i; đặc biệt l&agrave; khai th&aacute;c v&agrave; sử dụng được tiềm năng diện t&iacute;ch đất v&agrave; mặt nước để tạo ra sản phẩm c&oacute; gi&aacute; trị kinh tế cao. Đ&aacute;ng ch&uacute; &yacute; l&agrave; trong sản xuất giống, nếu năm 2011, sản lượng t&ocirc;m giống đạt 12,7 tỷ con th&igrave; năm 2018 con số ấy đ&atilde; l&agrave; 31 tỷ con (trong đ&oacute; c&oacute; 25 tỷ con t&ocirc;m thẻ giống v&agrave; 6 tỷ con t&ocirc;m s&uacute; giống), vượt 24% kế hoạch năm; vượt xa so với kế hoạch b&igrave;nh qu&acirc;n 11,5 tỷ con giống/năm của giai đoạn 2011-2015, chưa kể c&ograve;n c&oacute; 130 triệu con ốc hương giống v&agrave; h&agrave;ng chục triệu con giống thủy sản kh&aacute;c cũng được sản xuất phục vụ NTTS.</p>
+
+<p><img src="http://images1.baoninhthuan.com.vn/CMSImage/Resources/Uploaded/tbtdaduyet/img-0308-2019-04-18-18-06.jpg" /></p>
+
+<p><em>C&ocirc;ng ty TNHH sản xuất giống thủy sản Miền Trung VN (An Hải, Ninh Phước)&nbsp;<br />
+đ&oacute;ng g&oacute;i t&ocirc;m giống thẻ ch&acirc;n trắng cung cấp cho kh&aacute;ch h&agrave;ng. Ảnh:&nbsp;Văn Nỷ&nbsp;</em></p>
+
+<p>Theo đồng ch&iacute; Nguyễn Khắc L&acirc;m, Ph&oacute; Gi&aacute;m đốc Sở N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển n&ocirc;ng th&ocirc;n, trong lĩnh vực sản xuất giống thuỷ sản, những năm qua thương hiệu t&ocirc;m giống Ninh Thuận ng&agrave;y c&agrave;ng được người NTTS cả nước biết đến. Hiện nay to&agrave;n tỉnh đ&atilde; c&oacute; 450 cơ sở sản xuất t&ocirc;m giống hoạt động, bao gồm 250 cơ sở sản xuất giống t&ocirc;m thẻ ch&acirc;n trắng v&agrave; 200 cơ sở sản xuất giống t&ocirc;m s&uacute;. Trong suốt 27 năm qua, tỉnh ta đ&atilde; quan t&acirc;m đầu tư x&acirc;y dựng kết cấu hạ tầng cho NTTS như: Hệ thống k&ecirc;nh, mương, đ&ecirc;, k&egrave;, trạm bơm, hệ thống điện, đường giao th&ocirc;ng...C&aacute;c c&ocirc;ng tr&igrave;nh hạ tầng đ&atilde; g&oacute;p phần h&igrave;nh th&agrave;nh c&aacute;c v&ugrave;ng nu&ocirc;i chuy&ecirc;n canh v&agrave; n&acirc;ng cao hiệu quả sản xuất, bao gồm: V&ugrave;ng sản xuất tập trung t&ocirc;m giống tại An Hải (Ninh Phước), v&ugrave;ng nu&ocirc;i t&ocirc;m thương phẩm đầm Nại gắn với ph&aacute;t triển du lịch, đ&ocirc; thị Đầm Nại (Ninh Hải), Sơn Hải, x&atilde; Phước Dinh (Thuận Nam) v&agrave; An Hải. Việc quy hoạch v&agrave; đầu tư x&acirc;y dựng kết cấu hạ tầng đ&atilde; g&oacute;p phần l&agrave;m cho nghề NTTS tỉnh ta ph&aacute;t triển bền vững với sản lượng v&agrave; chất lượng ng&agrave;y c&agrave;ng cao.</p>
+
+<p>Từ khi t&aacute;i lập tỉnh đến nay, lĩnh vực NTTS của tỉnh ta đ&atilde; c&oacute; sự bứt ph&aacute; đ&aacute;ng ghi nhận, từng bước khẳng định vị thế của m&igrave;nh trong cả nước, nhất l&agrave; sản xuất giống thủy sản. Theo Chi cục Thủy sản tỉnh, t&iacute;nh đến hết qu&yacute; I-2019, c&aacute;c v&ugrave;ng nu&ocirc;i đ&atilde; thu hoạch 683,3 tấn t&ocirc;m thương phẩm (đạt 9,8% kế hoạch năm), về giống đ&atilde; sản xuất 10,05 tỷ t&ocirc;m post (30,5% kế hoạch năm), trong đ&oacute; c&oacute; 7,2 tỷ giống t&ocirc;m thẻ ch&acirc;n trắng, c&ograve;n lại l&agrave; giống t&ocirc;m s&uacute;. Với bước khởi động n&agrave;y, c&oacute; cơ sở để tin rằng tỉnh ta sẽ ho&agrave;n th&agrave;nh kế hoạch NTTS năm nay, tạo tiền đề thực hiện thắng lợi Nghị quyết số 07-NQ/TU của Tỉnh ủy (kh&oacute;a XIII) về ph&aacute;t triển kinh tế biển giai đoạn 2016-2020 v&agrave; những năm tiếp theo.</p>

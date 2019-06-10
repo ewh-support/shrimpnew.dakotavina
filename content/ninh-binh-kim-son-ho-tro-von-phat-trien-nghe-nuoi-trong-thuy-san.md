@@ -1,0 +1,60 @@
+---json
+{
+    "title": "Ninh Bình Kim Sơn hỗ trợ vốn phát triển nghề nuôi trồng thủy sản",
+    "slug": "ninh-binh-kim-son-ho-tro-von-phat-trien-nghe-nuoi-trong-thuy-san",
+    "layout": "noidung.html",
+    "category": "danh-muc.tin-tuc",
+    "tag": [
+        "tin-tuc"
+    ],
+    "date": "2018-09-20T17:00:00.000Z",
+    "draft": false,
+    "tieude": "",
+    "doan gioi thieu": "",
+    "doangioithieu": "Huyện Kim Sơn đã có nhiều giải pháp để mở rộng tín dụng, hỗ trợ nguồn vốn giúp cho nhiều hộ dân ở vùng bãi ngang phát triển nghề nuôi trồng thủy sản bền vững.",
+    "doan2vach": "",
+    "noidung": "",
+    "trichdan": "thuysanvietnam.com.vn",
+    "Anhtieude": "/img/huyen-kim-son.jpg",
+    "tacgia": "Lê Tuyến",
+    "chuthichhinh": "Phát triển nuôi trồng thủy sản tại các xã bãi ngang của huyện Kim Sơn. ",
+    "__content__": ""
+}
+---
+<p>Kim Sơn l&agrave; huyện duy nhất của tỉnh Ninh B&igrave;nh gi&aacute;p với biển, chiều d&agrave;i bờ biển khoảng hơn 15 km. Những năm qua, ng&agrave;nh nu&ocirc;i trồng thủy đ&atilde; c&oacute; những đ&oacute;ng g&oacute;p kh&ocirc;ng nhỏ cho kinh tế của huyện cũng như gi&aacute; trị gia tăng của ng&agrave;nh n&ocirc;ng nghiệp tỉnh Ninh B&igrave;nh.</p>
+
+<p>Việc nu&ocirc;i thủy sản theo hướng c&ocirc;ng nghiệp, c&ocirc;ng nghệ cao đ&atilde; gi&uacute;p cho c&aacute;c hộ d&acirc;n c&oacute; sự chuyển đổi mạnh mẽ trong ph&aacute;t triển kinh tế thủy sản. Nhiều hộ gia đ&igrave;nh c&oacute; của ăn, của để, trở n&ecirc;n gi&agrave;u c&oacute;. Ti&ecirc;u biểu như gia đ&igrave;nh anh Nguyễn Minh L&yacute;, x&oacute;m 5, x&atilde; Cồn Thoi một trong những hộ đầu ti&ecirc;n nu&ocirc;i thả h&agrave;u, ngao giống.</p>
+
+<p>Anh L&yacute; cho biết, anh bắt đầu nu&ocirc;i t&ocirc;m từ năm 1991, đến nay gia đ&igrave;nh anh đ&atilde; c&oacute; gần 30 năm kinh nghiệm trong nghề nu&ocirc;i thủy sản. Tuy nhi&ecirc;n, do chủ yếu nu&ocirc;i quảng canh n&ecirc;n kh&ocirc;ng ổn định, nhiều năm mất trắng. C&aacute;ch đ&acirc;y 2 năm, qua t&igrave;m hiểu nhu cầu thị trường, anh L&yacute; quyết định vay vốn từ Ng&acirc;n h&agrave;ng N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển n&ocirc;ng th&ocirc;n chi nh&aacute;nh B&igrave;nh Minh 800 triệu đồng để đầu tư hệ thống bể lọc hiện đại, khu nu&ocirc;i thả h&agrave;u, ngao giống...</p>
+
+<p>Việc sản xuất h&agrave;u, ngao giống cần đầu tư vốn lớn, kỹ thuật cao n&ecirc;n &iacute;t người l&agrave;m. Để c&oacute; được nguồn giống tốt phải đảm bảo hệ thống lọc nước, bể nu&ocirc;i đ&uacute;ng ti&ecirc;u chuẩn về độ mặn, m&ocirc;i trường v&agrave; c&aacute;c kho&aacute;ng chất cần thiết. Ch&iacute;nh v&igrave; m&ocirc;i trường sản xuất an to&agrave;n n&ecirc;n việc tổn thất do chịu t&aacute;c động của thi&ecirc;n nhi&ecirc;n, dịch bệnh giảm rất nhiều. Nếu t&iacute;nh to&aacute;n đ&uacute;ng thời vụ, khả năng thu l&atilde;i cao, hiệu quả hơn nu&ocirc;i trồng c&aacute;c loại thủy sản kh&aacute;c.</p>
+
+<p>Anh L&yacute; tiết lộ, trung b&igrave;nh mỗi năm gia đ&igrave;nh anh c&oacute; thể xuất từ 5-7 vụ với tr&ecirc;n 5.000 ch&ugrave;m h&agrave;u giống v&agrave; 3 ng&agrave;n ch&ugrave;m ngao giống cho thị trường c&aacute;c tỉnh như Quảng Ninh, Hải Ph&ograve;ng, Nghệ An... Ngay sau năm đầu ti&ecirc;n đi v&agrave;o sản xuất, gia đ&igrave;nh anh L&yacute; đ&atilde; thu l&atilde;i gần 700 triệu đồng. Dự t&iacute;nh trong thời gian tới anh tiếp tục &aacute;p dụng tiến bộ khoa học kỹ thuật để tăng năng suất con giống tr&ecirc;n c&ugrave;ng một diện t&iacute;ch v&agrave; sẽ hướng dẫn những hộ d&acirc;n c&oacute; nhu cầu chuyển đổi m&ocirc; h&igrave;nh nu&ocirc;i trồng thủy sản theo hướng sản xuất con giống như gia đ&igrave;nh anh.</p>
+
+<p>&Ocirc;ng Phạm Văn Tường, x&oacute;m 6, x&atilde; Kim Đ&ocirc;ng thả 25 vạn giống cua xanh trong 5 đầm ươm. Sau một thời gian, &ocirc;ng cung cấp con giống cho c&aacute;c kh&aacute;ch h&agrave;ng tại Hải Ph&ograve;ng, Quảng Ninh, Nghệ An... Hơn 10 vạn giống c&ograve;n lại, &ocirc;ng nu&ocirc;i dưỡng để b&aacute;n cua thịt. Mỗi năm gia đ&igrave;nh nu&ocirc;i thả 2 lứa cua giống, lứa 1 từ th&aacute;ng 3 đến th&aacute;ng 6, lứa 2 từ th&aacute;ng 6 đến th&aacute;ng 10. Sau khi b&aacute;n một phần con giống, một phần gia đ&igrave;nh để lại nu&ocirc;i. Trong năm nay, cua được gi&aacute; cao, thời điểm từ th&aacute;ng 2 đến th&aacute;ng 5, gi&aacute; cua đỉnh điểm l&ecirc;n đến 400 - 450 ngh&igrave;n đồng/kg. Nhờ đ&oacute;, vụ cua năm nay gia đ&igrave;nh thu l&atilde;i từ 600 - 700 triệu đồng.</p>
+
+<p>&Ocirc;ng Tường cho biết th&ecirc;m, gi&aacute; cua tăng cao một phần l&agrave; do nhu cầu lớn của thị trường, th&ecirc;m v&agrave;o đ&oacute;, chất lượng cua năm nay kh&aacute; tốt, thịt chắc, gạch nhiều n&ecirc;n được gi&aacute;. Kh&ocirc;ng phải l&agrave; con giống c&oacute; thời gian sinh trưởng ngắn như cua xanh, người nu&ocirc;i phải mất từ 18 - 24 th&aacute;ng mới c&oacute; thể thu hoạch một vụ ngao.</p>
+
+<p>Năm nay l&agrave; năm thu hoạch ngao của gia đ&igrave;nh anh Trần Văn Quyền, x&oacute;m 8B x&atilde; Cồn Thoi. Gia đ&igrave;nh anh nu&ocirc;i 6 ha ngao ngo&agrave;i v&ugrave;ng đ&ecirc; B&igrave;nh Minh 3, anh cho biết: Đến nay, c&ocirc;ng t&aacute;c thu hoạch đ&atilde; ho&agrave;n tất, sản lượng ngao đạt trung b&igrave;nh 35 tấn/ha. Với hơn 200 tấn ngao thu hoạch được, trừ chi ph&iacute; gia đ&igrave;nh anh thu khoảng 1,2 tỷ đồng. Anh cho biết th&ecirc;m, vụ ngao vừa qua l&agrave; vụ sản xuất thắng lợi.</p>
+
+<p>Với quyết t&acirc;m khai th&aacute;c bền vững tiềm năng, lợi thế về nu&ocirc;i t&ocirc;m tr&ecirc;n địa b&agrave;n, v&agrave;i năm trở lại đ&acirc;y nhiều hộ d&acirc;n ở c&aacute;c x&atilde; b&atilde;i ngang của huyện Kim Sơn đ&atilde; từng bước nghi&ecirc;n cứu, chuyển đổi sang m&ocirc; h&igrave;nh nu&ocirc;i t&ocirc;m c&ocirc;ng nghệ cao theo hướng c&ocirc;ng nghiệp n&ecirc;n đ&atilde; cho năng suất, chất lượng ng&agrave;y c&agrave;ng ổn định.</p>
+
+<p>Gia đ&igrave;nh chị Trần Thị Hạnh, x&oacute;m 7A Đ&ocirc;ng, x&atilde; Cồn Thoi c&oacute; th&acirc;m ni&ecirc;n nu&ocirc;i trồng thủy sản tr&ecirc;n 20 năm nhưng chủ yếu nu&ocirc;i theo phương ph&aacute;p quảng canh. Điểm nổi bật ở phương ph&aacute;p n&agrave;y l&agrave; dễ l&agrave;m, chỉ cần thả t&ocirc;m giống theo mật độ quy định rồi đợi đến ng&agrave;y thu hoạch. Tuy nhi&ecirc;n, với phương ph&aacute;p n&agrave;y phụ thuộc kh&aacute; nhiều v&agrave;o thời tiết n&ecirc;n người nu&ocirc;i trồng thủy sản chưa ch&uacute; trọng đầu tư. Nhận thấy những lợi thế từ nu&ocirc;i t&ocirc;m theo phương ph&aacute;p c&ocirc;ng nghiệp, năm 2016, gia đ&igrave;nh chị Hạnh đ&atilde; vay hơn 1 tỷ đồng của Ng&acirc;n h&agrave;ng N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển n&ocirc;ng th&ocirc;n chi nh&aacute;nh B&igrave;nh Minh.</p>
+
+<p>Được sự tư vấn của c&aacute;n bộ t&iacute;n dụng, chị Hạnh đ&atilde; chuyển đổi 1,3 ha đầm nu&ocirc;i t&ocirc;m quảng canh sang đầu tư nu&ocirc;i c&ocirc;ng nghiệp. Qua vụ thu hoạch đầu ti&ecirc;n, gia đ&igrave;nh chị đ&atilde; thu l&atilde;i gần 300 triệu đồng, gấp 3 lần so với nu&ocirc;i quảng canh. Chị Hạnh cho biết: Nu&ocirc;i t&ocirc;m c&ocirc;ng nghiệp mặc d&ugrave; đầu tư vốn ban đầu cao nhưng hạn chế được rủi ro như thời tiết, bệnh dịch... B&ecirc;n cạnh đ&oacute;, sau khi đầu tư nu&ocirc;i t&ocirc;m c&ocirc;ng nghiệp, gia đ&igrave;nh t&ocirc;i được tham gia nhiều lớp tập huấn kỹ thuật của ng&agrave;nh n&ocirc;ng nghiệp, địa phương, c&aacute;c c&ocirc;ng ty giống, thức ăn...</p>
+
+<p>Theo &ocirc;ng Phạm Văn Hải, Trạm trưởng Trạm Thủy sản Kim Sơn - Y&ecirc;n Kh&aacute;nh (Chi cục Thủy sản, Sở N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển n&ocirc;ng th&ocirc;n): Ưu điểm nổi trội của h&igrave;nh thức nu&ocirc;i t&ocirc;m c&ocirc;ng nghiệp l&agrave; gi&uacute;p t&ocirc;m lớn nhanh, hạn chế việc &ocirc; nhiễm m&ocirc;i trường v&agrave; mầm bệnh ph&aacute;t triển, chất lượng sản phẩm t&ocirc;m thương phẩm được n&acirc;ng l&ecirc;n. Hiện nay, tr&ecirc;n địa b&agrave;n huyện Kim Sơn đ&atilde; c&oacute; nhiều hộ mạnh dạn đầu tư nu&ocirc;i t&ocirc;m c&ocirc;ng nghiệp, c&ocirc;ng nghệ cao.</p>
+
+<p>Nhờ đ&oacute; tổng sản lượng thủy sản mặn lợ của tỉnh năm 2017 ước đạt tr&ecirc;n 17.300 tấn (tăng 11,3% so với năm 2016). Tuy nhi&ecirc;n, đ&acirc;y l&agrave; m&ocirc; h&igrave;nh mới lại đ&ograve;i hỏi đầu tư kinh ph&iacute; lớn, do vậy rất cần sự chung sức của Nh&agrave; nước th&ocirc;ng qua c&aacute;c tổ chức t&iacute;n dụng ở địa phương để tạo điều kiện cho b&agrave; con được vay vốn ph&aacute;t triển sản xuất.</p>
+
+<p>Theo &ocirc;ng Vũ Văn Đo&aacute;n, Gi&aacute;m đốc Ng&acirc;n h&agrave;ng N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển n&ocirc;ng th&ocirc;n (Agribank) chi nh&aacute;nh B&igrave;nh Minh: Mặc d&ugrave; chi nh&aacute;nh được th&agrave;nh lập từ năm 2014 với số dư nợ ban đầu chỉ 24 tỷ đồng. Qua 4 năm đi v&agrave;o hoạt động Chi nh&aacute;nh đ&atilde; n&acirc;ng tổng mức dư nợ l&ecirc;n 408 tỷ đồng với 1.900 kh&aacute;ch h&agrave;ng, trong đ&oacute; c&oacute; 181 kh&aacute;ch h&agrave;ng vay nu&ocirc;i trồng thủy sản, dư nợ lĩnh vực thủy sản đạt hơn 50 tỷ đồng.</p>
+
+<p>Để đạt được kết quả n&agrave;y những năm qua, Agribank B&igrave;nh Minh đ&atilde; chủ động thực hiện hiệu quả c&aacute;c giải ph&aacute;p về tăng trưởng t&iacute;n dụng, trong đ&oacute; ch&uacute; trọng ph&aacute;t triển c&aacute;c tổ vay vốn trong cộng đồng d&acirc;n cư th&ocirc;ng qua c&aacute;c tổ chức ch&iacute;nh trị, x&atilde; hội của địa phương như hội phụ nữ, hội n&ocirc;ng d&acirc;n, cựu chiến binh..., đồng thời chi nh&aacute;nh cũng th&agrave;nh lập tổ kiểm tra thường xuy&ecirc;n nắm bắt cơ sở, th&ocirc;ng tin về cơ chế, ch&iacute;nh s&aacute;ch của ng&acirc;n h&agrave;ng v&agrave; trao đổi th&ocirc;ng tin đối với c&aacute;n bộ t&iacute;n dụng để c&oacute; giải ph&aacute;p hữu hiệu đ&aacute;p ứng nhu cầu vay vốn hợp l&yacute; của kh&aacute;ch h&agrave;ng.</p>
+
+<p>B&ecirc;n cạnh đ&oacute;, chi nh&aacute;nh Agribank B&igrave;nh Minh đ&atilde; t&iacute;ch cực xử l&yacute; tồn đọng nợ xấu, c&oacute; giải ph&aacute;p để hỗ trợ c&aacute;c hộ d&acirc;n chuyển đổi h&igrave;nh thức nu&ocirc;i trồng từ quảng canh sang c&ocirc;ng nghiệp, c&ocirc;ng nghệ cao để c&oacute; điều kiện &aacute;p dụng khoa học kỹ thuật, giảm thiểu thiệt hại do t&aacute;c động của m&ocirc;i trường.</p>
+
+<p>Theo &ocirc;ng Vũ Văn Đo&aacute;n cho biết th&ecirc;m: Hiện nay, nhu cầu vay vốn để chuyển đổi sản xuất của người d&acirc;n v&ugrave;ng thủy sản Kim Sơn l&agrave; rất lớn. Tuy nhi&ecirc;n, hiện nay dư nợ của lĩnh vực thủy sản chỉ chiếm hơn 10% trong tổng dư nợ của chi nh&aacute;nh, số kh&aacute;ch h&agrave;ng được vay lĩnh vực thủy sản cũng c&ograve;n hạn chế. Kh&oacute; khăn lớn nhất hiện nay l&agrave;m người d&acirc;n kh&oacute; tiếp cận nguồn vốn vay ng&acirc;n h&agrave;ng trong lĩnh vực thủy sản l&agrave; do ch&iacute;nh s&aacute;ch quản l&yacute; về đất đai v&ugrave;ng b&atilde;i bồi chưa ổn định, do đ&oacute; người d&acirc;n kh&ocirc;ng c&oacute; t&agrave;i sản để thế chấp, mức độ rủi ro cao, t&agrave;i sản thế chấp kh&aacute;c lại kh&ocirc;ng c&oacute; n&ecirc;n ng&acirc;n h&agrave;ng cũng kh&ocirc;ng đủ căn cứ ph&aacute;p l&yacute; để cho kh&aacute;ch h&agrave;ng vay vốn sản xuất lĩnh vực thủy sản.</p>
+
+<p>Những kết quả đạt được trong lĩnh vực nu&ocirc;i trồng thủy sản ở c&aacute;c x&atilde; b&atilde;i ngang của huyện Kim Sơn cũng như hiệu quả từ c&aacute;c m&ocirc; h&igrave;nh nu&ocirc;i trồng thủy sản c&ocirc;ng nghiệp, c&ocirc;ng nghệ cao đ&atilde; khẳng định hướng đi đ&uacute;ng trong ph&aacute;t triển kinh tế biển của địa phương v&agrave; mở ra cơ hội mới gi&uacute;p nhiều hộ d&acirc;n x&oacute;a đ&oacute;i, giảm ngh&egrave;o. Điều n&agrave;y cũng g&oacute;p phần mang đến sự ổn định bền vững cho ng&agrave;nh nu&ocirc;i trồng thuỷ sản tỉnh Ninh B&igrave;nh n&oacute;i chung.</p>
+
+<p>Tuy nhi&ecirc;n, c&aacute;ch l&agrave;m n&agrave;y hiện đang gặp nhiều kh&oacute; khăn do vốn đầu tư cao. Đ&acirc;y kh&ocirc;ng chỉ l&agrave; vấn đề người nu&ocirc;i quan t&acirc;m, m&agrave; c&ograve;n l&agrave; b&agrave;i to&aacute;n đặt ra đối với ng&agrave;nh c&oacute; li&ecirc;n quan kh&ocirc;ng chỉ hỗ trợ về kỹ thuật, m&agrave; quan trọng nhất l&agrave; hỗ trợ nguồn vốn.</p>

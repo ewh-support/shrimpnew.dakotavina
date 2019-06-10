@@ -1,0 +1,46 @@
+---json
+{
+    "title": "Ùn ùn đào đất ruộng nuôi cá tra giống: Hiểm họa khó lường",
+    "slug": "un-un-dao-dat-ruong-nuoi-ca-tra-giong-hiem-hoa-kho-luong",
+    "layout": "noidung.html",
+    "category": "danh-muc.tin-tuc",
+    "tag": [
+        "tin-tuc"
+    ],
+    "date": "2018-05-03T17:00:00.000Z",
+    "draft": false,
+    "tieude": "Ùn ùn đào đất ruộng nuôi cá tra giống: Hiểm họa khó lường",
+    "doan gioi thieu": "",
+    "doangioithieu": "Câu chuyện về con cá tra ở ĐBSCL đang “nóng” lên từng ngày. Sau khi Bộ Thương mại Hoa Kỳ áp dụng mức thuế chống bán phá giá 2,39 - 7,74 USD/kg thì các doanh nghiệp cá tra Việt Nam phải loay hoay đối phó với quyết định này.",
+    "doan2vach": "",
+    "noidung": "",
+    "trichdan": " Báo SÀI GÒN GIẢI PHÓNG",
+    "Anhtieude": "/img/catra35.jpg",
+    "tacgia": "Jay",
+    "chuthichhinh": "Ào ạt nuôi cá tra sẽ dẫn đến thừa nguyên liệu",
+    "__content__": ""
+}
+---
+<p><span style="font-size:14px">Tuy nhi&ecirc;n, do gi&aacute; c&aacute; tra rất cao, n&ecirc;n người nu&ocirc;i &ugrave;n &ugrave;n mở rộng diện t&iacute;ch, dẫn đến thiếu hụt con giống trầm trọng. Lập tức nhiều hộ ở Long An, Đồng Th&aacute;p&hellip; tăng diện t&iacute;ch nu&ocirc;i c&aacute; tra giống l&ecirc;n gần 1.000ha. C&acirc;u chuyện bột ph&aacute;t n&agrave;y đang tiềm ẩn những hệ lụy kh&oacute; lường.&nbsp;<br />
+<br />
+<strong>&nbsp;N&oacute;ng v&igrave; đơn &ldquo;đặt h&agrave;ng&rdquo;</strong><br />
+<br />
+L&acirc;u nay diện t&iacute;ch nu&ocirc;i c&aacute; tra ở ĐBSCL dao động mỗi năm 4.500 - 5.000ha (t&ugrave;y theo gi&aacute; c&aacute; tăng hay giảm). Chuyện diện t&iacute;ch nu&ocirc;i c&aacute; tra giống tăng 1.000ha (chiếm gần 20% diện t&iacute;ch nu&ocirc;i nguy&ecirc;n liệu) l&agrave; ngo&agrave;i tưởng tượng&hellip;&nbsp;<br />
+<br />
+Kh&ocirc;ng phải Đồng Th&aacute;p, An Giang, Bến Tre (3 tỉnh c&oacute; diện t&iacute;ch nu&ocirc;i c&aacute; tra lớn nhất trong v&ugrave;ng), m&agrave; tỉnh Long An lại ch&iacute;nh l&agrave; địa phương đang &ldquo;n&oacute;ng&rdquo; với chuyện đ&agrave;o ao nu&ocirc;i c&aacute; tra giống. Con đường cặp k&ecirc;nh KT9 từ x&atilde; Hưng H&agrave; qua x&atilde; Hưng Điền B thuộc huyện T&acirc;n Hưng đang trở n&ecirc;n ồn &agrave;o hơn bởi những chuyến xe tải ngược xu&ocirc;i chở thức ăn nu&ocirc;i c&aacute; v&agrave; chở c&aacute; tra giống từ đ&acirc;y về c&aacute;c tỉnh miền T&acirc;y. Dưới đất ruộng (trồng l&uacute;a l&acirc;u nay) giờ đ&acirc;y l&agrave; cảnh những xe Kobe đ&agrave;o tung từng thửa ruộng. Những người d&acirc;n đang chạy theo phong tr&agrave;o nu&ocirc;i &ldquo;c&aacute; tra giống&rdquo;.<br />
+<br />
+&ldquo;Trung b&igrave;nh mỗi h&eacute;cta nu&ocirc;i c&aacute; tra giống nếu tr&uacute;ng c&oacute; thể gấp 10 lần trồng l&uacute;a. Vụ rồi, gia đ&igrave;nh t&ocirc;i nu&ocirc;i hơn 1ha c&aacute; tra giống b&aacute;n gi&aacute; 71.000 đồng/kg (loại 35 con/kg) lợi nhuận tr&ecirc;n 300 triệu đồng/ha. Hiện gia đ&igrave;nh t&ocirc;i mở rộng diện t&iacute;ch l&ecirc;n 3,5ha&rdquo;, b&agrave; Diệp Thị Ngươn, 1 trong gần 10 hộ nu&ocirc;i c&aacute; tra giống ở ấp G&ograve; Ph&aacute;o, x&atilde; Hưng Điền B, huyện T&acirc;n Hưng, cho biết. Nghề nu&ocirc;i c&aacute; tra giống mới rộ l&ecirc;n hơn 1 năm qua ở đ&acirc;y. B&agrave; Ngươn thừa nhận, việc nu&ocirc;i c&aacute; tra giống tuy kh&ocirc;ng kh&oacute; nhưng cũng tiềm ẩn kh&ocirc;ng &iacute;t rủi ro. Thường chu kỳ nu&ocirc;i c&aacute; tra giống trong khoảng thời gian 60 -70 ng&agrave;y. Giai đoạn đầu, c&aacute; dễ nhiễm bệnh, nếu kh&ocirc;ng biết c&aacute;ch ph&ograve;ng bệnh, nguy cơ thất bại rất lớn. Số vốn bỏ ra đầu tư tr&ecirc;n 1ha nu&ocirc;i c&aacute; cũng kh&ocirc;ng hề nhỏ, nếu t&iacute;nh cả tiền đ&agrave;o ao, c&aacute; giống, thuốc, thức ăn&hellip; th&igrave; trung b&igrave;nh 1ha gần 200 triệu đồng. V&agrave; trong số rất nhiều người nu&ocirc;i c&aacute; tra giống hiện nay, kh&ocirc;ng phải ai cũng th&agrave;nh c&ocirc;ng.<br />
+<br />
+Thống k&ecirc; chưa đủ của ng&agrave;nh n&ocirc;ng nghiệp Long An, diện t&iacute;ch nu&ocirc;i c&aacute; tra bột đ&atilde; l&ecirc;n đến gần 1.000ha. Tr&ecirc;n 80% số diện t&iacute;ch n&agrave;y tập trung tại huyện T&acirc;n Hưng v&agrave; nhiều nhất tại x&atilde; Hưng Điền B. &ldquo;Nu&ocirc;i c&aacute; tra giống mang lại thu nhập cao gấp nhiều lần so với trồng l&uacute;a nhưng địa phương kh&ocirc;ng khuyến kh&iacute;ch. Người d&acirc;n nu&ocirc;i ồ ạt sẽ gặp kh&oacute; về đầu ra. Hiện ch&uacute;ng t&ocirc;i tập trung tuy&ecirc;n truyền để n&acirc;ng cao &yacute; thức của người d&acirc;n, kh&ocirc;ng n&ecirc;n tự &yacute; chuyển mục đ&iacute;ch đất ruộng l&uacute;a th&agrave;nh ao nu&ocirc;i c&aacute; sẽ ảnh hưởng đến quy hoạch v&agrave; nguy cơ &ocirc; nhiễm m&ocirc;i trường tự nhi&ecirc;n&rdquo;, Chủ tịch UBND x&atilde; Hưng Điền B&nbsp; Nguyễn Vũ Linh cho biết.&nbsp;<br />
+<br />
+Chuyện sốt con giống c&aacute; tra xuất hiện từ đầu năm 2017 khi một số doanh nghiệp chế biến thủy sản lớn &ldquo;đặt h&agrave;ng&rdquo; n&ocirc;ng d&acirc;n nu&ocirc;i c&aacute; tra giống để mua lại, nhằm cung cấp cho thị trường, khiến c&aacute; tra giống đang &ldquo;sốt&rdquo; h&agrave;ng&hellip;&nbsp;<br />
+<br />
+<strong>Quy hoạch đi sau... tự ph&aacute;t?</strong><br />
+<br />
+C&oacute; thể n&oacute;i, qua bao &ldquo;thăng trầm&rdquo;, v&ugrave;ng nguy&ecirc;n liệu nu&ocirc;i c&aacute; tra ở ĐBSCL vẫn tiềm ẩn rủi ro cao. Một thời người ta cảnh b&aacute;o về nguy cơ c&aacute;c nh&agrave; m&aacute;y chế biến thủy sản mọc l&ecirc;n như nấm sau mưa (c&ocirc;ng suất nh&agrave; m&aacute;y vượt sản lượng) rất dễ dẫn đến ph&aacute; sản. Nhưng t&acirc;m l&yacute; kinh doanh &ldquo;ăn xổi ở th&igrave;&rdquo;, chạy theo &ldquo;đu&ocirc;i thị trường&rdquo;, khiến gần như cả doanh nghiệp v&agrave; n&ocirc;ng d&acirc;n đều kh&ocirc;ng tu&acirc;n theo quy hoạch v&agrave; yếu tố thị trường giữa cung - cầu. Ai cũng đua nhau nu&ocirc;i c&aacute;. Hệ lụy xảy ra l&agrave; khủng hoảng thừa nguy&ecirc;n liệu, c&aacute; rớt gi&aacute; khiến tất cả thua lỗ nặng nề. C&aacute;c ng&agrave;nh chức năng buộc phải &ldquo;k&ecirc;u cứu&rdquo; với Ch&iacute;nh phủ nhằm hỗ trợ giải quyết lượng c&aacute; tra tồn đọng. Trong khi c&aacute;c nh&agrave; m&aacute;y chế biến cạnh tranh khốc liệt ở c&aacute;c thị trường ti&ecirc;u thụ nước ngo&agrave;i, tung ra kh&ocirc;ng &iacute;t chi&ecirc;u tr&ograve; cạnh tranh kh&ocirc;ng l&agrave;nh mạnh. 10 năm qua, c&acirc;u chuyện c&aacute; tra rơi v&agrave;o cảnh &ldquo;lo nhiều hơn mừng&rdquo;. Mọi chuyện bắt đầu c&oacute; &ldquo;gam&rdquo; s&aacute;ng từ năm 2017, khi thị trường Trung Quốc đột nhi&ecirc;n tăng mạnh ti&ecirc;u thụ c&aacute; tra ở khu vực ĐBSCL. Từ đ&oacute;, gi&aacute; c&aacute; tra ở ĐBSCL chuyển biến theo hướng c&oacute; lợi cho n&ocirc;ng d&acirc;n.&nbsp;<br />
+<br />
+Điều nhiều người đang lo lắng hiện nay l&agrave;: Những hộ c&oacute; điều kiện kinh tế c&oacute; thể trụ lại với nghề nu&ocirc;i c&aacute; tra giống, nhưng những hộ ngh&egrave;o d&aacute;m vay mượn đ&agrave;o ao thả c&aacute;, rất dễ dẫn đến nguy cơ rủi ro, thiệt hại. Khi thất bại, người d&acirc;n muốn trồng l&uacute;a lại l&agrave; một chuyện hết sức kh&oacute; khăn. V&igrave; vậy, người n&ocirc;ng d&acirc;n cần thận trọng trước khi quyết định đầu tư nu&ocirc;i c&aacute; tra giống. C&aacute;c ng&agrave;nh chức năng ở Long An cho rằng, người d&acirc;n tự &yacute; đ&agrave;o ruộng l&uacute;a để nu&ocirc;i c&aacute; tra giống sẽ tiềm ẩn nguy cơ dịch bệnh, đầu ra kh&ocirc;ng ổn định. UBND tỉnh Long An c&oacute; văn bản chỉ đạo c&aacute;c ng&agrave;nh li&ecirc;n quan kiểm tra, tuy&ecirc;n truyền v&agrave; xử phạt h&agrave;nh ch&iacute;nh đối với c&aacute;c hộ d&acirc;n tự &yacute; đ&agrave;o ao nu&ocirc;i c&aacute; tra giống tr&ecirc;n đất l&uacute;a tại c&aacute;c huyện thuộc v&ugrave;ng Đồng Th&aacute;p Mười của tỉnh.</span></p>
+
+<p><span style="font-size:14px">C&oacute; một chuyện kh&aacute; &ldquo;tr&aacute;i kho&aacute;y&rdquo; l&agrave; khi n&ocirc;ng d&acirc;n &ugrave;n &ugrave;n đ&agrave;o đất ruộng nu&ocirc;i c&aacute; tra giống, th&igrave; Bộ NN-PTNT c&ocirc;ng bố quyết định 987 về việc ph&ecirc; duyệt đề &aacute;n &ldquo;Li&ecirc;n kết sản xuất giống c&aacute; tra 3 cấp chất lượng cao v&ugrave;ng ĐBSCL&rdquo;. Theo đề &aacute;n n&agrave;y, từ nay đến năm 2025, Nh&agrave;&nbsp; nước sẽ đầu tư cơ sở hạ tầng sản xuất giống c&aacute; tra 770ha tập trung ở 3 v&ugrave;ng tại An Giang (huyện Ch&acirc;u Ph&uacute;, thị x&atilde; T&acirc;n Ch&acirc;u v&agrave; TP Long Xuy&ecirc;n) với tổng diện t&iacute;ch 350ha; 3 v&ugrave;ng tại Đồng Th&aacute;p (huyện Hồng Ngự, Cao L&atilde;nh, Ch&acirc;u Th&agrave;nh) với tổng diện t&iacute;ch 400ha. Tổng nguồn vốn thực hiện đề &aacute;n c&aacute; tra giống n&agrave;y l&agrave; 592 tỷ đồng. C&oacute; thể n&oacute;i, đề &aacute;n sản xuất giống c&aacute; tra 3 cấp chất lượng cao v&ugrave;ng ĐBSCL của Bộ NN-PTNT đang rơi v&agrave;o cảnh &ldquo;dở kh&oacute;c dở cười&rdquo;. V&igrave; khi đề &aacute;n triển khai, c&oacute; 770ha nu&ocirc;i c&aacute; tra giống ở An Giang v&agrave; Đồng Th&aacute;p, th&igrave; n&ocirc;ng d&acirc;n &ldquo;ngo&agrave;i v&ugrave;ng quy hoạch&rdquo; ở Long An đ&atilde; tăng tốc gần 1.000ha. C&acirc;u chuyện &ldquo;giẫm ch&acirc;n&rdquo; nhau l&agrave; kh&oacute; tr&aacute;nh khỏi...</span></p>
+
+<p><span style="font-size:14px">CAO PHONG</span></p>

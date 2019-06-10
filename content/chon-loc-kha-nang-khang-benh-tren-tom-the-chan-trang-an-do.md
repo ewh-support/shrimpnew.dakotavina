@@ -1,0 +1,94 @@
+---json
+{
+    "title": "Chọn lọc khả năng kháng bệnh trên tôm thẻ chân trắng Ấn Độ",
+    "slug": "chon-loc-kha-nang-khang-benh-tren-tom-the-chan-trang-an-do",
+    "layout": "noidung.html",
+    "category": "danh-muc.ky-thuat.nuoi-tom",
+    "tag": [],
+    "date": "2017-07-13",
+    "publishDate": "",
+    "draft": false,
+    "tieude": "Chọn lọc khả năng kháng bệnh trên tôm thẻ chân trắng Ấn Độ",
+    "doan gioi thieu": "",
+    "doangioithieu": "Tổng hợp nghiên cứu khoa học chọn lọc tôm kháng bệnh của Mohamed EL. Sayed Megahed, Ph.D. (Viện Hải dương học và nghề cá (NIOF) - Bộ Nghiên cứu khoa học Ấn Độ).",
+    "doan2vach": "",
+    "noidung": "",
+    "trichdan": "aquanetviet.com",
+    "Anhtieude": "/img/tumblr_inline_olctluvvHj1txo3bl_1280.jpg",
+    "tacgia": "Jay",
+    "__content__": ""
+}
+---
+<p><strong>Kết quả hiện tại của một chương tr&igrave;nh nh&acirc;n giống chọn lọc được ứng dụng tại Ai Cập</strong></p>
+
+<p>T&ocirc;m thẻ ch&acirc;n trắng Ấn Độ (t&ecirc;n khoa học:&nbsp;<em>Fenneropenaeus indicus</em>) l&agrave; lo&agrave;i quan trọng trong ng&agrave;nh nu&ocirc;i trồng thủy sản của Ai Cập, lo&agrave;i t&ocirc;m n&agrave;y đang bị ảnh hưởng ti&ecirc;u cực từ một số bệnh ch&iacute;nh. Một số chương tr&igrave;nh chọn lọc nh&acirc;n giống đ&atilde; th&agrave;nh c&ocirc;ng trong việc cải thiện khả năng kh&aacute;ng bệnh v&agrave; chống lại c&aacute;c mầm bệnh đặc trưng, v&agrave; n&oacute; chỉ ra rằng sự cải tiến c&aacute;c gen c&oacute; khả năng đề kh&aacute;ng một v&agrave;i loại bệnh l&agrave; khả thi.</p>
+
+<p>Tuy nhi&ecirc;n, để thực hiện tối ưu sự chọn lọc nhằm cải thiện khả năng kh&aacute;ng bệnh trong một chương tr&igrave;nh nh&acirc;n giống, th&igrave; nghi&ecirc;n cứu kỹ lưỡng xem liệu c&oacute; c&aacute;c tương quan c&oacute; &yacute; nghĩa về mặt di truyền giữa khả năng kh&aacute;ng bệnh v&agrave; c&aacute;c đặc điểm quan trọng kh&aacute;c trong mục ti&ecirc;u nh&acirc;n giống hay kh&ocirc;ng l&agrave; điều quan trọng.</p>
+
+<p>Chọn lọc cho khả năng kh&aacute;ng bệnh l&agrave; một phương ph&aacute;p bền vững cho ph&aacute;t triển ng&agrave;nh nu&ocirc;i trồng thủy sản, bằng c&aacute;ch cung cấp nhiều hơn những đặc điểm kh&aacute;ng bệnh tr&ecirc;n vật nu&ocirc;i. Đ&atilde; c&oacute; nhiều t&agrave;i liệu dẫn chứng rằng c&oacute; một sự biến dị di truyền bổ sung lớn trong khả năng đề kh&aacute;ng c&aacute;c bệnh th&ocirc;ng thường trong nu&ocirc;i trồng thủy sản. C&aacute;c chương tr&igrave;nh nh&acirc;n giống hiệu quả &nbsp;tr&ecirc;n t&ocirc;m cần phải bao gồm cả khả năng kh&aacute;ng bệnh qua qu&aacute; tr&igrave;nh chọn lọc.</p>
+
+<p>C&ocirc;ng tr&igrave;nh nghi&ecirc;n cứu của ch&uacute;ng t&ocirc;i đ&atilde; thực hiện sự chọn lọc nhằm tăng cường khả năng kh&aacute;ng bệnh, như một phần của chương tr&igrave;nh chọn lọc t&ocirc;m thẻ ch&acirc;n trắng Ấn Độ được thực hiện tại một trang trại nu&ocirc;i t&ocirc;m c&aacute; nh&acirc;n ở AL Dibah Triangle Zone (DTZ), Ai Cập. Nghi&ecirc;n cứu dựa tr&ecirc;n c&aacute;c th&iacute; nghiệm kiểm tra g&acirc;y cảm nhiễn được kiểm so&aacute;t chặt chẽ m&agrave; ở đ&oacute;, t&ocirc;m từ mỗi hộ sản xuất trong trung t&acirc;m nh&acirc;n giống được cho g&acirc;y nhiễm với mầm bệnh như WSSV, IHHNV v&agrave; EMS th&ocirc;ng qua c&aacute;c vật &nbsp;mang mầm bệnh sống chung.</p>
+
+<p>C&aacute;c mục ti&ecirc;u chung của dự &aacute;n - được hỗ trợ bởi Quỹ khoa học &amp; Ph&aacute;t triển C&ocirc;ng nghệ (STDF), Ai Cập được cấp theo số hiệu 5561- l&agrave; để ph&aacute;t triển một chương tr&igrave;nh chọn lọc nhằm tăng cường khả năng đề kh&aacute;ng đối với c&aacute;c bệnh ch&iacute;nh tr&ecirc;n t&ocirc;m thẻ ch&acirc;n trắng ấn độ; nghi&ecirc;n cứu mức độ biến dị di truyền khả năng kh&aacute;ng lại nh&oacute;m bệnh WSSV, IHHNV v&agrave; EMS bởi c&aacute;c th&iacute; nghiệm cảm nhiễm trong điều kiện nu&ocirc;i thương phẩm, v&agrave; ph&aacute;t triển chỉ một giống đa năng thay v&igrave; một số giống đặc biệt chỉ chuy&ecirc;n cho c&aacute;c m&ocirc;i trường đặc biệt (v&iacute; dụ chỉ kh&aacute;ng một bệnh cụ thể).</p>
+
+<p>Ch&uacute;ng t&ocirc;i hi vọng nghi&ecirc;n cứu sẽ mang lại những lợi &iacute;ch kinh tế trực tiếp cho n&ocirc;ng d&acirc;n nu&ocirc;i t&ocirc;m, th&ocirc;ng qua giảm những thiệt hại do b&ugrave;ng ph&aacute;t dịch bệnh tr&ecirc;n t&ocirc;m. Ở đ&acirc;y ch&uacute;ng ta c&ugrave;ng xem x&eacute;t một số hoạt động ch&iacute;nh của dự &aacute;n kể từ cuối năm 2013.</p>
+
+<p><img src="http://68.media.tumblr.com/c59d4d4e2910762837830c8b8bba5f28/tumblr_inline_olct8l4I6J1txo3bl_1280.jpg" /></p>
+
+<p><em>Hệ thống sử dụng cho qu&aacute; tr&igrave;nh chọn lọc giống</em></p>
+
+<p><strong>Ph&aacute;t triển c&aacute;c điểm đ&aacute;nh dấu v&ugrave;ng DNA (microsatellite marker)</strong></p>
+
+<p>Một trong những mục ti&ecirc;u của ch&uacute;ng t&ocirc;i l&agrave; ph&aacute;t triển một hệ thống kiểu gen cho t&ocirc;m thẻ ch&acirc;n trắng Ấn Độ c&oacute; khả năng kh&aacute;ng c&aacute;c bệnh kh&aacute;c nhau, bằng c&aacute;ch sử dụng v&ugrave;ng DNA &nbsp;microsatellite như c&aacute;c vị tr&iacute; đ&aacute;nh dấu. Hệ thống n&agrave;y cuối c&ugrave;ng sẽ được sử dụng để thay đổi kiểu gen bố mẹ của c&aacute;c lo&agrave;i n&agrave;y để kiểm so&aacute;t sự đa dạng di truyền trong nh&oacute;m.</p>
+
+<p>C&aacute;c điểm đ&aacute;nh dầu v&agrave; dữ liệu kiểu gen sẽ được sử dụng chủ yếu cho 4 mục đ&iacute;ch sau: (1) so s&aacute;nh t&iacute;nh đa dạng di truyền của c&aacute; thể bố mẹ trong c&aacute;c quẩn thể t&ocirc;m v&agrave; t&iacute;nh to&aacute;n sự đa dạng di truyển giữa c&aacute;c quần thể (v&iacute; dụ, Fst), (2) gi&aacute;m s&aacute;t sự thay đổi li&ecirc;n tục ở tần số Alen trong đ&agrave;n c&aacute; thể bố mẹ kh&eacute;p k&iacute;n. (3) x&aacute;c định sự ph&acirc;n huyết v&agrave; đồng huyết trong đ&agrave;n bố mẹ, (4) đăng k&yacute; quyền sở hữu tr&iacute; tuệ.</p>
+
+<p>Trong giai đoạn I, 100 đoạn mồi được thiết kế từ c&aacute;c chuỗi chỉ DNA microsatellite của t&ocirc;m thẻ ch&acirc;n trắng Ấn Độ&nbsp;<em>F. indicus</em>. Để đảm bảo t&iacute;nh tối ưu v&agrave; đa h&igrave;nh trong giai đoạn hai, 41 đoạn mồi đ&atilde; được th&iacute; nghiệm bước đầu. Hiện nay, 21 cặp mồi đ&atilde; được tối ưu h&oacute;a v&agrave; sử dụng khuếch đại c&aacute;c microsatellite trong c&aacute;c c&aacute; thể ở giai đoạn I. Đến nay, 9 trong số c&aacute;c locus n&agrave;y đ&atilde; chứng tỏ t&iacute;nh đa h&igrave;nh, điều n&agrave;y cung cấp th&ocirc;ng tin hữu &iacute;ch v&agrave; sẽ được sử dụng thường xuy&ecirc;n trong cấu tr&uacute;c kiểu gen. Sự đa h&igrave;nh trong phần c&ograve;n lại của c&aacute;c locus chưa thể x&aacute;c định r&otilde; v&igrave; ch&uacute;ng vẫn con đang được ph&acirc;n t&iacute;ch trong polyacrylamide gel. Nếu cần thiết, nhiều locus sẽ được th&ecirc;m v&agrave;o bản gốc 21 từ 41 đoạn mồ đ&atilde; được lựa chọn trước đ&oacute;. Ho&agrave;n th&agrave;nh &ldquo;chọn lọc&rdquo; locus được sử dụng trong x&aacute;c định kiểu gen l&agrave; mục ti&ecirc;u đến cuối năm 2016.</p>
+
+<p><strong>Chủng đặc biệt cho c&aacute;c m&ocirc;i trường</strong></p>
+
+<p>Mục đ&iacute;ch ban đầu l&agrave; sản xuất một chủng đ&aacute;p ứng tất cả c&aacute;c mục ti&ecirc;u, cải thiện giống t&ocirc;m thẻ ch&acirc;n trắng Ấn Độ, nhưng ch&uacute;ng t&ocirc;i đ&atilde; ph&aacute;t triển mục ti&ecirc;u của m&igrave;nh v&agrave; tự đưa ch&iacute;nh ch&uacute;ng t&ocirc;i v&agrave;o 2 hệ thống nu&ocirc;i rất kh&aacute;c nhau, th&acirc;m canh v&agrave; b&aacute;n th&acirc;m canh. Sự ch&uacute; trọng v&agrave;o m&ocirc;i trường th&acirc;m canh gợi &yacute; rằng nhiều chủng t&ocirc;m sẽ ph&aacute;t triển to&agrave;n bộ v&ograve;ng đời ở mật độ cao m&agrave; kh&ocirc;ng c&oacute; thức ăn tự nhi&ecirc;n (trừ c&aacute;c biofloc) v&agrave;, c&oacute; thể l&agrave;, kh&ocirc;ng c&oacute; v&agrave;i mầm bệnh được thấy trong ao. Tuy nhi&ecirc;n, ch&uacute;ng t&ocirc;i vẫn ch&uacute; t&acirc;m v&agrave;o hệ thống nu&ocirc;i b&aacute;n th&acirc;m canh trong m&ocirc;i trường c&oacute; thức ăn tự nhi&ecirc;n, động vật ăn thịt v&agrave; kh&ocirc;ng gian cho c&aacute;c mối tương t&aacute;c.</p>
+
+<p>C&oacute; thể c&oacute; sự đ&aacute;nh đổi giữa những đặc điểm c&oacute; ảnh hưởng đến sự tăng trưởng v&agrave; tỉ lệ sống của vật nu&ocirc;i trong hai m&ocirc;i trường n&agrave;y. Mặc d&ugrave; chưa c&oacute; bất cứ bằng chứng về sự đ&aacute;nh đổi trong t&ocirc;m hoặc c&aacute;, m&agrave; chỉ t&igrave;m thấy ở động vật kh&aacute;c. Khả năng đ&aacute;nh đổi giữa tăng trưởng v&agrave; kh&aacute;ng bệnh ở một trong hai hoặc cả hai m&ocirc;i trường vẫn đang l&agrave; một c&acirc;u hỏi mở.</p>
+
+<p>V&igrave; vậy, chương tr&igrave;nh di truyền sẽ chỉ ph&aacute;t triển một chủng cho hai thế hệ đầu ti&ecirc;n cho đến th&aacute;ng Gi&ecirc;ng 2016. Trong nửa cuối năm nay, th&ocirc;ng tin n&agrave;y cho ph&eacute;p ch&uacute;ng t&ocirc;i đưa ra quyết định bao nhi&ecirc;u chủng sẽ được ph&aacute;t triển sau đ&oacute;. Th&ocirc;ng tin cần thiết bao gồm hồ sơ tăng trưởng v&agrave; sống s&oacute;t được ghi lại từ c&aacute;c c&aacute; thể c&oacute; mối quan hệ đồng huyết với nhau, v&agrave; th&ocirc;ng tin tương tự sử dụng cho &ldquo;chọn lọc&rdquo;. Việc thu thập th&ocirc;ng tin phải được tiến h&agrave;nh thường xuy&ecirc;n trong bất cứ giai đoạn n&agrave;o của cả chương tr&igrave;nh di truyền.</p>
+
+<p><strong>C&acirc;n bằng cường độ chọn lọc giữa tăng trưởng v&agrave; khả năng sống s&oacute;t</strong></p>
+
+<p>Trong năm đầu ti&ecirc;n, ch&uacute;ng t&ocirc;i đ&atilde; l&agrave;m việc tr&ecirc;n cường độ chọn lọc c&acirc;n bằng giữa sinh trưỏng v&agrave; khả năng kh&aacute;ng c&aacute;c bệnh WSSV, IHHNV, v&agrave; EMS. Nhưng gần đ&acirc;y, ch&uacute;ng t&ocirc;i đ&atilde; lựa chọn tỉ lệ tương đối tương ứng l&agrave; 70:30. Sự c&acirc;n bằng sẽ đạt được bằng c&aacute;ch điều chỉnh sự nghi&ecirc;m ngặt giữa chọn lọc tăng trưởng v&agrave; g&acirc;y cảm nhiễm bệnh (WSSV, IHHNV, EMS), v&agrave; bằng c&aacute;ch bỏ qua ho&agrave;n to&agrave;n g&acirc;y cảm nhiễm trong một số chủng được lựa chọn hoặc một nh&oacute;m họ.</p>
+
+<p>C&aacute;c quyết định về việc c&oacute; hay kh&ocirc;ng g&acirc;y cảm nhiễm bất kỳ nh&oacute;m cụ thể n&agrave;o của vật nu&ocirc;i c&oacute; thể dễ d&agrave;ng thực hiện ngay bởi người quản l&yacute; dự &aacute;n di truyền nếu hồ sơ lưu trữ được cập nhật. Ph&acirc;n t&iacute;ch về khả năng đ&aacute;nh đổi giữa tăng trưởng v&agrave; sự sống s&oacute;t được thực hiện trong suốt qu&aacute; tr&igrave;nh xem x&eacute;t ch&iacute;nh trong năm 2015 khi chương tr&igrave;nh chọn lọc được sửa đổi.</p>
+
+<p><strong>Kết hợp cải thiện bố mẹ v&agrave;o hệ thống sản xuất</strong></p>
+
+<p>Kế hoạch đầu năm 2014 l&agrave; tạo ra trong mỗi &ldquo;họ&rdquo; của những c&aacute; thể con ch&aacute;u từ 4 c&aacute; thể đực c&ugrave;ng bố mẹ giao phối với 4 c&aacute; thể c&aacute;i c&ugrave;ng bố mẹ kh&aacute;c. Cường độ chọn lọc về sống s&oacute;t trong năm 2015 đ&atilde; giảm xuống v&agrave; hiện nay tăng sự ch&uacute; &yacute; v&agrave;o sự bảo vệ đ&agrave;n bố mẹ khỏi sự vi phạm bản quyền. Với những l&yacute; do n&agrave;y, c&aacute;ch tiếp cận mới của ch&uacute;ng t&ocirc;i l&agrave; một hệ thống nh&acirc;n giống c&ugrave;ng họ, trong đ&oacute; chỉ c&oacute; một c&aacute; thể đực v&agrave; một c&aacute; thể c&aacute;i (kh&ocirc;ng phải 4 của mỗi) được sử dụng để sản xuất từng &ldquo;họ&rdquo; m&agrave; trong đ&oacute; sự chọn lọc diễn ra. Một t&ocirc;m đực từ d&ograve;ng di truyền đực v&agrave; một t&ocirc;m c&aacute;i từ d&ograve;ng di truyền c&aacute;i trong chương tr&igrave;nh di truyền sẽ được giao phối cho một d&ograve;ng sinh sản.</p>
+
+<p>Nhược điểm của quyết định n&agrave;y l&agrave; năng suất sản xuất t&ocirc;m giống PL sẽ lu&ocirc;n l&agrave; một thế hệ với c&ugrave;ng năng suất của d&ograve;ng được chọn lọc. Hoạt động sản xuất sẽ được cải thiện ở mức tương tự như d&ograve;ng được chọn lọc với độ trễ một thế hệ.</p>
+
+<p><img src="http://68.media.tumblr.com/c4591f8bad803e99b73b2f1a5e5f0cde/tumblr_inline_olctcuELk21txo3bl_500.jpg" /></p>
+
+<p><em>Sơ đồ di truyền v&agrave; quy tr&igrave;nh sản xuất</em></p>
+
+<p><strong>Bảo vệ di truyền chống lại sự ăn cắp bản quyền</strong></p>
+
+<p>Ban đầu, ch&uacute;ng t&ocirc;i nghĩ rằng việc giữ lợi thế trong cạnh tranh bằng sản phẩm PL chất lượng hơn mỗi năm sẽ l&agrave; đủ sự bảo vệ cho c&ocirc;ng việc của ch&uacute;ng t&ocirc;i, &iacute;t nhất l&agrave; cho đến khi c&oacute; một hệ thống nhận dạng dựa tr&ecirc;n microsatellite được đưa ra. B&acirc;y giờ c&oacute; vẻ như một d&ograve;ng cải tiến c&oacute; thể bị ăn cắp nhanh như ch&uacute;ng ta c&oacute; thể ph&aacute;t triển n&oacute;. V&igrave; vậy, hệ thống sản xuất đ&atilde; được điều chỉnh để bất kỳ sản phẩm PL cũng c&oacute; thể được sử dụng như bố mẹ sẽ sinh ra c&aacute;c đ&agrave;n con đồng huyết đồng đều &nbsp;F = 0,125 tương đương với việc giao phối nửa đồng huyết (half-sib).</p>
+
+<p>Sự sụt giảm năng suất trong giao phối cận huyết l&agrave; khoảng 20% dưới c&aacute;c điều kiện căn thẳng từ sản xuất thủy sản. c&aacute;c thế hệ tiếp theo của bố mẹ bị ăn cắp sẽ c&oacute; một trung b&igrave;nh F=0,125; v&agrave; như một th&aacute;ch thức nữa, sự giao phối cận huyết sẽ tạo ra sự kh&aacute;c nhau giữa c&aacute;c c&aacute; thể v&agrave; c&aacute;c nh&oacute;m, l&agrave;m cho hiệu suất nu&ocirc;i thương phẩm kh&ocirc;ng thể dự đo&aacute;n trước được. Bảo vệ di truyền sinh học chống lại ăn cắp bản quyền l&agrave; l&yacute; do ch&iacute;nh giải th&iacute;ch v&igrave; sao sản xuất PL nu&ocirc;i thương phẩm sẽ chậm hơn một năm so với PL trong c&aacute;c chương tr&igrave;nh di truyền.</p>
+
+<p><strong>Bằng chứng từ c&aacute;c microsatellite marker lai cận huyết giữa c&aacute;c t&ocirc;m nu&ocirc;i v&agrave; sự b&ugrave;ng ph&aacute;t dịch bệnh t&ocirc;m ở Ai Cập</strong></p>
+
+<p>Sự khủng hoảng về dich bệnh m&agrave; ng&agrave;nh t&ocirc;m ở Ai Cập phải đối mặt l&agrave; kết quả của sự tương t&aacute;c giữa c&aacute;c hoạt động nh&acirc;n giống cận huyết, sự hiện diện của c&aacute;c mầm bệnh v&agrave; t&iacute;nh nhạy cảm của những c&aacute; thể mang bệnh v&agrave; &aacute;p lực từ m&ocirc;i trường. Sự gia tăng t&iacute;nh cận huyết đ&atilde; th&uacute;c đẩy tỷ lệ mắc bệnh kh&aacute;c nhau bao gồm cả WSSV. IHHNC, YHV v&agrave; EMS.</p>
+
+<p>Ch&uacute;ng t&ocirc;i bắt đầu một chương tr&igrave;nh nh&acirc;n giống trong năm 2013 cho sự chọn lọc d&ograve;ng kh&aacute;ng bệnh tr&ecirc;n t&ocirc;m thẻ ch&acirc;n trắng Ấn Độ ở Ai Cập như một chương tr&igrave;nh nh&acirc;n giống thương mại &aacute;p dụng để cản thiện năng suất v&agrave; lợi nhu&acirc;n trong ng&agrave;nh nu&ocirc;i t&ocirc;m nước n&agrave;y. V&agrave;o thời điểm đ&oacute;, chỉ c&oacute; một phần quần thể t&ocirc;m đ&oacute;ng g&oacute;p gen di truyền cho thế hệ sau, v&agrave; người nu&ocirc;i t&ocirc;m đ&atilde; cho phối giống c&aacute;c t&ocirc;m c&oacute; họ h&agrave;ng với nhau v&agrave; sử dụng lại cận huyết.</p>
+
+<p>Điều n&agrave;y l&agrave;m tăng mức độ giao phối cận huyết qua nhiều thế hệ, v&agrave; c&oacute; thể nhận thất bại ở một số đặc điểm như khả năng kh&aacute;ng bệnh, sinh trưởng v&agrave; sinh sản. Do đ&oacute;, trong chương tr&igrave;nh nh&acirc;n giống kh&aacute;ng bệnh v&agrave; tăng trưởng tr&ecirc;n t&ocirc;m thẻ ch&acirc;n trắng Ấn Độ, ch&uacute;ng t&ocirc;i thường xuy&ecirc;n theo d&otilde;i v&agrave; t&iacute;nh to&aacute;n c&aacute;c t&aacute;c động của giao phối cận huyết v&agrave; c&acirc;n bằng th&iacute;ch hợp cho sự &ldquo;chọn lọc&rdquo;.C&aacute;c Microsatellite marker v&agrave; phả hệ đều được sử dụng để đ&aacute;nh gi&aacute; đa dạng di truyền v&agrave; ảnh hưởng của quy m&ocirc; quần thể. Sử dụng 10 Locus, quần thể t&ocirc;m được chọn lọc qua 3 thế hệ cho thấy một sự suy giảm trong biến dị (khoảng 15%) v&agrave; chỉ số đa dạng Alen (52-93%), so với quần thể tự nhi&ecirc;u (P&lt;0,05). Ước t&iacute;nh ảnh hưởng của quy m&ocirc; quần thể dựa tr&ecirc;n sự suy giảm microsatellite từ 46,5-77,0% trong c&aacute;c quần thể nu&ocirc;i cấy (P&lt;0,05), so với c&aacute;c quần thể hoang d&atilde;. L&agrave;m việc trực tiếp với c&aacute;c b&ecirc;n li&ecirc;n quan đ&atilde; gi&uacute;p tăng cường phổ viến c&aacute;c kiến thức v&agrave; nhận thức.</p>
+
+<p><img src="http://68.media.tumblr.com/5d5374e1eef14da66e7b63ef2f48ac75/tumblr_inline_olctgdO0Xh1txo3bl_1280.jpg" /></p>
+
+<p>(<em>Tr&ecirc;n) Nguồn cấp cao của sự đa dạng; những đ&oacute;ng g&oacute;p di truyền của những nguồn đ&oacute;ng g&oacute;p kh&aacute;c nhau được thể hiện trong m&agrave;u sắc kh&aacute;c nhau. (Dưới) Gia phả của 4 gia đ&igrave;nh rất thuần. Một h&igrave;nh ph&oacute;ng lớn được vẽ lại ở g&oacute;c dưới b&ecirc;n phải để nhấn mạnh sự tương đồng của n&oacute; với c&aacute;c chương tr&igrave;nh chống sao ch&eacute;p lậu. Bắt đầu từ d&ograve;ng dưới c&ugrave;ng của động vật v&agrave; di chuyển l&ecirc;n, F = 0,38, 0,25. 0,125, 0.0 v&agrave; 0.05 xấp xỉ.</em></p>
+
+<p>Chiến lược của ch&uacute;ng t&ocirc;i để kiểm so&aacute;t d&agrave;i hạn giao phối cận huyết trong chương tr&igrave;nh nh&acirc;n giống l&agrave; sử dụng một số lượng lớn c&aacute;c c&aacute; thể bố mẹ trong mỗi thế hệ, v&agrave; kiểm so&aacute;t giao phối họ h&agrave;ng bằng c&aacute;ch &aacute;p đặt hạn chế giao phối (sử dụng c&aacute;c microsatellite marker để ph&acirc;n t&iacute;ch phả hệ v&agrave; lựa chọn cặp giao phối). C&aacute;c kết quả đ&atilde; chỉ ra rằng sử dụng c&aacute;c microsatellite marker đưa ra giả thuyết rằng dị hợp tử tại microsatellite locus cũng c&oacute; tương quan với hệ số cận huyết c&aacute; thể. Sự suy giảm biến dị di truyền trong quần thể nu&ocirc;i chọn lọc do sự thuần h&oacute;a, v&agrave; bằng chứng của sự suy giảm k&iacute;ch thước hiệu quả của quần thể qua c&aacute;c thế hệ của quần thể chọn lọc, được quan s&aacute;t khi ph&acirc;n t&iacute;ch phả hệ v&agrave; dữ liệu microsatellite.</p>
+
+<p>Giữ g&igrave;n phả hệ l&agrave; cần thiết để ngăn chặn sự suy giảm k&iacute;ch thước hiệu quả của quần thể v&agrave; duy tr&igrave; biến dị di truyền trong c&aacute;c chương tr&igrave;nh nh&acirc;n giống t&ocirc;m, trong khi đ&oacute; &nbsp;microsatellite rất hữu &iacute;ch để đ&aacute;nh gi&aacute; sự thay đổi k&iacute;ch thước hiệu quả của quẩn thể. Tuy nhi&ecirc;n, ch&uacute;ng t&ocirc;i vẫn cho ph&eacute;p bảo quản c&aacute;c biến dị di truyền cần thiết để tiếp tục cải những t&iacute;nh trạng hiện tại của quần thể hoặc những t&iacute;nh trạng kh&aacute;c c&oacute; thể cần phải kết hợp trong tương lai.</p>
+
+<p><strong>Source: Hồng Cẩm, TepBac.Com. Theo&nbsp;<a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fadvocate.gaalliance.org&amp;t=ODU2MzVmMjFkNjMzMDE0YTM2MDNkNmZiMGMzZDQzOGQxZDNkMTJkZSxJTnd0UlhOZw%3D%3D&amp;b=t%3A3oveWhmB1qqhhHxKEd_pLw&amp;p=http%3A%2F%2Faquanetviet.com%2Fpost%2F157226566840%2Fch%E1%BB%8Dn-l%E1%BB%8Dc-kh%E1%BA%A3-n%C4%83ng-kh%C3%A1ng-b%E1%BB%87nh-tr%C3%AAn-t%C3%B4m-th%E1%BA%BB-ch%C3%A2n&amp;m=1" target="_blank">http://advocate.gaalliance.org</a></strong></p>

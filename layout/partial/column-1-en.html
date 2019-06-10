@@ -1,0 +1,138 @@
+<div id="main-content" class="mh-content mh-home-content">
+	<div id="mh_magazine_posts_large-2" class="mh-widget mh-home-2 mh-widget-col-2 mh_magazine_posts_large">
+		{{#each (first (lookupCategory AllCategory 'category' 'files') 1)}}
+		<div class="mh-posts-large-widget">
+			<article class="mh-posts-large-item clearfix post-39 post type-post status-publish format-standard has-post-thumbnail category-world-news tag-capital tag-news tag-politics">
+				<figure class="mh-posts-large-thumb">
+					<a class="mh-thumb-icon" href="/{{slug}}" title="{{title}}"><img width="678" height="381" src="{{Anhtieude}}" class="attachment-mh-magazine-content size-mh-magazine-content wp-post-image"
+							alt="thuysan247" /> </a>
+					{{#with (lookupCategory ../AllCategory category)}}
+					<div class="mh-image-caption mh-posts-grid-caption">{{displayName}}</div>
+					{{/with}}
+				</figure>
+				<div class="mh-posts-large-content clearfix">
+					<header class="mh-posts-large-header">
+
+						<h3 class="entry-title mh-posts-large-title">
+							<a href="/{{slug}}" title="{{title}}" rel="bookmark">{{title}}</a>
+						</h3>
+						<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/{{slug}}">{{moment date lang="vi" format="DD MM YYYY"}}</a></span>							
+                        </div>
+					</header>
+					<div class="mh-posts-large-excerpt clearfix">
+						<div class="mh-excerpt">
+							<p>{{doangioithieu}}
+								<a class="mh-excerpt-more" href="/{{slug}}" title="{{title}}">[&#8230;]</a>
+							</p>
+						</div>
+					</div>
+				</div>
+			</article>
+		</div>
+		{{/each}}
+		
+	</div>
+	<div id="mh_magazine_posts_grid-2" class="mh-widget mh-home-2 mh-widget-col-2 mh_magazine_posts_grid">
+		<div class="mh-row mh-posts-grid mh-posts-grid-widget clearfix mh-posts-grid-hide-meta mh-posts-grid-hide-excerpt">
+			{{#each (first (lookupCategory AllCategory 'category' 'files') 4)}} {{#lt @key 1}} {{else}}
+			<div class="mh-col-1-3 mh-posts-grid-col clearfix">
+				<article class="mh-posts-grid-item clearfix post-17 post type-post status-publish format-standard has-post-thumbnail category-world-news tag-defense tag-military tag-news">
+					<figure class="mh-posts-grid-thumb">
+						<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/{{slug}}" title="{{title}}"><img width="326" height="245" src="{{Anhtieude}}" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+								alt="thuysan247" srcset="{{Anhtieude}} 326w, {{Anhtieude}} 678w, {{Anhtieude}} 80w" sizes="(max-width: 326px) 100vw, 326px"/> </a>
+						{{#with (lookupCategory ../AllCategory category)}}
+						<div class="mh-image-caption mh-posts-grid-caption">{{displayName}}</div>
+						{{/with}}
+
+
+					</figure>
+					<h3 class="entry-title mh-posts-grid-title">
+						<a href="/{{slug}}" title="{{title}}" rel="bookmark">{{title}}</a>
+					</h3>
+					<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/{{slug}}">{{moment date lang="vi" format="DD MM YYYY"}}</a></span>						
+                    </div>
+					<div class="mh-posts-grid-excerpt clearfix">
+						<div class="mh-excerpt">
+							<p>{{doangioithieu}}
+								<a class="mh-excerpt-more" href="/{{slug}}" title="{{title}}">[&#8230;]</a>
+							</p>
+						</div>
+					</div>
+				</article>
+			</div>
+			{{/lt}} {{/each}}
+		</div>
+		<div class="mh-row mh-posts-grid mh-posts-grid-widget mh-posts-grid-more clearfix mh-posts-grid-hide-meta mh-posts-grid-hide-excerpt">
+			{{#each (first (lookupCategory AllCategory 'category' 'files') 7)}} {{#lt @key 4}} {{else}}
+			<div class="mh-col-1-3 mh-posts-grid-col clearfix">
+				<article class="mh-posts-grid-item clearfix post-17 post type-post status-publish format-standard has-post-thumbnail category-world-news tag-defense tag-military tag-news">
+					<figure class="mh-posts-grid-thumb">
+						<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/{{slug}}" title="{{title}}"><img width="326" height="245" src="{{Anhtieude}}" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+								alt="thuysan247" srcset="{{Anhtieude}} 326w, {{Anhtieude}} 678w, {{Anhtieude}} 80w" sizes="(max-width: 326px) 100vw, 326px"
+							/> </a>
+
+						{{#with (lookupCategory ../AllCategory category)}}
+						<div class="mh-image-caption mh-posts-grid-caption">{{displayName}}</div>
+						{{/with}}
+
+
+					</figure>
+					<h3 class="entry-title mh-posts-grid-title">
+						<a href="/{{slug}}" title="{{title}}" rel="bookmark">{{title}}</a>
+					</h3>
+					<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/{{slug}}">{{moment date lang="vi" format="DD MM YYYY"}}</a></span>						
+                    </div>
+					<div class="mh-posts-grid-excerpt clearfix">
+						<div class="mh-excerpt">
+							<p>{{doangioithieu}}
+								<a class="mh-excerpt-more" href="/{{slug}}" title="{{title}}">[&#8230;]</a>
+							</p>
+						</div>
+					</div>
+				</article>
+			</div>
+			{{/lt}} {{/each}}
+		</div>
+	</div>
+	{{> advcolum1-1 }}
+	<div id="mh_magazine_posts_list-2" class="mh-widget mh-home-2 mh-widget-col-2 mh_magazine_posts_list">
+		<div class="mh-posts-list-widget">
+			{{#each (first (lookupCategory AllCategory 'category' 'files') 9)}} {{#lt @key 7}} {{else}}
+			<article class="mh-posts-list-item clearfix post-46 post type-post status-publish format-standard has-post-thumbnail category-travel tag-city tag-london tag-travel">
+				<figure class="mh-posts-list-thumb">
+					<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="/{{slug}}"><img width="326" height="245" src="{{Anhtieude}}" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+							alt="thuysan247" srcset="{{Anhtieude}} 326w, {{Anhtieude}} 80w" sizes="(max-width: 326px) 100vw, 326px" /> </a>
+					{{#with (lookupCategory ../AllCategory category)}}
+					<div class="mh-image-caption mh-posts-grid-caption">{{displayName}}</div>
+					{{/with}}
+				</figure>
+				<div class="mh-posts-list-content clearfix">
+					<header class="mh-posts-list-header">
+						<h3 class="entry-title mh-posts-list-title">
+							<a href="{{slug}}" title="{{title}}" rel="bookmark">{{title}}</a>
+						</h3>
+						<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/{{slug}}">{{moment date lang="vi" format="DD MM YYYY"}}</a></span>
+							</div>
+					</header>
+					<div class="mh-posts-list-excerpt clearfix">
+						<div class="mh-excerpt">
+							<p>{{doangioithieu}}
+								<a class="mh-excerpt-more" href="/{{slug}}" title="{{title}}">[&#8230;]</a>
+							</p>
+						</div>
+					</div>
+				</div>
+			</article>
+			{{/lt}} {{/each}}
+		</div>
+	</div>
+	<div class="clearfix">
+		<div class="mh-widget-col-1 mh-sidebar mh-home-sidebar mh-home-area-3">
+			{{> home-shrimp}}
+		</div>
+		<div class="mh-widget-col-1 mh-sidebar mh-home-sidebar mh-margin-left mh-home-area-4">
+			{{> home-fish}}
+		</div>
+       
+       
+	</div>

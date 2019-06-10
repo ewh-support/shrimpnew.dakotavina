@@ -1,0 +1,40 @@
+---json
+{
+    "title": "Đà Nẵng: Khai thác thủy sản theo hướng hiện đại",
+    "slug": "da-nang-khai-thac-thuy-san-theo-huong-hien-dai",
+    "layout": "noidung.html",
+    "category": "danh-muc.tin-tuc",
+    "tag": [
+        "tin-tuc"
+    ],
+    "date": "2018-09-26T17:00:00.000Z",
+    "draft": false,
+    "tieude": "",
+    "doan gioi thieu": "",
+    "doangioithieu": "Với nhiều chính sách hỗ trợ của Trung ương và thành phố trong việc khai thác, đánh bắt thủy sản, nhiều ngư dân đã mạnh dạn đầu tư, đóng mới tàu thuyền để vươn khơi bám biển, bảo vệ chủ quyền.",
+    "doan2vach": "",
+    "noidung": "",
+    "trichdan": "thuysanvietnam.com.vn",
+    "Anhtieude": "/img/theohuonghiendai.jpg",
+    "tacgia": "Lê Tuyến",
+    "chuthichhinh": "Từ khi có chính sách hỗ trợ phát triển thủy sản của thành phố, ngư dân đã mạnh dạn đầu tư, đóng mới tàu lớn vươn khơi xa. ",
+    "__content__": ""
+}
+---
+<p><strong>T&agrave;u c&ocirc;ng suất lớn tăng mạnh</strong></p>
+
+<p>Theo Sở N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển n&ocirc;ng th&ocirc;n th&agrave;nh phố, trước năm 1997, th&agrave;nh phố chỉ c&oacute; v&agrave;i t&agrave;u c&oacute; c&ocirc;ng suất từ 30CV đến dưới 90CV, khai th&aacute;c chủ yếu ở v&ugrave;ng lộng v&agrave; v&ugrave;ng ven bờ. Tuy nhi&ecirc;n, kh&ocirc;ng để v&ugrave;ng biển xa, nhất l&agrave; ngư trường Ho&agrave;ng Sa bỏ ngỏ, sau cơn b&atilde;o Chanchu 2016, được sự động vi&ecirc;n của ch&iacute;nh quyền c&aacute;c cấp, nhiều ngư d&acirc;n bắt đầu mạnh dạn n&acirc;ng cấp, đ&oacute;ng mới t&agrave;u c&oacute; c&ocirc;ng suất tr&ecirc;n 90CV để vươn khơi với c&aacute;c nghề chủ đạo l&agrave; lưới r&ecirc;, lưới b&ugrave;ng nh&ugrave;ng, lưới v&acirc;y.</p>
+
+<p>Đặc biệt, khi th&agrave;nh phố Đ&agrave; Nẵng ban h&agrave;nh Quyết định số 7068/QĐ-UBND ng&agrave;y 29-8-2012, sau n&agrave;y l&agrave; Quyết định số 47/2014/QĐ-UBND ng&agrave;y 12-12-2014 (gọi tắt l&agrave; Quyết định 47) về hỗ trợ ngư d&acirc;n đ&oacute;ng mới t&agrave;u c&oacute; c&ocirc;ng suất lớn với c&aacute;c mức hỗ trợ từ 500 triệu đồng đến 800 triệu đồng/t&agrave;u c&oacute; c&ocirc;ng suất từ 400 đến 800CV, số lượng t&agrave;u c&aacute; của Đ&agrave; Nẵng bắt đầu thay đổi r&otilde; rệt. T&iacute;nh đến nay, to&agrave;n th&agrave;nh phố c&oacute; 583 t&agrave;u c&aacute; c&oacute; c&ocirc;ng suất tr&ecirc;n 90CV, gấp 11 lần so với năm 2003 v&agrave; gấp 2,8 lần so với cuối năm 2013, trong đ&oacute; c&oacute; 75% l&agrave; t&agrave;u c&ocirc;ng suất tr&ecirc;n 400CV; đặc biệt c&oacute; những con t&agrave;u c&oacute; c&ocirc;ng suất tr&ecirc;n 1.300CV với đa chức năng l&agrave; vừa khai th&aacute;c vừa l&agrave;m hậu cần.</p>
+
+<p>Ri&ecirc;ng 8 th&aacute;ng đầu năm 2018, th&agrave;nh phố c&oacute; hơn 10 t&agrave;u c&oacute; c&ocirc;ng suất lớn được đ&oacute;ng mới đ&atilde; hạ thủy. Giữa năm 2018, tại &Acirc;u thuy&ecirc;̀n Thọ Quang, b&agrave; L&ecirc; Thị Thu Nga (trú phường Nại Hi&ecirc;n Đ&ocirc;ng, qu&acirc;̣n Sơn Trà) hạ thủy t&agrave;u c&aacute; vỏ gỗ c&oacute; s&ocirc;́ đăng ký ĐNa 91063 TS với c&ocirc;ng suất lắp m&aacute;y 855CV sau g&acirc;̀n 4 tháng đ&oacute;ng mới với t&ocirc;̉ng s&ocirc;́ ti&ecirc;̀n đ&acirc;̀u tư là 3,38 tỷ đồng. Đầu th&aacute;ng 8-2018, ngư d&acirc;n Trần Hải (ngụ phường Nại Hi&ecirc;n Đ&ocirc;ng, quận Sơn Tr&agrave;) hạ thủy t&agrave;u c&aacute; đ&oacute;ng mới c&ocirc;ng suất tr&ecirc;n 800CV, chi ph&iacute; hơn 3 tỷ đồng, trong đ&oacute; th&agrave;nh phố hỗ trợ 800 triệu đồng. Theo &ocirc;ng Hải, đ&acirc;y l&agrave; con t&agrave;u thứ 2 được &ocirc;ng hạ thủy trong một thời gian ngắn. &ldquo;Việc hỗ trợ đ&oacute;ng mới theo Quyết định 47 của th&agrave;nh phố đ&atilde; tạo động lực để ngư d&acirc;n c&oacute; t&agrave;u lớn vươn khơi l&agrave;m kinh tế, bảo vệ chủ quyền&rdquo;, &ocirc;ng Hải chia sẻ.</p>
+
+<p>B&agrave; Trần Thị Thanh T&acirc;m, Chủ tịch UBND quận Sơn Tr&agrave;, cho biết từ khi c&oacute; ch&iacute;nh s&aacute;ch hỗ trợ của UBND th&agrave;nh phố, cơ cấu t&agrave;u thuyền v&agrave; cơ cấu nghề khai th&aacute;c hải sản của quận Sơn Tr&agrave; chuyển dịch t&iacute;ch cực v&agrave; mạnh mẽ. Hiện quận c&oacute; 431 t&agrave;u c&aacute; đ&aacute;nh bắt xa bờ từ tr&ecirc;n 90CV đến 1.200CV. Địa phương đang t&iacute;ch cực vận động ngư d&acirc;n đầu tư đ&oacute;ng mới t&agrave;u c&aacute; c&ocirc;ng suất từ 400CV trở l&ecirc;n để vươn khơi khai th&aacute;c hải sản xa bờ gắn với bảo vệ chủ quyền biển, đảo; đồng thời, thực hiện tốt c&aacute;c chương tr&igrave;nh khuyến ngư v&agrave; hỗ trợ ngư d&acirc;n ứng dụng khoa học c&ocirc;ng nghệ, đầu tư trang thiết bị khai th&aacute;c v&agrave; bảo quản, n&acirc;ng cao hiệu quả kinh tế...</p>
+
+<p>Ngo&agrave;i Sơn Tr&agrave;, quận Thanh Kh&ecirc; l&agrave; địa phương thứ 2 c&oacute; sự thay đổi lớn về cơ cấu t&agrave;u thuyền. &Ocirc;ng V&otilde; Kim T&uacute;, Trưởng ph&ograve;ng Kinh tế quận Thanh Kh&ecirc; cho biết, 10 năm trở lại đ&acirc;y, quận Thanh Kh&ecirc; đ&atilde; vận động ngư d&acirc;n tiến h&agrave;nh cải ho&aacute;n, đầu tư đ&oacute;ng mới t&agrave;u lớn để vươn khơi. V&igrave; vậy, d&ugrave; lượng t&agrave;u giảm nhưng c&ocirc;ng suất t&agrave;u đ&atilde; tăng rất nhiều. T&iacute;nh đến nay, quận c&oacute; gần 130 t&agrave;u c&aacute; c&ocirc;ng suất lớn, b&igrave;nh qu&acirc;n mỗi chiếc đạt c&ocirc;ng suất 324CV, trong đ&oacute; c&oacute; tr&ecirc;n 55 chiếc từ 400CV đến hơn 1.300CV l&agrave;m c&aacute;c nghề lưới v&acirc;y, lưới cản, lưới r&ecirc; 3 lớp..., tập trung chủ yếu ở c&aacute;c phường Xu&acirc;n H&agrave; v&agrave; Thanh Kh&ecirc; Đ&ocirc;ng..., g&oacute;p phần n&acirc;ng cao sản lượng đ&aacute;nh bắt cho th&agrave;nh phố hằng năm.</p>
+
+<p><strong>H&igrave;nh th&agrave;nh lớp ngư d&acirc;n mới</strong></p>
+
+<p>&Ocirc;ng Nguyễn Đỗ T&aacute;m, Ph&oacute; Gi&aacute;m đốc Sở N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển n&ocirc;ng th&ocirc;n th&agrave;nh phố cho biết hơn 10 năm trở lại đ&acirc;y, việc chuyển đổi cơ cấu t&agrave;u thuyền theo hướng hiện đại cũng đ&atilde; h&igrave;nh th&agrave;nh n&ecirc;n một lớp ngư d&acirc;n mới, c&oacute; tr&igrave;nh độ, biết vận dụng khoa học c&ocirc;ng nghệ v&agrave;o đ&aacute;nh bắt. Nếu như trước đ&acirc;y, việc khai th&aacute;c hải sản nhiều nhưng do lối bảo quản truyền thống n&ecirc;n chất lượng hải sản thấp, gi&aacute; th&agrave;nh rẻ th&igrave; những năm trở lại đ&acirc;y đ&atilde; kh&aacute;c ho&agrave;n to&agrave;n. Những con t&agrave;u đ&oacute;ng mới đều được đầu tư, ngo&agrave;i thiết bị m&aacute;y m&oacute;c phục vụ c&ocirc;ng việc khai th&aacute;c th&igrave; ngư d&acirc;n rất ch&uacute; trọng đến hầm bảo quản cấp đ&ocirc;ng, bảo đảm qu&aacute; tr&igrave;nh vận chuyển về đất liền ti&ecirc;u thụ gi&aacute; trị hải sản gần như nguy&ecirc;n vẹn.</p>
+
+<p>Ngư d&acirc;n L&ecirc; Văn Sang (ngụ phường Thuận Phước, quận Hải Ch&acirc;u) l&agrave; một v&iacute; dụ điển h&igrave;nh. Bỏ c&ocirc;ng việc trong ng&agrave;nh du lịch, anh Sang đến với nghề biển từ sự đam m&ecirc; sau v&agrave;i chuyến ra khơi c&ugrave;ng cha. Trẻ, ham t&igrave;m t&ograve;i, học hỏi, lại mạnh dạn đầu tư n&ecirc;n anh Sang đ&atilde; đ&oacute;ng đội t&agrave;u l&agrave;m c&ocirc;ng t&aacute;c hậu cần với c&ocirc;ng suất từ 800CV- 1.290CV. Ngo&agrave;i ra, Sang c&ograve;n th&agrave;nh lập hợp t&aacute;c x&atilde; dịch vụ hậu cần nghề c&aacute;, x&acirc;y dựng nh&agrave; m&aacute;y chế biến để tiến h&agrave;nh xuất khẩu cũng như cung cấp hải sản chất lượng đến c&aacute;c tỉnh, th&agrave;nh trong cả nước. Hay vợ chồng ngư d&acirc;n Nguyễn Sương (phường Nại Hi&ecirc;n Đ&ocirc;ng, quận Sơn Tr&agrave;) những năm qua đ&atilde; mạnh dạn đầu tư đội t&agrave;u với 5 chiếc (bao gồm t&agrave;u đ&aacute;nh bắt v&agrave; hậu cần). Mỗi chiếc t&agrave;u sau khi hạ thủy, ngo&agrave;i việc t&agrave;u c&oacute; c&ocirc;ng suất lớn, vợ chồng Nguyễn Sương lu&ocirc;n ch&uacute; trọng đến hệ thống cấp đ&ocirc;ng, bảo quản hải sản theo ti&ecirc;u chuẩn của c&aacute;c nước ti&ecirc;n tiến. Nhờ vậy, hải sản về bờ lu&ocirc;n bảo đảm chất lượng, gi&aacute; th&agrave;nh cao, thu nhập ổn định. Với đội t&agrave;u 5 chiếc, hằng năm cho thu nhập h&agrave;ng tỷ đồng, lao động c&oacute; nguồn thu nhập cao.</p>

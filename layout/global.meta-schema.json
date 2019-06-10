@@ -1,0 +1,16 @@
+{
+    "_$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "title": {
+            "type": "string"
+        },
+        "url": {
+            "type": "string"
+        },
+        "logo": {
+            "type": "string",
+            "default": ""
+        }
+    }
+}

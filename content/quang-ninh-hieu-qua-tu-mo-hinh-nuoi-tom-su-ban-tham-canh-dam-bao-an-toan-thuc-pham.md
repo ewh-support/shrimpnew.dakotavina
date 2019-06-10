@@ -1,0 +1,30 @@
+---json
+{
+    "title": "Quảng Ninh: Hiệu quả từ mô hình nuôi tôm sú bán thâm canh đảm bảo an toàn thực phẩm",
+    "slug": "quang-ninh-hieu-qua-tu-mo-hinh-nuoi-tom-su-ban-tham-canh-dam-bao-an-toan-thuc-pham",
+    "layout": "noidung.html",
+    "category": "danh-muc.tin-tuc",
+    "tag": [
+        "tin-tuc"
+    ],
+    "date": "2018-12-26T17:00:00.000Z",
+    "draft": false,
+    "tieude": "",
+    "doan gioi thieu": "",
+    "doangioithieu": "Sau 5 tháng nuôi, mô hình nuôi tôm sú bán thâm canh, đảm bảo an toàn thực phẩm đã mang lại hiệu quả kinh tế cao, với vùng cao triều cho lãi trên 185,7 triệu đồng/ha, vùng hạ triều trên 139,8 triệu đồng/ha và giúp người dân từng bước tiếp cận, mở rộng sản xuất theo tiêu chuẩn mới.",
+    "doan2vach": "",
+    "noidung": "",
+    "trichdan": "thuysanvietnam.com.vn",
+    "Anhtieude": "/img/tom_qninh.jpg",
+    "tacgia": "Lê Tuyến",
+    "chuthichhinh": "Kiểm tra mô hình nuôi tôm sú bán thâm canh ",
+    "__content__": ""
+}
+---
+<p>T&ocirc;m nước lợ được x&aacute;c định l&agrave; đối tượng nu&ocirc;i chủ lực tại Quảng Ninh. Tuy nhi&ecirc;n hiện nay, t&ocirc;m thẻ ch&acirc;n trắng vẫn l&agrave; đối tượng nu&ocirc;i ch&iacute;nh được nu&ocirc;i bằng c&aacute;c h&igrave;nh thức b&aacute;n th&acirc;m canh v&agrave; th&acirc;m canh c&ocirc;ng nghệ cao mang lại hiệu quả kinh tế lớn th&igrave; t&ocirc;m s&uacute; mới chỉ được nu&ocirc;i chủ yếu bằng h&igrave;nh thức quảng canh, quảng canh cải tiến tại c&aacute;c địa phương với hiệu quả mang lại chưa xứng với tiềm năng. B&ecirc;n cạnh đ&oacute;, vấn đề an to&agrave;n thực phẩm trong nu&ocirc;i t&ocirc;m s&uacute; c&ograve;n chưa được người d&acirc;n ch&uacute; trọng, việc lạm dụng h&oacute;a chất, kh&aacute;ng sinh v&agrave; thức ăn tươi sống g&acirc;y ảnh hưởng kh&ocirc;ng nhỏ đến chất lượng, gi&aacute; cả đầu ra sản phẩm v&agrave; tạo hiệu ứng kh&ocirc;ng tốt cho người ti&ecirc;u d&ugrave;ng. Một trong những nguy&ecirc;n nh&acirc;n chủ yếu của vấn đề tr&ecirc;n được chỉ ra đ&oacute; l&agrave; do người nu&ocirc;i chưa tiếp cận được qui tr&igrave;nh kỹ thuật nu&ocirc;i bền vững, ổn định m&ocirc;i trường, hạn chế dịch bệnh, đảm bảo an to&agrave;n vệ sinh thực phẩm.</p>
+
+<p>Năm 2018, được sự quan t&acirc;m của Trung t&acirc;m Khuyến n&ocirc;ng Quốc gia, Quảng Ninh đ&atilde; triển khai thực hiện dự &aacute;n &ldquo;X&acirc;y dựng m&ocirc; h&igrave;nh nu&ocirc;i t&ocirc;m s&uacute; b&aacute;n th&acirc;m canh, đảm bảo an to&agrave;n thực phẩm&rdquo; nhằm tạo được những bước chuyển biến t&iacute;ch cực ngay từ v&ugrave;ng sản xuất, tận dụng lợi thế, ph&aacute;t triển bền vững v&agrave; đ&aacute;p ứng y&ecirc;u cầu của thị trường. Để đảm bảo c&aacute;c chỉ ti&ecirc;u kinh tế, kỹ thuật, ngay khi triển khai Trung t&acirc;m Khuyến n&ocirc;ng Quảng Ninh đ&atilde; chủ động phối hợp c&ugrave;ng c&aacute;c đơn vị x&acirc;y dựng bảng ti&ecirc;u ch&iacute; chọn hộ đảm bảo c&aacute;c y&ecirc;u cầu về v&ugrave;ng qui hoạch, c&oacute; vốn đối ứng, khả năng kỹ thuật v&agrave; đặc biệt l&agrave; t&acirc;m huyết với nghề. Qua đ&oacute; đ&atilde; chọn được 5 hộ (3 hộ nu&ocirc;i cao triều, 2 hộ nu&ocirc;i hạ triều) tại thị x&atilde; Quảng Y&ecirc;n đ&aacute;p ứng được c&aacute;c y&ecirc;u cầu để triển khai thực hiện. Trung t&acirc;m Khuyến n&ocirc;ng Quảng Ninh cũng bố tr&iacute; c&aacute;n bộ b&aacute;m s&aacute;t, tổ chức tập huấn kỹ thuật cho 40 hộ nu&ocirc;i trong v&agrave; ngo&agrave;i m&ocirc; h&igrave;nh tr&ecirc;n địa b&agrave;n thị x&atilde;; hướng dẫn lập kế hoạch, quản l&yacute; qu&aacute; tr&igrave;nh nu&ocirc;i theo hướng an to&agrave;n thực phẩm v&agrave; hướng dẫn c&aacute;c hộ ghi ch&eacute;p hồ sơ... Qui tr&igrave;nh kỹ thuật &aacute;p dụng trong m&ocirc; h&igrave;nh từ kh&acirc;u chuẩn bị ao nu&ocirc;i, xử l&yacute; nước đến thả giống lu&ocirc;n được c&aacute;c hộ nu&ocirc;i tu&acirc;n thủ chặt chẽ. T&ocirc;m giống được đặt mua tại cơ sở sản xuất c&oacute; uy t&iacute;n với chứng nhận đ&atilde; được kiểm dịch. Với mật độ thả nu&ocirc;i v&ugrave;ng cao triều 15 con/m2, v&ugrave;ng hạ triều 10 con/m2&nbsp;(tổng lượng giống thả l&agrave; 650.000 con), thức ăn được sử dụng trong m&ocirc; h&igrave;nh l&agrave; thức ăn c&ocirc;ng nghiệp kh&ocirc;ng c&oacute; chứa chất cấm trong th&agrave;nh phần theo qui định của nh&agrave; nước. Qu&aacute; tr&igrave;nh nu&ocirc;i, t&ocirc;m được bổ sung th&ecirc;m vitamin, kho&aacute;ng chất, chế phẩm EM để tăng cường đề kh&aacute;ng, gi&uacute;p t&ocirc;m ph&aacute;t triển tốt.</p>
+
+<p>Sau 5 th&aacute;ng thả nu&ocirc;i cho thấy, t&ocirc;m tại v&ugrave;ng cao triều đạt tỷ lệ sống 62%, k&iacute;ch cỡ thu hoạch trung b&igrave;nh 38,7 con/kg, năng suất đạt 2,39 tấn/ha; t&ocirc;m tại v&ugrave;ng hạ triều đạt tỷ lệ sống 60,5%, k&iacute;ch cỡ thu hoạch trung b&igrave;nh 36 con/kg, năng suất đạt 1,68 tấn/ha cao hơn so với mục ti&ecirc;u đặt ra của dự &aacute;n. Về c&aacute;c ti&ecirc;u ch&iacute; đảm bảo an to&agrave;n thực phẩm, c&aacute;c hộ d&acirc;n đ&atilde; tu&acirc;n thủ theo đ&uacute;ng c&aacute;c qui tr&igrave;nh, qui phạm đề ra; m&ocirc; h&igrave;nh đ&atilde; giảm thiểu được dịch bệnh, hạn chế sử dụng h&oacute;a chất, kh&aacute;ng sinh n&ecirc;n kh&ocirc;ng nhiễm m&ocirc;i trường, tạo ra sản phẩm đảm bảo an to&agrave;n thực phẩm. Sau qu&aacute; tr&igrave;nh nu&ocirc;i, nhận thấy sản phẩm t&ocirc;m từ m&ocirc; h&igrave;nh đ&aacute;p ứng tốt c&aacute;c điều kiện về an to&agrave;n vệ sinh thực phẩm n&ecirc;n nhiều thương l&aacute;i đ&atilde; đặt vấn đề thu mua to&agrave;n bộ sản lượng thu được.</p>
+
+<p>C&oacute; thể n&oacute;i, dự &aacute;n &ldquo;X&acirc;y dựng m&ocirc; h&igrave;nh nu&ocirc;i t&ocirc;m s&uacute; b&aacute;n th&acirc;m canh, đảm bảo an to&agrave;n thực phẩm&rdquo; th&agrave;nh c&ocirc;ng đ&atilde; mở ra một hướng đi mới trong nu&ocirc;i t&ocirc;m nước lợ, hướng tới ph&aacute;t triển bền vững, hạn chế dịch bệnh, tạo sản phẩm sạch, c&oacute; nguồn gốc xuất xứ r&otilde; r&agrave;ng phục vụ ti&ecirc;u d&ugrave;ng v&agrave; xuất khẩu g&oacute;p phần tạo c&ocirc;ng ăn việc l&agrave;m cho người d&acirc;n, th&uacute;c đẩy ph&aacute;t triển kinh tế, x&atilde; hội của tỉnh.</p>

@@ -1,0 +1,106 @@
+<div class="mh-widget-col-1 mh-sidebar-2 mh-home-sidebar-2 mh-sidebar-wide"><div id="google_translate_element"></div>
+<script type="text/javascript">
+	function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'vi', gaTrack: true, gaId: 'UA-102676408-1'}, 'google_translate_element');
+}
+
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+	<br>
+	<div id="mh_magazine_tabbed-2" class="mh-widget mh-home-12 mh_magazine_tabbed">
+		<div class="mh-tabbed-widget">
+			<div class="mh-tab-buttons clearfix">
+				<a class="mh-tab-button" href="index.html#tab-mh_magazine_tabbed-2-1"> <span><i class="fa fa-newspaper-o"></i></span> </a>
+				<a class="mh-tab-button" href="index.html#tab-mh_magazine_tabbed-2-2">
+					<span><i class="fa fa-tags"></i></span> </a>
+				<a class="mh-tab-button" href="index.html#tab-mh_magazine_tabbed-2-3">
+					<span><i class="fa fa-comments-o"></i></span> </a>
+			</div>
+			<div class="zalo-follow-button" data-oaid="2812947324014741585" data-cover="yes" data-article="5" data-width="500" data-height="628"></div>
+<div class="zalo-chat-widget" data-oaid="2812947324014741585" data-welcome-message="Rất vui khi được hỗ trợ bạn!" data-autopopup="0" data-width="350" data-height="420"></div>
+
+<script src="https://sp.zalo.me/plugins/sdk.js"></script>
+		</div>
+	</div>
+	<div id="mh_magazine_nip-2" class="mh-widget mh-home-12 mh_magazine_nip">
+		<h4 class="mh-widget-title"><span class="mh-widget-title-inner">Tin nổi bật</span></h4>
+		<ul class="mh-nip-widget clearfix">
+			{{#each (first (lookupCategory AllCategory 'danh-muc' 'files') 17)}} {{#lt @key 8}} {{else}}
+			<li class="mh-nip-item post-119 post type-post status-publish format-standard has-post-thumbnail category-science tag-iphone tag-science tag-technology">
+				<a class="mh-thumb-icon mh-thumb-icon-small" href="/{{slug}}" title="{{title}}"> <img width="112" height="92" src="{{Anhtieude}}" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
+						alt="{{title}}" srcset="{{Anhtieude}} 80w, {{Anhtieude}} 678w, {{Anhtieude}} 326w" sizes="(max-width: 80px) 120vw, 100px"
+					/>
+					<div class="mh-nip-overlay"></div>
+				</a>
+			</li>
+			{{/lt}} {{/each}}
+		</ul>
+	</div>
+	<div id="mh_magazine_custom_posts-5" class="mh-widget mh-home-3 mh_magazine_custom_posts">
+		<h4 class="mh-widget-title">
+			<span class="mh-widget-title-inner">
+        <!--BAO: su dung bien 'ky-thuat.nuoi-tom' khai bao trong /Meta -->
+        {{#with (lookupCategory AllCategory 'category')}}
+            <a href="/{{href}}" class="mh-widget-title-link">English</a>
+        {{/with}}
+        </span>
+		</h4>
+		<ul class="mh-custom-posts-widget clearfix">
+			<!--BAO:  thay the bang (lookupCategory AllCategory 'ky-thuat.nuoi-tom' 'files') -->
+			{{#each (first (lookupCategory AllCategory 'category' 'files') 3)}} {{#lt @key 1}}
+			<!-- BAO: Hien thi bai viet dau tien -->
+			<li class="mh-custom-posts-item mh-custom-posts-large clearfix post-22 post type-post status-publish format-standard has-post-thumbnail category-world-news tag-news tag-soldiers tag-training">
+				<div class="mh-custom-posts-large-inner clearfix">
+					<figure class="mh-custom-posts-thumb-xl">
+						<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="{{slug}}" title="{{title}}"><img width="326" height="245" src="{{Anhtieude}}" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+								alt="thuysan247" srcset="{{Anhtieude}} 326w, {{Anhtieude}} 678w, {{Anhtieude}} 80w" sizes="(max-width: 326px) 100vw, 326px"
+							/> </a>
+					</figure>
+					<div class="mh-custom-posts-content">
+						<div class="mh-custom-posts-header">
+							<h3 class="mh-custom-posts-xl-title">
+								<a href="/{{slug}}" title="{{title}}">
+									{{title}} </a>
+							</h3>
+							<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/{{slug}}">{{moment date lang="vi" format="DD MM YYYY"}}</a></span>
+							</div>
+						</div>
+						<div class="mh-excerpt">{{doangioithieu}}
+							<a class="mh-excerpt-more" href="/{{slug}}" title="{{title}}">[...]</a>
+						</div>
+					</div>
+				</div>
+			</li>
+			{{else}}
+			<!-- BAO: Hien 2 thi bai viet tiep theo trong first 3 -->
+			<li class="mh-custom-posts-item mh-custom-posts-large clearfix post-22 post type-post status-publish format-standard has-post-thumbnail category-world-news tag-news tag-soldiers tag-training">
+				<div class="mh-custom-posts-large-inner clearfix">
+					<figure class="mh-custom-posts-thumb-xl">
+						<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="{{slug}}" title="{{title}}"><img width="326" height="245" src="{{Anhtieude}}" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+								alt="thuysan247" srcset="{{Anhtieude}} 326w, {{Anhtieude}} 678w, {{Anhtieude}} 80w" sizes="(max-width: 326px) 100vw, 326px"
+							/> </a>
+					</figure>
+					<div class="mh-custom-posts-content">
+						<div class="mh-custom-posts-header">
+							<h3 class="mh-custom-posts-xl-title">
+								<a href="/{{slug}}" title="{{title}}">
+									{{title}} </a>
+							</h3>
+							<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/{{slug}}">{{moment date lang="vi" format="DD MM YYYY"}}</a></span>
+							</div>
+						</div>
+						<div class="mh-excerpt">{{doangioithieu}}
+							<a class="mh-excerpt-more" href="/{{slug}}" title="{{title}}">[...]</a>
+						</div>
+					</div>
+				</div>
+			</li>
+			{{/lt}} {{/each}}
+
+		</ul>
+		{{> advcolum3-1 }}
+        
+    <div id="mh_magazine_youtube-2" class="mh-widget mh_magazine_youtube"><h4 class="mh-widget-title"><span class="mh-widget-title-inner"><i class="fa fa-youtube-play"></i>Featured Video</span></h4><div class="mh-video-widget"><div class="mh-video-container"> <iframe width="854" height="480" src="https://www.youtube.com/embed/QDnoGkbcbe0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </div></div></div>
+	{{> advcolum2 }}
+    </div>

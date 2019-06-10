@@ -1,0 +1,14 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": {
+        "tieu-de": "All information about all kindly fish",
+        "mo-ta": ""
+    },
+    "displayName": "Fish",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "category.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

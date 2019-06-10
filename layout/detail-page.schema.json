@@ -1,0 +1,198 @@
+{
+    "_$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "title": {
+            "title": "Title web",
+            "description": "",
+            "default": "",
+            "format": "text",
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
+            "propertyOrder": 0,
+            "minLength": 0,
+            "maxLength": 140,
+            "options": {
+                "hidden": false
+            },
+            "type": "string"
+        },
+        "slug": {
+            "title": "Link",
+            "description": "",
+            "default": "",
+            "format": "text",
+            "required": false,
+            "readOnly": true,
+            "pattern": "",
+            "propertyOrder": 2,
+            "minLength": 0,
+            "maxLength": 140,
+            "options": {
+                "hidden": false
+            },
+            "type": "string"
+        },
+        "layout": {
+            "type": "string",
+            "propertyOrder": 3,
+            "options": {
+                "hidden": true
+            }
+        },
+        "category": {
+            "type": "string",
+            "propertyOrder": 4,
+            "options": {
+                "hidden": false
+            }
+        },
+        "tag": {
+            "type": "array",
+            "format": "checkbox",
+            "propertyOrder": 5,
+            "uniqueItems": true,
+            "items": {
+                "type": "string",
+                "enum": []
+            }
+        },
+        "date": {
+            "title": "Ngày đăng",
+            "description": "",
+            "default": "",
+            "format": "date",
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
+            "propertyOrder": 6,
+            "minLength": 0,
+            "maxLength": 140,
+            "options": {
+                "hidden": false
+            },
+            "type": "string"
+        },
+        "__content__": {
+            "title": "Nội dung",
+            "description": "",
+            "default": "",
+            "format": "text",
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
+            "propertyOrder": 11,
+            "minLength": 0,
+            "maxLength": 140,
+            "options": {
+                "hidden": false
+            },
+            "type": "string"
+        },
+        "publishDate": {
+            "title": "Hẹn giờ đăng",
+            "description": "",
+            "default": "",
+            "format": "datetime",
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
+            "propertyOrder": 12,
+            "minLength": 0,
+            "maxLength": 140,
+            "options": {
+                "hidden": false
+            },
+            "type": "string"
+        },
+        "draft": {
+            "type": "boolean",
+            "format": "checkbox",
+            "propertyOrder": 13,
+            "options": {
+                "hidden": true
+            }
+        },
+        "Anhtieude": {
+            "title": "Ảnh tieu đề",
+            "description": "",
+            "default": "",
+            "format": "upload",
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
+            "propertyOrder": 7,
+            "minLength": 0,
+            "maxLength": 140,
+            "options": {
+                "hidden": false
+            },
+            "type": "string"
+        },
+        "trichdan": {
+            "title": "Nguồn",
+            "description": "",
+            "default": "",
+            "format": "text",
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
+            "propertyOrder": 10,
+            "minLength": 0,
+            "maxLength": 140,
+            "options": {
+                "hidden": false
+            },
+            "type": "string"
+        },
+        "tacgia": {
+            "title": "Tác giả",
+            "description": "",
+            "default": "",
+            "format": "text",
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
+            "propertyOrder": 8,
+            "minLength": 0,
+            "maxLength": 140,
+            "options": {
+                "hidden": true
+            },
+            "type": "string"
+        },
+        "doangioithieu": {
+            "title": "Đoạn giới thiệu",
+            "description": "",
+            "default": "",
+            "format": "text",
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
+            "propertyOrder": 9,
+            "minLength": 0,
+            "maxLength": 1400,
+            "options": {
+                "hidden": false
+            },
+            "type": "string"
+        },
+        "tieude": {
+            "title": "Tiêu đề",
+            "description": "",
+            "default": "",
+            "format": "text",
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
+            "propertyOrder": 1,
+            "minLength": 0,
+            "maxLength": 1400,
+            "options": {
+                "hidden": false
+            },
+            "type": "string"
+        }
+    }
+}

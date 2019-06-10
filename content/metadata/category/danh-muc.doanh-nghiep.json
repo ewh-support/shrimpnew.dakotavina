@@ -1,0 +1,14 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": {
+        "tieu-de": "Tổng hợp thông tin doanh nghiệp",
+        "mo-ta": "Tin tức, mua bán, giá cả ..."
+    },
+    "displayName": "Doanh Nghiệp",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "tintuc.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

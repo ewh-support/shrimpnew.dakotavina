@@ -1,0 +1,28 @@
+---json
+{
+    "title": "Tăng cường quản lý nghề cá ven bờ",
+    "slug": "tang-cuong-quan-ly-nghe-ca-ven-bo",
+    "layout": "noidung.html",
+    "category": "danh-muc.tin-tuc",
+    "tag": [
+        "tin-tuc"
+    ],
+    "date": "2019-04-08T17:00:00.000Z",
+    "draft": false,
+    "tieude": "",
+    "doan gioi thieu": "",
+    "doangioithieu": "Để bảo vệ nguồn lợi thủy sản, thời gian qua, các ngành có liên quan của tỉnh và các địa phương đã tăng cường quản lý, kiểm tra, kiểm soát, giám sát hoạt động khai thác thủy sản vùng ven bờ.",
+    "doan2vach": "",
+    "noidung": "",
+    "trichdan": "thuysanvietnam.com.vn",
+    "Anhtieude": "/img/01 2.jpg",
+    "tacgia": "Lê Tuyến",
+    "chuthichhinh": "Ảnh minh họa",
+    "__content__": ""
+}
+---
+<p>To&agrave;n tỉnh hiện c&oacute; 3.580 t&agrave;u c&aacute; c&oacute; c&ocirc;ng suất dưới 20 CV được ph&acirc;n cấp cho UBND c&aacute;c huyện, th&agrave;nh phố ven biển quản l&yacute;. Phần lớn c&aacute;c t&agrave;u c&ocirc;ng suất nhỏ khai th&aacute;c ven bờ, c&ocirc;ng nghệ v&agrave; phương ph&aacute;p khai th&aacute;c lạc hậu, chủ yếu dựa v&agrave;o kinh nghiệm... Thậm ch&iacute;, vẫn c&oacute; trường hợp khai th&aacute;c hải sản bằng c&aacute;ch sử dụng xung điện, lưới c&oacute; k&iacute;ch cỡ mắt nhỏ hủy diệt c&aacute;c lo&agrave;i thủy sản, nhất l&agrave; v&agrave;o m&ugrave;a sinh sản, ph&aacute; vỡ c&acirc;n bằng hệ sinh th&aacute;i. Tr&ecirc;n một số tuyến s&ocirc;ng vẫn c&ograve;n t&igrave;nh trạng người d&acirc;n l&agrave;m đăng, đ&oacute; khai th&aacute;c thủy sản. Nhận thức của ngư d&acirc;n về c&ocirc;ng t&aacute;c bảo vệ nguồn lợi thủy sản chưa cao, t&igrave;nh trạng vi phạm c&aacute;c quy định trong khai th&aacute;c c&ograve;n gia tăng dưới nhiều h&igrave;nh thức, l&agrave;m suy giảm nguồn lợi thủy sản. Một số chủ t&agrave;u c&aacute; chưa thực hiện nghi&ecirc;m c&aacute;c quy định về trang bị an to&agrave;n cho người v&agrave; t&agrave;u c&aacute;, như: Thiếu phao cứu sinh, thiếu m&aacute;y th&ocirc;ng tin li&ecirc;n lạc, kh&ocirc;ng b&aacute;o c&aacute;o vị tr&iacute; v&agrave; v&ugrave;ng hoạt động của t&agrave;u với c&aacute;c cơ quan quản l&yacute;...</p>
+
+<p>Trước thực trạng tr&ecirc;n, thực hiện &ldquo;Th&aacute;ng h&agrave;nh động bảo vệ nguồn lợi thủy sản v&ugrave;ng ven biển tỉnh Thanh H&oacute;a&rdquo; năm 2019, Chi cục Khai th&aacute;c v&agrave; Bảo vệ nguồn lợi thủy sản đ&atilde; phối hợp với c&aacute;c lực lượng c&oacute; li&ecirc;n quan của tỉnh v&agrave; UBND c&aacute;c huyện, th&agrave;nh phố ven biển tổ chức tuần tra, kiểm so&aacute;t hoạt động khai th&aacute;c hải sản của ngư d&acirc;n tại c&aacute;c khu vực cửa s&ocirc;ng, v&ugrave;ng ven biển v&agrave; việc chấp h&agrave;nh c&aacute;c quy định ph&aacute;p luật của ngư d&acirc;n trong khai th&aacute;c hải sản. Ph&aacute;t hiện, ngăn chặn xử l&yacute; nhiều vụ vi phạm với c&aacute;c h&igrave;nh thức sử dụng ngư cụ cấm, nghề cấm, chất nổ, xung điện để khai th&aacute;c thủy, hải sản, khai th&aacute;c sai v&ugrave;ng. X&acirc;y dựng c&aacute;c chương tr&igrave;nh, dự &aacute;n chuyển đổi nghề cho ngư d&acirc;n khai th&aacute;c thủy, hải sản ven bờ. Tổ chức tập huấn, tuy&ecirc;n truyền cho ngư d&acirc;n về Danh mục khu vực cấm khai th&aacute;c thủy sản c&oacute; thời hạn trong năm theo Th&ocirc;ng tư số 89/2011/TT-BNNPTNT ng&agrave;y 29-12-2011 của Bộ N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển n&ocirc;ng th&ocirc;n. Tổ chức ph&aacute;t sổ nhật k&yacute; khai th&aacute;c cho tất cả c&aacute;c t&agrave;u c&aacute; c&oacute; c&ocirc;ng suất từ 90CV trở l&ecirc;n; cử c&aacute;n bộ trực tiếp xuống c&aacute;c cảng c&aacute;, bến c&aacute;, khu neo đậu t&agrave;u, thuyền hướng dẫn cho ngư d&acirc;n c&aacute;ch ghi nhật k&yacute; khai th&aacute;c. Tăng cường trang bị về phương tiện v&agrave; con người cho lực lượng thanh tra chuy&ecirc;n ng&agrave;nh bảo vệ nguồn lợi thủy sản nhằm đ&aacute;p ứng nhu cầu của nhiệm vụ. Ngo&agrave;i ra, tổ chức tuy&ecirc;n truyền, phổ biến tr&ecirc;n hệ thống loa truyền thanh, tranh cổ động, khẩu hiệu, ph&aacute;t tờ rơi... nhằm n&acirc;ng cao nhận thức cho c&aacute;n bộ v&agrave; ngư d&acirc;n c&aacute;c quy định của ph&aacute;p luật về khai th&aacute;c, bảo vệ nguồn lợi thủy sản v&agrave; an to&agrave;n t&agrave;u c&aacute;. Tập trung n&ecirc;u r&otilde; t&aacute;c hại của việc sử dụng chất nổ, chất độc, xung điện để khai th&aacute;c thủy sản, qua đ&oacute; vận động nh&acirc;n d&acirc;n tự nguyện k&yacute; cam kết kh&ocirc;ng vi phạm c&aacute;c quy định về bảo vệ nguồn lợi thủy sản.</p>
+
+<p>Theo Chi cục Khai th&aacute;c v&agrave; Bảo vệ nguồn lợi thủy sản, triển khai kế hoạch thực hiện &ldquo;Th&aacute;ng h&agrave;nh động bảo vệ nguồn lợi thủy sản v&ugrave;ng ven biển tỉnh Thanh H&oacute;a&rdquo; năm 2019 (từ ng&agrave;y 15-3 đến 15-5-2019) phấn đấu 100% c&aacute;n bộ quản l&yacute; thủy sản, 60% ngư d&acirc;n của c&aacute;c x&atilde; nghề c&aacute; tại c&aacute;c huyện, th&agrave;nh phố ven biển được phổ biến nội dung của Luật Thủy sản v&agrave; c&aacute;c văn bản hướng dẫn trong lĩnh vực khai th&aacute;c v&agrave; bảo vệ nguồn lợi thủy sản. Giảm 70% số vụ vi phạm về xung k&iacute;ch điện để khai th&aacute;c thủy sản; giảm 80% t&agrave;u c&aacute; l&agrave;m nghề lưới k&eacute;o khai th&aacute;c thủy sản vi phạm về v&ugrave;ng khai th&aacute;c, c&aacute;c quy định trong thời gian tổ chức thực hiện th&aacute;ng h&agrave;nh động. Ngăn chặn hiệu quả c&aacute;c hoạt động khai th&aacute;c vi phạm tại v&ugrave;ng biển ven bờ, h&agrave;nh vi khai th&aacute;c hải sản bất hợp ph&aacute;p, kh&ocirc;ng b&aacute;o c&aacute;o v&agrave; kh&ocirc;ng theo quy định trong thời gian thực hiện th&aacute;ng h&agrave;nh động.</p>

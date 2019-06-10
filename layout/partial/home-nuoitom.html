@@ -1,0 +1,111 @@
+<div id="mh_magazine_custom_posts-4" class="mh-widget mh-home-3 mh_magazine_custom_posts">
+	<h4 class="mh-widget-title">
+    <span class="mh-widget-title-inner">
+        <!--BAO: su dung bien 'ky-thuat.nuoi-tom' khai bao trong /Meta -->
+        {{#with (lookupCategory AllCategory 'danh-muc.ky-thuat.nuoi-tom')}}
+            <a href="/{{href}}" class="mh-widget-title-link">{{displayName}}</a>
+        {{/with}}
+        </span>
+    </h4>
+	<ul class="mh-custom-posts-widget clearfix">
+        <!--BAO:  thay the bang (lookupCategory AllCategory 'ky-thuat.nuoi-tom' 'files') -->
+		{{#each (first (lookupCategory AllCategory 'danh-muc.ky-thuat.nuoi-tom' 'files') 5)}}
+        {{#lt @key 1}} <!-- BAO: Hien thi bai viet dau tien -->
+        <li class="mh-custom-posts-item mh-custom-posts-large clearfix post-22 post type-post status-publish format-standard has-post-thumbnail category-world-news tag-news tag-soldiers tag-training">
+			<div class="mh-custom-posts-large-inner clearfix">
+				<figure class="mh-custom-posts-thumb-xl">
+					<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="{{slug}}" title="{{title}}"><img width="326" height="245" src="{{Anhtieude}}" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+							alt="thuysan247" srcset="{{Anhtieude}} 326w, {{Anhtieude}} 678w, {{Anhtieude}} 80w" sizes="(max-width: 326px) 100vw, 326px"
+						/> </a>
+				</figure>
+				<div class="mh-custom-posts-content">
+					<div class="mh-custom-posts-header">
+						<h3 class="mh-custom-posts-xl-title">
+							<a href="/{{slug}}" title="{{title}}">
+								{{title}} </a>
+						</h3>
+						<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/{{slug}}">{{moment date lang="vi" format="DD MM YYYY"}}</a></span>							
+                        </div>
+					</div>
+					<div class="mh-excerpt">{{doangioithieu}}
+						<a class="mh-excerpt-more" href="/{{slug}}" title="{{title}}">[...]</a>
+					</div>
+				</div>
+			</div>
+		</li>
+        {{else}} <!-- BAO: Hien 2 thi bai viet tiep theo trong first 3 -->
+		<li class="mh-custom-posts-item mh-custom-posts-small clearfix post-58 post type-post status-publish format-standard has-post-thumbnail category-sport tag-freestyle tag-lifestyle tag-sport">
+			<figure class="mh-custom-posts-thumb">
+				<a class="mh-thumb-icon mh-thumb-icon-small" href="/{{slug}}" title="{{title}}"><img width="80" height="60" src="{{Anhtieude}}" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
+						alt="thuysan247" srcset="{{Anhtieude}} 80w, {{Anhtieude}} 300w, {{Anhtieude}} 768w, {{Anhtieude}} 1024w, {{Anhtieude}} 678w, {{Anhtieude}} 326w, {{Anhtieude}} 1280w"
+						sizes="(max-width: 80px) 100vw, 80px" /> </a>
+			</figure>
+			<div class="mh-custom-posts-header">
+				<div class="mh-custom-posts-small-title">
+					<a href="/{{slug}}" title="{{title}}">
+						{{title}} </a>
+				</div>
+				<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/{{slug}}">{{moment date lang="vi" format="DD MM YYYY"}}</a></span>					
+                </div>
+			</div>
+		</li>
+		{{/lt}} {{/each}} 
+        
+	</ul>
+</div>
+{{> advcolum1-2 }}
+<div id="mh_magazine_custom_posts-5" class="mh-widget mh-home-3 mh_magazine_custom_posts">
+	<h4 class="mh-widget-title">
+    <span class="mh-widget-title-inner">
+        <!--BAO: su dung bien 'ky-thuat.nuoi-tom' khai bao trong /Meta -->
+        {{#with (lookupCategory AllCategory 'danh-muc.ky-thuat.trai-giong')}}
+            <a href="/{{href}}" class="mh-widget-title-link">{{displayName}}</a>
+        {{/with}}
+        </span>
+    </h4>
+	<ul class="mh-custom-posts-widget clearfix">
+        <!--BAO:  thay the bang (lookupCategory AllCategory 'ky-thuat.nuoi-tom' 'files') -->
+		{{#each (first (lookupCategory AllCategory 'danh-muc.ky-thuat.trai-giong' 'files') 5)}}
+        {{#lt @key 1}} <!-- BAO: Hien thi bai viet dau tien -->
+        <li class="mh-custom-posts-item mh-custom-posts-large clearfix post-22 post type-post status-publish format-standard has-post-thumbnail category-world-news tag-news tag-soldiers tag-training">
+			<div class="mh-custom-posts-large-inner clearfix">
+				<figure class="mh-custom-posts-thumb-xl">
+					<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="{{slug}}" title="{{title}}"><img width="326" height="245" src="{{Anhtieude}}" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image"
+							alt="thuysan247" srcset="{{Anhtieude}} 326w, {{Anhtieude}} 678w, {{Anhtieude}} 80w" sizes="(max-width: 326px) 100vw, 326px"
+						/> </a>
+				</figure>
+				<div class="mh-custom-posts-content">
+					<div class="mh-custom-posts-header">
+						<h3 class="mh-custom-posts-xl-title">
+							<a href="/{{slug}}" title="{{title}}">
+								{{title}} </a>
+						</h3>
+						<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/{{slug}}">{{moment date lang="vi" format="DD MM YYYY"}}</a></span>							
+                        </div>
+					</div>
+					<div class="mh-excerpt">{{doangioithieu}}
+						<a class="mh-excerpt-more" href="/{{slug}}" title="{{title}}">[...]</a>
+					</div>
+				</div>
+			</div>
+		</li>
+        {{else}} <!-- BAO: Hien 2 thi bai viet tiep theo trong first 3 -->
+		<li class="mh-custom-posts-item mh-custom-posts-small clearfix post-58 post type-post status-publish format-standard has-post-thumbnail category-sport tag-freestyle tag-lifestyle tag-sport">
+			<figure class="mh-custom-posts-thumb">
+				<a class="mh-thumb-icon mh-thumb-icon-small" href="/{{slug}}" title="{{title}}"><img width="80" height="60" src="{{Anhtieude}}" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image"
+						alt="thuysan247" srcset="{{Anhtieude}} 80w, {{Anhtieude}} 300w, {{Anhtieude}} 768w, {{Anhtieude}} 1024w, {{Anhtieude}} 678w, {{Anhtieude}} 326w, {{Anhtieude}} 1280w"
+						sizes="(max-width: 80px) 100vw, 80px" /> </a>
+			</figure>
+			<div class="mh-custom-posts-header">
+				<div class="mh-custom-posts-small-title">
+					<a href="/{{slug}}" title="{{title}}">
+						{{title}} </a>
+				</div>
+				<div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="/{{slug}}">{{moment date lang="vi" format="DD MM YYYY"}}</a></span>					
+                </div>
+			</div>
+		</li>
+		{{/lt}} {{/each}} 
+        
+	</ul>
+</div>

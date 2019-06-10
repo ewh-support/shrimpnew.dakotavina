@@ -1,0 +1,14 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": {
+        "tieu-de": "Updated news, price ... about aquaculture",
+        "mo-ta": ""
+    },
+    "displayName": "News",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "category.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}
